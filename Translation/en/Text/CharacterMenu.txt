@@ -1,0 +1,6 @@
+キャラ保存と削除=Save/Delete Character
+キャラ読込み=Load Character
+衣装の保存と削除=Save/Delete Clothing
+衣装読込み=Load Clothing
+融合対象を選択=Select Fusion Target
+キャラのカード化!=Character Card Maker!
