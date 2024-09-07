@@ -1,0 +1,430 @@
+
+確認操作ウィンドウ=Confirmation Operation Window
+確認操作=Confirmatory operation
+注視点の表示・非表示=Show/hide gazing point
+操作\nパネル=Operation
+表情切替=Switching facial expressions
+一つ戻る=One back.
+コーデタイプ=Clothing Type
+キャラクター名=Character name
+やり直し=Redoing
+表現方法ウィンドウ=Expressions Window
+「私服」編集中=Personal Clothing
+キャラクリエイトを終了しますか？=Do you want to exit character creation?
+終了確認=End Confirmation
+編集前に戻す=Revert Edits
+決定=Accept
+※実行すると未保存のデータは失われます。=Unsaved data will be lost if *executed.
+やめる=leave (one's job, etc.)
+
+「役職服」編集中=Editing "Position Clothing"
+「水着」編集中=Swimsuit" is being edited.
+ぼかし影=gradient shadow
+なめらか影=smooth shadow
+くっきり影=sharp relief shadow
+ポーズ=Pose
+首の向き=Head Direction
+カメラ=At Camera
+正面=Straight
+視線の向き=Gaze Direction
+ポーズ切替=Pose Switching
+ライト調整=Light Adjustment
+全裸=Naked
+靴=Shoes
+自動=Auto
+パンスト=Pantyhose
+着衣=Clothed
+衣装の状態=Costume Condition
+アクセサリー=Accessory
+表示切り替え=display switching
+インナー=inner
+単色=Static
+画像=Image
+背景切替=background switching
+
+
+
+
+
+//Face
+種類=Type
+輪郭の詳細=Contour Detail
+色=Color
+眉の詳細=Eyebrow Detail
+目の上下=Eye Vertical Position
+目の横位置=Eye Spacing
+目の前後=Eye Depth
+目の角度=Eye Rotation
+目の縦幅=Eye Height
+目の横幅=Eye Width
+目の変形の詳細=Eye Deformation Details
+まつ毛の詳細=Eyelash Detail
+瞳の種類=Eye Type
+瞳の詳細=Eye Detail
+ハイライト=Highlights
+瞳グラデ=eye gradient
+瞳孔の種類=Pupil type
+瞳の左右位置=Iris Spacing
+瞳の上下位置=Iris Vertical Position
+瞳の幅=Iris Width
+瞳の高さ=Iris Height
+鼻の詳細=Nose Detail
+鼻先の高さ=Nose Tip Height
+鼻の上下=Nose Vertical Position
+鼻筋の高さ=Nose Ridge Height
+チークの詳細=Teak Details
+
+ハイライトカラー=highlight color
+チークの大きさ=Teak size
+チークの回転=Cheek Rotation
+チークの縦の位置=Vertical position of blush
+チークの横の位置=Horizontal position of the cheek
+顔全体の横幅=Face Width
+顔の上部前後=Upper Face Depth
+顔の上部上下=Upper Face Height
+顔の上部サイズ=Upper Face Size
+顔の下部前後=Lower Face Depth
+顔の下部横幅=Lower Face Width
+顎の下部上下=Lower Jaw Vertical Position
+顎の下部奥行=Lower Jaw Depth
+顎の上下=Jaw Vertical Position
+顎の幅=Jaw Width
+顎の前後=Jaw Depth
+顎の先上下=Chin Tip
+顎の先前後=Chin Depth
+顎の先幅=Chin Width
+頬骨の幅=Cheekbone Width
+頬骨の前後=Cheekbone Depth
+頬の幅=Cheek Width
+頬の前後=Cheek Depth
+頬の上下=Cheek Vertical Position
+眉の上下=Eyebrow Vertical Position
+眉の横位置=Eyebrow Spacing
+眉の角度=Eyebrow Angle
+眉の内側形状=Inner Eyebrow Shape
+眉の外側形状=Outer Eyebrow Shape
+上まぶたの形状１=Upper Eyelid Shape 1
+上まぶたの形状２=Upper Eyelid Shape 2
+上まぶたの形状３=Upper Eyelid Shape 3
+下まぶたの形状１=Lower Eyelid Shape 1
+下まぶたの形状２=Lower Eyelid Shape 2
+下まぶたの形状３=Lower Eyelid Shape 3
+口の上下=Mouth Vertical Position
+口の横幅=Mouth Width
+口の前後=Mouth Depth
+口の形状上=Upper Lip Depth
+口の形状下=Lower Lip Depth
+耳のサイズ=Ear Size
+耳の角度Y軸=Ear Angle Y Axis
+耳の角度Z軸=Ear Angle Z Axis
+耳の上部形状=Ear Upper Shape
+耳の下部形状=Ear Lower Shape
+口の形状口角上下=Shape of mouth Upper and lower corners of mouth
+口の形状口角角度=Mouth Shape Mouth Angle
+眉の縦幅=Brow length and width
+眉の横幅=Brow width
+変形まとめ(顔)=Deformation summary (face)
+
+
+// Body
+
+
+身体全般の詳細=Details of the body in general
+眉の種類=Eyebrow Type
+タイプ１=Type 1
+タイプ1=Type 1
+タイプ３=Type 3
+脚縦横幅=Leg length and width
+腕縦横幅=Arm length and width
+下腹部縦幅=Lower abdomen lengthwise width
+下腹部横幅=Lower abdominal width
+胴体縦幅=Body length
+胴体横幅=Body width
+簡易操作の詳細=Simplified Operation Details
+胸のサイズ=Breast Size
+胸の上下位置=Breast Vertical Position
+胸の左右開き=Breast Spacing
+胸の左右位置=Breast Horizontal Position
+胸の上下角度=Breast Vertical Angle
+胸の尖り=Breast Depth
+胸の形状=Breast Roundness
+胸の重さ=Breast Weight
+胴体肩周りの幅=Shoulder Width
+胴体肩周りの奥=Shoulder Thickness
+胴体上の幅=Upper Torso Width
+胴体上の奥=Upper Torso Thickness
+胴体下の幅=Lower Torso Width
+胴体下の奥=Lower Torso Thickness
+手と指の太さ=Hand and finger thickness
+手首のサイズ=Wrist Size
+前腕のサイズ=Forearm Size
+ヒジのサイズ=Elbow size
+上腕のサイズ=Upper arm size
+肩のサイズ=Shoulder Size
+肩の幅=Shoulder width
+首のサイズ=Neck Size
+胸の先端の柔らかさ=Softness of the tip of the breast
+胸の根本の柔らかさ=Softness of the root of the breast
+胸の根本の角度=Angle of the root of the chest
+上半身の詳細=Upper Body Detail
+タイプ７=Type 7
+乳首の詳細=Nipple Details
+乳輪の膨らみ=Areola Depth
+乳首の太さ=Nipple Thickness
+乳首立ち=Nipple Depth
+乳輪の大きさ=Areola Size
+腰上の幅=Waist Width
+腰上の奥=Waist Thickness
+腰下の幅=Hip Width
+腰下の奥=Hip Thickness
+尻のサイズ=Butt Size
+足首のサイズ=Ankle Size
+ふくらはぎのサイズ=Calf Size
+ヒザのサイズ=Knee size
+太もも下のサイズ=Lower Thigh Size
+太もも上のサイズ=Upper Thigh Size
+尻の上下角度=Vertical angle of buttocks
+腹部のサイズ=Abdomen Size
+ウエストの上下位置=Vertical position of waist
+下半身の詳細=Lower Body Detail
+横長=Broad
+四角=Rectangular
+小三角=Small Triangle
+陰毛の詳細=Pubic hair details
+メインカラー=Main Color
+サブカラー=Sub Color
+色合い=Hue
+鮮やかさ=Saturation
+肌メインカラー=Skin Main Color
+シャドウカラー=shadow color
+肉感の詳細=Details of flesh feeling
+普通=Average
+肉感の強さ=Skin Type Strength
+明るさ=brightness
+日焼け跡の詳細=Details of sunburn scars
+タイプ２=Type 2
+
+
+変形まとめ(身体)=Transformation Summary (Body)
+
+// Hair
+
+ストレートボブ=straight bob
+$の詳細=Details of $.
+$の設定=Setup of $.
+ストレートボブ=straight bob
+$の詳細=Details of $.
+$の設定=Setup of $.
+インナーカラー=inner collar
+メッシュカラー=mesh collar
+アウトラインカラー=outline color
+サブカラー02=Subcolor 02
+サブカラー01=Subcolor 01
+
+操作軸(個別)=Operating axis (individual)
+Bangsの詳細=More about Bangs
+Bangsの設定=Bangs Settings
+右分けアシンメトリ=right-split asymmetry
+Extensionの詳細=Extension Details
+Extensionの設定=Extension Settings
+帯1=Obi1
+ハイライトの詳細=Highlight Details
+現在の髪型をコーデ全てに適応します。=Adapt the current hairstyle to all of the codecs.
+髪型の一括登録=Batch registration of hairstyles
+
+// OutFit
+Tシャツ=T-shirt
+Topの詳細=Top Details
+Topの設定=Top Settings
+Bottomの詳細=More about Bottom
+Bottomの設定=Setting up Bottomom
+ショートデニム=short denim
+ショートパンツ=Short Pants
+ロールアップパンツ=roll-up pants
+タイトスカート=Tight Skirt
+ミニタイトスカート=Tight Miniskirt
+ボウロングスカート=bow long skirt
+フリルプリーツスカート=frill-pleated skirt
+フレアスカート=flared skirt
+七分丈パンツ=three-quarter length pants
+パンツ=pants
+ジーパン=dungarees
+へそ出しショートデニム=Navel-baring short denim
+フリルショートパンツ=Frilled shorts
+袴=man's formal divided skirt
+ボックスプリーツ=box pleat
+ジッパー半開きデニム=Zipper Half Open Denim
+プリーツスカート=pleated skirt
+スポーツショートパンツ=sports shorts
+袴(長丈)=Hakama (long length)
+チアリーダースカート=cheerleader skirt
+警備ボトムス=Security Bottoms
+スリムジャージパンツ=Slim Jersey Pants
+ジャージパンツ=jersey pants
+Inner Layer (Top)の詳細=Detail of Inner Layer (Top)
+Inner Layer (Top)の設定=Inner Layer (Top) Settings
+バニースーツ=Bunny Suit
+プリティレースブラ=Pretty Lace Bra
+プリティレースショーツ=Pretty Lace Panties
+Inner Layer (Bottom)の詳細=Details of Inner Layer (Bottom)
+Inner Layer (Bottom)の設定=Inner Layer (Bottom) settings
+Glovesの詳細=More about Gloves
+Glovesの設定=Configure Gloves
+Stockingsの詳細=More about Stockings
+Stockingsの設定=Stockings Settings
+ソックス=socks
+Socksの詳細=Socks Details
+Socksの設定=Socks Configuration
+ランニングシューズ=Running Shoes
+Shoesの詳細=Shoes Details
+Shoesの設定=Shoes Setup
+
+
+// Accessories
+
+01の設定=Setting 01
+髪=Hair
+頭=Head
+顔=Face
+首=Neck
+胴=Torso
+腰=Hips
+脚=Legs
+腕=Arms
+手=Hands
+下腹部=abdomen
+親=Parent
+アクセサリー(髪)の詳細=Accessories (hair) details
+ヘアクリップ=hair clip
+
+//Quick creation
+
+プリセット=Presets
+他作=another work
+自作=one's own work
+甘露寺 蜜璃=nipplefruit (Solanum mammosum)簡易作成で構成されたデータを使用しますか？=Do you want to use data composed by simplified creation?
+簡易作成を終了=End of simple creation
+薄い=Wispy
+私服・ライトトーン=Private Clothes, Light Tone
+自由=freedom
+
+平均=average
+ナチュラル=natural
+普通の輪郭=Normal contour
+
+//Outfit Duplication
+
+プリセット=Presets
+他作=another work
+自作=one's own work
+甘露寺 蜜璃=nipplefruit (Solanum mammosum)簡易作成で構成されたデータを使用しますか？=Do you want to use data composed by simplified creation?
+簡易作成を終了=End of simple creation
+薄い=Wispy
+私服・ライトトーン=Private Clothes, Light Tone
+自由=freedom
+
+平均=average
+ナチュラル=natural
+普通の輪郭=Normal contour
+私服=Casual Clothes
+タイプ4=Type 4
+タイプ５=Type 5
+コーデコピー (Face Makeup)=Codec Copy (Face Makeup)
+コーデコピー (Body Makeup)=Codec Copy (Body Makeup)
+雷2=Lightning 2
+旧かなエクステ=former Kana XT
+旧エリスサイド=Former Ellis Side
+サイドロング改サイド無し=Side Long Revised No Side
+耳掛けショート=short hair tied over the ears
+コーデコピー (H$)=Cord copy (H$)
+襟付きパンプス=Collared pumps
+ニーハイソックス=knee-high socks
+パンストソックス=panty hose
+ショートグローブ=short glove
+レザーTバック=Leather thong
+ハートニップレス=heart nipples
+ラインプリーツメイド=line-pleated maid
+コンシェルジュトップス=Concierge tops
+コーデコピー (Outfit)=Codecopy (Outfit)
+ロングハーフアップベース=Long Half Up Base
+KKスカーフ=KK Scarf
+KKブローチ=KK Brooch
+フリルタイ=frill tie
+エクステ：アニメはねつけ毛=Hair extensions: anime-hane false hair
+エクステ：ワンポイントB=Extension: One Point B
+KK付け毛27=KK fake hair 27
+Bエクステ：ツインテールL=B Extension: Twintail L
+KK付け毛28=KK fake hair28
+エクステ：ラージニュアンスFK=Extension: Large Nuance FK
+KK付け毛5=KK False hair 5
+エクステ：シンプル=Extension: Simple
+コンシェルジュネクタイ=concierge necktie
+コーデコピー (Accessories)=Codecopy (Accessories)
+
+
+//Profile
+
+設定=Configuration
+Ａ型=type A (blood, influenza, hepatitis, etc.)
+3月26日=March 26
+性格=character
+プロフィールの詳細=Profile Details
+低い=Low
+個性=Traits
+高い=High
+論破=defeating in an argument
+皮肉=irony
+貶し方=way of putting down
+社交性=sociability
+高め=high
+低め=low ball (baseball)
+貞操観念=sense of virtue
+同性のみ=Same sex only
+同性寄り=same-sex (attitude)
+両方=both
+異性寄り=heterosexual
+性愛対象=object of sex
+持ち物=personal effects
+能力=ability
+性質=nature
+特性の詳細=Characteristic Details
+ダンベル=dumbbell
+叫喚=shout
+異性のみ=Heterosexuals only
+おにぎり=rice ball (often triangular, sometimes with a filling and wrapped in nori)
+衣服=clothes
+ぬいぐるみ=stuffed toy
+攻略本=strategy guide
+手作り弁当=hand-made lunch box
+メモ帖=memo book
+ムフフな本=Mufufufu Books
+財布=purse
+携帯調味料=Portable Seasonings
+鍵=key
+髪ゴム=hair band
+髪の毛=hair (head)
+香水=perfume
+ハンカチ=handkerchief
+入浴剤=bathwater additive
+除菌シート=sterilization sheet
+眼鏡=Glasses
+ひ・み・つ=oneitsu
+フィギュア=figure
+ポエム=poem
+参考書=reference book
+お守り=amulet
+手作りお菓子=homemade sweets
+なにか=something
+ノートパソコン=laptop
+料理本=cookbook
+体力=strength of an organization (e.g. profitability, productivity, economic clout, stability, growth potential)
+学力=knowledge
+生活=living
+話術=art of conversation
+自撮り写真=self portrait photograph
+同人誌=fanzine
+携帯ゲーム=mobile game
+好み=being fond of
+エッチ特性の詳細=Details of sex characteristics
+
+//System
