@@ -1,0 +1,16 @@
+駅前=Station
+喫茶店=Coffee Shop
+ビーチ=Beach
+通学路=School Route
+教室=Classroom
+参道=River
+神社=Shinto Shrine
+自室/男部屋=Men's Room
+自室/女部屋=Girl's Room
+喫茶店着替え部屋=Coffee shop Dressing room
+ビーチ着替え部屋=Beach changing room
+神社着替え部屋=Shrine Dressing Room
+拉致連れ込み=Kidnapping
+ラブホテル=Love Hotel
+公衆トイレ=Public Restroom
+蔵=Storehouse
