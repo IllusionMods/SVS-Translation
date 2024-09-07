@@ -65,10 +65,9 @@
 オネガイゴトをする=Extort
 あの人を避けてほしい=Ignore
 アレを見せてほしい=Show 'that'
-//These three are awkward, consulting with JP speaker but leaving as is
-抱かせてほしい=Let me hold you
-解放してあげる=I'll let you go
-解放してほしい=Let me go
+抱かせてほしい=Let me fuck you
+解放してあげる=I'll leave you alone
+解放してほしい=Leave me alone
 
 話すのをやめる=Stop Talking
 なんでもない=Never mind
