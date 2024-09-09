@@ -1,19 +1,42 @@
-// Names and Nicknames
-
-
-// Female
 小牧 瑞穗=Komaki Mizuho
+小牧=Komaki
+瑞穗=Mizuho
 結城 愛花=Yuki Aika
+結城=Yuki
+愛花=Aika
 相川 友里加=Aikawa Yurika
+相川=Aikawa
+友里加=Yurika
 日暮 涼佳=Higurashi Suzuka
+日暮=Higurashi
+涼佳=Suzuka
 吉岡 夕香=Yoshioka Yuka
+吉岡=Yoshioka
+夕香=Yuka
 深町 綾乃=Fukamachi Ayano
+深町=Fukamachi
+綾乃=Ayano
 小川 奈々子=Ogawa Nanako
+小川=Ogawa
+奈々子=Nanako
 鈴原 菜々=Suzuhara Nana
+鈴原=Suzuhara
+菜々=Nana
 山口 陽香=Yamaguchi Haruka
+山口=Yamaguchi
+陽香=Haruka
 五島 愛莉=Gotou Airi
-川澄 結衣=Yui Kawasumi
-// Male
-
+五島=Gotou
+愛莉=Airi
+川澄 結衣=Kawasumi Yui
+川澄=Kawasumi
+結衣=Yui
 宮永 塁=Miyanaga Rui
+宮永=Miyanaga
+塁=Rui
 兵藤 直人=Hyoudou Naoto
+兵藤=Hyoudou
+直人=Naoto
+青山 祐樹=Aoyama Yuki
+青山=Aoyama
+祐樹=Yuki

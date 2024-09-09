@@ -54,8 +54,6 @@
 ご主人様=My Master
 ドキドキする=Makes My Heart Throb
 ムラムラする=Really Wanna Fuck
-
-// Pair record statuses
 相思相愛=Lovebirds
 親愛=My Darling
 心のすれ違い=Not On The Same Page
