@@ -31,6 +31,7 @@
 川澄 結衣=Kawasumi Yui
 川澄=Kawasumi
 結衣=Yui
+
 宮永 塁=Miyanaga Rui
 宮永=Miyanaga
 塁=Rui
