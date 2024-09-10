@@ -313,7 +313,7 @@ internal static class ReleaseTool
                 {
                     for (int j = 0; j < uniqueTags.Count; j++)
                     {
-                        orig = orig.Replace(uniqueTags[j], $@"(?<t{j}>\[\w+?\])");
+                        orig = orig.Replace(uniqueTags[j], $@"(?<t{j}>.*?)");
                         tl = tl.Replace(uniqueTags[j], $"${{t{j}}}");
                     }
 
