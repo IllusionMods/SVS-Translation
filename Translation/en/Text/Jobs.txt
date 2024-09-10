@@ -1,6 +1,6 @@
 なし=None
-ビーチ監視員=Life Guard
-会社員=Company Employee
+ビーチ監視員=Lifeguard
+会社員=Office Worker
 カフェ店員=Cafe Worker
 パート=Part-timer
 巫女・男巫=Shrine Keeper
