@@ -64,7 +64,7 @@ ALL=All
 「全てランダムに登録」確認=Confirm "Assign Randomly"
 ※登録人数が増えると動作に負荷がかかりますのでご注意下さい=※This will increase available character slots to 24.
 登録人数拡張=Number of Characters
-登録人数を拡張しますか？=Will you increase the available character slots?
+登録人数を拡張しますか？=Increase available character slots?
 // In Game Menus
 出かける=Start Day
 外に出ますか？=Do you want to start the day?
