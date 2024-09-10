@@ -3,7 +3,7 @@
 ビーチ=Beach
 通学路=School Route
 教室=Classroom
-参道=Shrine Path
+参道=River
 神社=Shrine
 自室/男部屋=Men's Room
 自室/女部屋=Girl's Room

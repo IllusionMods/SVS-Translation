@@ -28,7 +28,6 @@
 「そ、それは……あなたに話すにはまだ早いのかもしれません……」=「Th-That's... maybe it's too early to tell you...」
 「自分の欲望を満たしたいだけというのは、動物と一緒です……もう少しモラルを持ってください」=「Wanting only to satisfy your desires is the same as an animal... Please have a bit more morality.」
 「次はあちらの応援に……え、またトラブルが……？」=「Next, let's support over there... What, another trouble...?」
-「[NPC_thatPersonName]にしつこく付きまとわれていて……助けてもらえませんか？」=「I'm being persistently followed by [NPC_thatPersonName]... Could you help me?」
 「……分かりました」=「...Understood.」
 「ん、んっ……ふふ、ありがとございます」=「Nn, nn... heh, thank you.」
 「やはり女性のそれとは違って、しっかりしていますね……」=「It's different from that of a woman, isn't it...?」
@@ -37,7 +36,6 @@
 「……私って、面白みに欠けるのでしょうか？」=「…Am I lacking in fun?」
 「ふふ……この昂り、静めてもらえますよね？」=「Hehe... can you calm this excitement?」
 「恋人同士だからこそ、肉体的な関係も大事だと思っています……お互いを知るうえでは特に……」=「I believe physical relationships are important for couples... especially in understanding each other...」
-「[NPC_thatPersonName]とセックスするのですが、あなたも混ざってみませんか？」=「I'm going to have sex with [NPC_thatPersonName], would you like to join?」
 「危ない日なので出来ません」=「It's a risky day, so I can't.」
 「ふふ、あなたはとても頼りになりますね」=「Hehe, you're very reliable.」
 「ああ、まだ少し余韻が残って……頭がボーッとしてしまっています……」=「Ah, there's still a bit of lingering feeling... I'm a bit dazed...」
@@ -93,7 +91,6 @@
 「その……求められることの方が多いですか？　それともあなたの方から誘う方が多いですか？」=「Do people often ask you, or do you invite them more often?」
 「ふん……」=「Hmph...」
 「これで私はあなたのモノ……ふふ、所有物となってしまうわけですね」=「With this, I am yours... hehe, I've become your possession.」
-「明日の朝、[NPC_comehereLaterMap]に来てください」=「Please come to [NPC_comehereLaterMap] tomorrow morning.」
 「ふぅ……危ないところでした」=「Phew... that was close.」
 「いえ、私なんて大したことはありません……」=「No, I'm nothing special...」
 「いつか、私に見合った職が見つかると信じています……その日までの今は充電期間です」=「I believe I'll find a job that suits me someday... until then, this is a recharging period.」
@@ -151,7 +148,6 @@
 「おはようございます……ふふ、満足そうな寝顔、頂きました」=「Good morning... hehe, I captured your satisfied sleeping face.」
 「そうですね、十分堪能させてもらいましたから、解放してあげます」=「That's right, I've enjoyed enough, so I'll let you go.」
 「ふぅ……大きなトラブルもなし、あなたのおかげです」=「Phew... no major troubles, thanks to you.」
-「私の[NPC_onesProperty0_item]とあなたの[PC_onesProperty0_item]、交換しませんか？」=「Would you like to exchange my [NPC_onesProperty0_item] for your [PC_onesProperty0_item]?」
 「あ……いきなりどうしました？」=「Ah... what suddenly happened?」
 「良い雰囲気ですね、自然と気分も高まります」=「It's a nice atmosphere, naturally uplifting.」
 「皆さん、勉強しませんか？」=「Shall we study together?」
@@ -176,7 +172,6 @@
 「どこかで誰かが私の噂を流しているみたいなんですが……心当たりありませんか？」=「It seems someone is spreading rumors about me... do you have any idea?」
 「身勝手だと分かっていますが……他に好きな方が出来たので、別れてもらえませんか……？」=「I know it's selfish... but I've fallen for someone else, could we break up...?」
 「ふふ……それでは今の内に、思う存分楽しみましょう」=「Hehe... then let's enjoy to the fullest while we can.」
-「[NPC_thatPersonName]に近づかないでくださいね」=「Please don't get close to [NPC_thatPersonName].」
 「……お願いです、何も言わずに私を抱いてください」=「...Please, hold me without saying anything.」
 「都合が良ければ、一緒に食事しませんか？」=「If it's convenient, shall we have a meal together?」
 「特に問題はありませんね、良好です」=「There's no particular problem, it's going well.」
@@ -192,7 +187,6 @@
 「ああ、嬉しいです……ようやく一つになる時が来たんですね……」=「Ah, I'm happy... finally, it's time for us to become one...」
 「んっ、ん……私の唇がそんなに魅力的でしたか？」=「Nn, nn... were my lips that attractive?」
 「私という恋人以上に好きなのですか……？　本当にそう思っているのですか？」=「Do you like someone more than me, your lover...? Do you really think so?」
-「[NPC_thatPersonName]、良くない噂が流れているんです……」=「[NPC_thatPersonName], there's a bad rumor going around...」
 「しっかり見てくださいね」=「Please take a good look.」
 「今、ここには私たち二人だけ……ふふ、どうします？」=「Now, it's just the two of us here... hehe, what will you do?」
 「ああ、そんな……今すぐ快感が欲しいのに……」=「Ah, no... I want pleasure right now...」
@@ -216,15 +210,12 @@
 「ふふ、美味しい料理の前だと会話も弾みますね」=「Hehe, conversations flow better in front of delicious food, don't they?」
 「ふふ、私の家で楽しいこと……しませんか？」=「Hehe, would you like to have some fun at my house?」
 「そんな、まだまだこれからではありませんか……勝手な事しないでください」=「Come on, it's just the beginning, isn't it... Please don't do anything reckless.」
-「実は、[NPC_thatPersonName]とより親睦を深めたいと思っていまして……力になってくれませんか？」=「Actually, I'm thinking of getting closer to [NPC_thatPersonName]... Could you help me?」
 「んむ　ん……初めてのキスだったのですが……ふふ、責任取ってくれますか？」=「Mmm... it was my first kiss... hehe, will you take responsibility?」
 「お断りです」=「I refuse.」
 「匂い、大丈夫でしょうか？　私は気にしなくても、周りが……」=「Is the smell okay? Even if I don't mind, others might...」
 「好きですよ」=「I like you.」
 「まったく話になりません！」=「This is completely out of the question!」
-「……あなたは、[NPC_thatPersonName]とエッチしましたか？」=「Did you... have sex with [NPC_thatPersonName]?」
 「え？　なんだって？」=「Huh? What did you say?」
-「ご存知でした？　最近、[NPC_thatPersonName]の評判が良いと噂になっているんです」=「Did you know? Recently, there's a rumor that [NPC_thatPersonName] has a good reputation.」
 「はぁ……あ、どうかしましたか？」=「Sigh... Oh, is something wrong?」
 「……ああ、いえ、私なりに楽しんでいます……」=「...Oh, no, I'm enjoying myself in my own way...」
 「ふふ、その調子です」=「Hehe, keep it up.」
@@ -239,12 +230,10 @@
 「私も好きですよ」=「I like you too.」
 「……気分が悪いです」=「...I feel sick.」
 「虫の居所が悪かったのですが……少し落ち着いてきました」=「I was in a bad mood, but I'm starting to calm down a bit.」
-「あなたは、[NPC_thatPersonName]のことどう思っていますか？」=「What do you think of [NPC_thatPersonName]?」
 「お付き合いは結婚を前提にするものと思っていたのですが、案外違うようです」=「I thought dating was something to be done with marriage in mind, but it seems that's not always the case.」
 「これ、美味しいですね……あなたも食べてみてください」=「This is delicious... Please try it too.」
 「ふふ、面白いですね……もっと色んなことを教えてください」=「Hehe, it's interesting... Please tell me more about various things.」
 「はぁ、よかったです……これでようやく解放されました」=「Sigh, I'm glad... Finally, I am freed.」
-「ここだけの話、[NPC_thatPersonName]、告白されていたみたいです……お相手のことは分かりません」=「Between us, it seems [NPC_thatPersonName] was confessed to... I don't know who it was.」
 「……これで良いのですよね？」=「...Is this okay?」
 「そうですね……こういうきっかけで付き合うのも良いかもしれません」=「Yes, indeed... It might be good to start dating with such an opportunity.」
 「ここまで求められたら、断れません……良いですよ」=「If you demand this much, I can't refuse... Fine.」
@@ -266,7 +255,6 @@
 「ええ、愛を育みましょう」=「Yes, let's nurture our love.」
 「それでは早く始めましょう、いつ誰が来るか分かりませんからね」=「Then let's start quickly, as we don't know who might come when.」
 「神社でお仕事を頑張ってみてはいかがでしょう？」=「How about trying your best with work at the shrine?」
-「あとで[NPC_comehereLaterMap]に来てもらえませんか？」=「Could you come to [NPC_comehereLaterMap] later?」
 「どうぞ、無様に敗北した私に、厳しく言葉を浴びせても……」=「Feel free to harshly criticize me, who was defeated so miserably...」
 「あなたのおかげであと少し……ふふっ」=「Thanks to you, just a little more... hehe.」
 「良いですよ……この背徳感、興奮を覚えます……」=「That's fine... This sense of guilt, it excites me...」
@@ -302,7 +290,6 @@
 「皆さん、食事にしませんか？」=「Everyone, shall we have a meal?」
 「すると決めたのなら、欲望のまま乱れるだけです……中途半端がよくありませんから」=「If you've decided to do so, just indulge in your desires... Half-heartedness isn't good.」
 「そのことでしたら既にやっています……」=「If it's about that, I've already done it...」
-「実は[NPC_thatPersonName]、よく遊んでいるそうです……お盛んですよね」=「Actually, it seems [NPC_thatPersonName] plays around a lot... quite active, aren't they?」
 「恋愛漫画を読むときは強く感情移入してしまうので、不幸な展開になるのが苦手なんです」=「When I read romance manga, I empathize strongly, so I'm not good with unhappy developments.」
 「くす、お盛んですね……せっかくですから、私達も楽しみませんか？」=「Hehe, you're quite active... Since we're here, shall we enjoy ourselves too?」
 「気を遣う必要はありませんからね……いつでも声、かけてください」=「There's no need to be considerate... please reach out anytime.」
@@ -367,9 +354,7 @@
 「……私達、お別れしませんか？」=「...Shall we break up?」
 「誰もいない今がチャンスです……一緒に楽しみませんか？」=「Now that no one is around, it's a chance... shall we enjoy it together?」
 「良いイメージも悪いイメージも、特にないですね」=「I don't have particularly good or bad impressions.」
-「[NPC_thatPersonName]と仲良くすることをお勧めしますよ」=「I recommend getting along with [NPC_thatPersonName].」
 「ええ、お願いいたします……周りのことなど気にせず、愛を育んでいきましょう」=「Yes, please... let's nurture our love without worrying about others.」
-「[NPC]と[NPC2]が出て行ったそうです……何があったのでしょうか？」=「[NPC] and [NPC2] have left... what happened?」
 「恋愛は特に、積極的に行動することが大事ですよね？」=「In love, especially, taking proactive actions is important, right?」
 「……まぁ減るものでもありませんから」=「...Well, it's not like it will decrease.」
 「モヤモヤとするこの気持ちは……あ、いえ、なんでもありません」=「This feeling of being unsettled... oh, no, it's nothing.」
@@ -398,7 +383,6 @@
 「食器を割ってしまうと無意識に『失礼しました』って謝ってしまうんです。くすっ、きっとこれは職業病です」=「When I break dishes, I unconsciously apologize with 'I'm sorry.' Hehe, that must be an occupational hazard.」
 「ええ、問題ありません」=「Yes, no problem.」
 「そうですか……分かりました」=「I see... understood.」
-「皆さん、[NPC_thatPersonName]のことを気にかけてもらえませんか」=「Could everyone pay attention to [NPC_thatPersonName]?」
 「本は読むのでしたら紙で読みたいですね。スマホやデジタルで読むにはまだ違和感があります」=「If I'm going to read a book, I'd prefer to read it on paper. It still feels odd to read on a smartphone or digitally.」
 「ふふ、あなたと楽しみたかったんです……ここなら大丈夫ですから、ね？」=「Hehe, I wanted to have fun with you... it's safe here, so, okay?」
 「言わせておけば好き勝手……いい加減にしてください！」=「To let you say whatever you want... please stop it!」
@@ -432,14 +416,12 @@
 「あなたの所為で次第に身体が火照ってきました……もちろん、お相手してくれますよね？」=「Because of you, my body is gradually heating up... of course, you'll accompany me, right?」
 「何だか、安心します」=「Somehow, I feel relieved.」
 「では、早速始めましょう」=「Well then, let's start right away.」
-「私の[NPC_onesProperty1_item]とあなたの[PC_onesProperty1_item]、交換しませんか？」=「Shall we exchange my [NPC_onesProperty1_item] with your [PC_onesProperty1_item]?」
 「はぁ、はぁ……少し、休ませてください……」=「Ha, ha... please, let me rest a bit...」
 「そうですね……日々の勉学がこれからの自分を作っていきますから、大事だと思います」=「Yes... daily studies shape our future selves, so I think they're important.」
 「あなたはセックスしたことありますか？」=「Have you ever had sex?」
 「ちゅ、ん、ん……キスを、したくなったんです」=「Chu, nn... I just wanted to kiss.」
 「今、お付き合いしている方はいますか？」=「Do you have someone you're dating right now?」
 「私、まだ未経験なのですが……」=「I'm still inexperienced, though...」
-「[NPC_thatPersonName]があなたの事、好きだそうですよ……ふふ、さぁ、どうしますか？」=「[NPC_thatPersonName] seems to like you... hehe, so, what will you do?」
 「あなたは、自分の立場が分かっていないのですか？」=「Do you not understand your position?」
 「なんだかよそよそしい気がするのですが、気のせいですよね？」=「Somehow, I feel you're being distant, but it's just my imagination, right?」
 「まぁ、こんなところで……破廉恥ですけど、つい目を奪われてしまいます」=「Well, in a place like this... it's shameless, but I can't help being captivated.」
@@ -455,7 +437,6 @@
 「意識していないと、中に出されたアレが滴ってきそうです……」=「If I'm not conscious, it feels like what's inside might drip out...」
 「実は、あまり体調が優れなくて……」=「Actually, I'm not feeling very well...」
 「何事も身体が資本ですから、適度な運動を勧めます」=「Since everything relies on your body, I recommend moderate exercise.」
-「皆さん、[PC_thatPersonName]のことを気にかけてもらえませんか」=「Everyone, could you please pay attention to [PC_thatPersonName]?」
 「こちらはお得なセットもございますが、いかがでしょう？」=「We have a special set available, how about it?」
 「ええ、是非お邪魔させてください」=「Yes, please let me visit.」
 「ふふっ、何事も勝つということは気分が良いです」=「Haha, winning always feels good.」

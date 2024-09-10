@@ -2,7 +2,7 @@
 邪魔者は…=In The Way...
 許さない！=Unforgivable!
 浮気者！=Cheater!
-この泥棒猫！=You Homewrecker!
+この泥棒猫！=Homewrecker!
 話したことがない=Haven't Spoken To
 よくわからない=Don't Know
 だれ？=Who?
@@ -47,7 +47,7 @@
 助平=Slut
 相性がいい=Good Chemistry
 くやしい、でも…=It's Frustrating, But...
-最低…っ=DPiece Of Shit...
+最低…っ=Piece Of Shit...
 大事な遊び相手=Important Playmate
 次は何してやろう=What Shall I Do Next
 ばっちこい！=It's Perfect!
@@ -71,7 +71,7 @@
 会ってみないとわからない=Haven't Met This Person
 ビジネスパートナー=Business Partner
 発展途中=Developing Relationship
-喧嘩中……=In A Fight...
+喧嘩中……=Fighting...
 追うもの・追われるもの=Pursuing/Being Pursued
 サツバツ=Bloodthirsty
 条件的にあり得ないであろう組み合わせ=Impossible Pairing

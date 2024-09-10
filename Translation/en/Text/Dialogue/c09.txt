@@ -2,11 +2,8 @@
 「いや、もうこれ以上はどうしろってんだよ……」=「No, seriously, what more do you want me to do...?」
 「へへっ、ま、わりぃ気はしねえっつーか……」=「Hehe, well, I don't really mind...」
 「好きなやつとは、やっぱシたくなるもんだろ……お前だってそうじゃねぇのか？」=「When you like someone, you naturally want to do it, right...? Isn't it the same for you?」
-「みんな、[PC_thatPersonName]のこと気にかけてやってくれよな」=「Everyone, please look out for [PC_thatPersonName].」
 「ったく、お前なあ……さっさと出てけよ？」=「Geez, you... just get out of here already?」
 「……お前、他にももっとこう……いや、わりぃ……なんでもねえ……」=「...You, there are other things... no, sorry... never mind...」
-「おい、[NPC_thatPersonName]の噂知ってるか？　最近評判がいいんだぜ」=「Hey, have you heard the rumors about [NPC_thatPersonName]? They've been getting a good reputation lately.」
-「お前はよ、[NPC_thatPersonName]のことどう思ってんだ？」=「What do you think about [NPC_thatPersonName]?」
 「す、好きだよ……んだよ、わりぃとは思ってるっての……」=「I-I like you... I mean, I feel bad about it...」
 「型にはまらない生き方ってのも、悪くないもんだと思わねぇか？」=「Don't you think living outside the box isn't such a bad thing?」
 「ああ、今更気づきやがったか」=「Oh, you finally realized it, huh?」
@@ -26,7 +23,6 @@
 「……あ、わりぃ……なんか、ぼーっとしてたな……」=「...Oh, sorry... I was kind of spacing out...」
 「ちゅむ、んむ……お前ともっと、繋がりたい……」=「Chum, num... I want to connect with you more...」
 「てめ、約束を破るとか、どういう了見だよ」=「How dare you break a promise, what are you thinking?」
-「[NPC_thatPersonName]とセックスしてえんだけどよ、お前も一緒にどうだ？」=「I want to have sex with [NPC_thatPersonName], how about you join in?」
 「んだよ……あたしは別に、負けてなんかねぇからな」=「What... I'm not losing or anything...」
 「……ああ、シた」=「...Oh, I did it.」
 「くーっ、結構疲れやがるな……うしっ、もうひと踏ん張りっと！」=「Ugh, I'm quite tired... alright, one more push!」
@@ -43,7 +39,6 @@
 「なんつーか、こういうのはドキドキするな……」=「Somehow, this kind of thing makes my heart race...」
 「冷静になったか？　ったく、しょうがねぇなぁ」=「Have you calmed down? Geez, you're hopeless.」
 「へへっ、あいつもやるじゃねえか」=「Hehe, that person is doing well too.」
-「[NPC_thatPersonName]には、わりぃ噂がある……関わんない方がいいぞ」=「[NPC_thatPersonName] has some bad rumors... it's better not to get involved.」
 「へへ……こういうのは、なんかこう、ドキドキしちまうな」=「Hehe... this kind of thing makes my heart race.」
 「もう我慢ならねえ、お前とはお別れだ……あばよ」=「I can't take it anymore, I'm breaking up with you... goodbye.」
 「なんか、寒気がしやがるな……嘘だろ、おい？」=「Feeling a chill... no way, right?」
@@ -72,14 +67,10 @@
 「お前が好き放題するってんなら、あたしだって……お前のせいなんだからな」=「If you're going to do as you please, then I will too... it's your fault.」
 「ならよ、あたしと付き合ってみねえか？　実はお前のこと、これでも気に入ってんだぜ」=「Then, why don't you go out with me? Actually, I've taken a liking to you.」
 「みんなで思う存分ヤっちまわねえか？」=「How about we all go wild together?」
-「みんな、[NPC_thatPersonName]のこと気にかけてやってくれよな」=「Everyone, please look out for [NPC_thatPersonName].」
 「み、見るだけでいいのかよ……？　その、好きにしたっていいんだぞ……？」=「Is it really okay to just watch...? Well, you can do as you like...」
 「お前、アレを見てえか……？」=「Do you want to see that...?」
 「お前とってのは、わりぃが勘弁だ」=「Sorry, but spare me from that.」
 「おい、ちょっと落ち着けっての」=「Hey, calm down a bit.」
-「明日の朝、[NPC_comehereLaterMap]に来てくれねえか」=「Can you come to [NPC_comehereLaterMap] tomorrow morning?」
-「あたしの[NPC_onesProperty0_item]とお前の[PC_onesProperty0_item]、交換しねえか？」=「How about we trade my [NPC_onesProperty0_item] for your [PC_onesProperty0_item]?」
-「[NPC_thatPersonName]、お前のことが好きらしいぜ？　へへ、よかったじゃねえか！」=「[NPC_thatPersonName] seems to like you? Hehe, isn't that great?」
 「こんな時間にどうしたんだ？」=「What are you doing at this hour?」
 「あんま口出すことでもねえのかもだけどよ、横恋慕ってのはやめた方がいいと思うぜ？」=「It might not be my place to say, but I think it's better to avoid unrequited love.」
 「ちゅっ……へへ、隙だらけだったぜ？」=「Chup... hehe, you were wide open, weren't you?」
@@ -110,7 +101,6 @@
 「ちゃんと食えよ、な？」=「Make sure you eat, okay?」
 「言うに事欠いてそれかよ？　今と同じことを、鏡でも見ながら言ってみたらどうだ？　なあ？」=「Is that what you have to say? Try saying the same thing while looking in a mirror.」
 「は？　マ、マジで言ってんのか……？」=「Huh? Are you serious...?」
-「[NPC_thatPersonName]がしつこくてよ……どうにかならねえかなあ」=「[NPC_thatPersonName] is being persistent... can't something be done?」
 「ん……？　いや、ちゃんと楽しんでるっつーの……」=「Huh...? No, I'm enjoying it...」
 「お、おう……あたしは何も、見てないぞ……」=「O-oh... I didn't see anything...」
 「へへ、そうだよな……わりぃ、変なこと聞いたな」=「Hehe, right... sorry for asking something weird.」
@@ -216,7 +206,6 @@
 「あのことは絶対、絶対に誰にも言うんじゃねえぞ……」=「Don't ever, ever tell anyone about that...」
 「へへっ、わかってんじゃねぇか……さんきゅな」=「Hehe, you get it, don't you... thanks.」
 「あー……わりぃ、またな」=「Ah... sorry, see you later.」
-「[NPC_thatPersonName]が告白されてたらしいぜ？　……どうなったかは知らねえけどよ」=「I heard [NPC_thatPersonName] got confessed to? ...I don't know what happened, though.」
 「へへ……こういうのも、お前にされるなら悪くねえな」=「Hehe... if it's you doing it, I don't mind this kind of thing.」
 「てめぇ、あたしの悪い噂を流してるってのは本当かよ……？」=「Is it true that you're spreading bad rumors about me...?」
 「あっちであんなにシちまってるんだ、あたしたちだってシても構わねえよな……？」=「They're doing it over there, so we can do it too, right...?」
@@ -262,7 +251,6 @@
 「お前とよ、もっと仲良くなりてえっつーか……ま、そんな感じだ」=「I want to get closer to you... well, something like that.」
 「へへっ、けっこうイイ話だったろ？」=「Hehe, it was a pretty good story, right?」
 「少しじっとしてろよ」=「Hold still for a bit.」
-「[NPC_thatPersonName]とはもっと仲良くしといていいと思うぜ」=「I think you should get along better with [NPC_thatPersonName].」
 「よし、しっかりと脳裏に焼き付けておけよ」=「Alright, make sure to remember this well.」
 「めっちゃ遊びたい気分なんだけどよ、お前ん家に遊びに行ってもいいか？」=「I'm in the mood to have some fun, can I come over to your place?」
 「んー、なかなかじゃねえか」=「Hmm, not bad.」
@@ -279,22 +267,18 @@
 「そっかそっか」=「I see, I see.」
 「わりぃ……なんつーか、その……悪かったよ……」=「Sorry... I mean, well... I was wrong...」
 「だぁー、なんだこれ！　もう勘弁してほしいぜ……」=「Damn, what is this! I just want it to stop already...」
-「あたしの[NPC_onesProperty1_item]とお前の[PC_onesProperty1_item]、交換しねえか？」=「Want to exchange my [NPC_onesProperty1_item] with your [PC_onesProperty1_item]?」
 「ざけんな、許すわけがねえだろうが」=「Don't mess with me, I won't forgive you.」
 「ああ……わかった、終わりにしようぜ」=「Alright... I understand, let's end it.」
 「いいんじゃねえの？　お前だって、その方が楽しくなるだろ？」=「Isn't it fine? You'll have more fun that way too, right?」
-「[NPC_thatPersonName]ともっと仲良くなりてえんだけどよ……その、手伝ってくれねえか？」=「I want to get closer to [NPC_thatPersonName]... could you help me with that?」
 「お前、やるじゃねえか……いい噂が流れてるぜ」=「You're doing well... good rumors are spreading about you.」
 「はぁ、話すことがなんもねぇ……」=「Sigh, I've got nothing to talk about...」
 「あんまり自分を押しつけるってのもな……」=「Don't push yourself too hard...」
 「うっ……わりぃ、あたしはここまでだ……」=「Ugh... sorry, this is it for me...」
-「お前さ……[NPC_thatPersonName]と、セックスしたのかよ？」=「Hey, did you have sex with [NPC_thatPersonName]?」
 「あーだこーだ考えるより先に、つい身体が動いちまうことってあるよな……いや、あるよな？」=「Sometimes your body just moves before you think, right? Yeah, it happens, right?」
 「日曜の昼か、いいぜ」=「Sunday afternoon, sounds good.」
 「みんな、手伝ってくれねえか？」=「Can everyone help out?」
 「あたしのこと、お前はどう思ってんだ？」=「What do you think of me?」
 「……わり、ついカッとなっちまってた」=「...Sorry, I lost my temper.」
-「後で[NPC_comehereLaterMap]に来てくれねえか」=「Could you come to [NPC_comehereLaterMap] later?」
 「その……あたしと、付き合ってほしい……お前のこと、好きっつーか……いや、マジのマジで、好きなんだよ」=「Um... I want to go out with you... I like you... no, I really, really like you.」
 「んで、ここで何をするってんだ？」=「So, what are we doing here?」
 「ん……へへ、脇が甘いんじゃねえのか？」=「Hehe, aren't you being a bit careless?」
@@ -335,7 +319,6 @@
 「これ以上ないダチっつーか……ま、そんなとこだな」=「The best buddy... that's about it.」
 「いいのかよ……？　じゃあ、頼むわ……」=「Is it really okay...? Then, I'm counting on you...」
 「ったく、かけすぎだろ、お前……へへ……」=「Damn, you're overdoing it... hehe...」
-「[NPC_thatPersonName]、セックスしてやがってよ……ったく、お盛んなこった」=「[NPC_thatPersonName] is having sex... geez, they're so active.」
 「へへ……♪」=「Hehe...♪」
 「あ？　んなことするかよ」=「Huh? I wouldn't do that.」
 「へへ、やるじゃねえか……あたしのこと、思い通りにしようってか？」=「Hehe, you're doing well... are you trying to have your way with me?」
@@ -450,7 +433,6 @@
 「しつけぇな、付いてくんなっての」=「Persistent, aren't you? I told you not to follow me.」
 「……あ、ああ、なんか用か？」=「...Ah, uh, do you need something?」
 「あたしと付き合ってくれねえか？　性別とか、細けえことはどうでもいい……お前が好きなんだよ」=「Would you go out with me? Gender and details don't matter... I like you.」
-「[NPC]と[NPC2]が居なくなったみたいなんだが……どうにも臭いやがるな」=「It seems like [NPC] and [NPC2] are gone... something smells fishy.」
 「なんつーか、こう、落ち着かねぇもんだな……誰かのことが気になって仕方ねぇってのはよ……」=「It's unsettling, isn't it... being unable to stop thinking about someone...」
 「いいのか？　へへっ、あんがとな」=「Is it okay? Hehe, thanks.」
 「あの、よ……今からお前ん家に行っていいか？　目的は……一つに決まってるだろ」=「Hey, can I come over to your place now? The purpose is... obvious, right?」
@@ -461,7 +443,6 @@
 「ああ、構わねえよ」=「Yeah, I don't mind.」
 「だ、ダメか……まあ、しゃあねえか……」=「Is it a no... well, can't be helped...」
 「……んだよ、褒めんじゃなかった」=「...What, I shouldn't have praised you.」
-「[NPC_thatPersonName]とは関わるんじゃねえ、わかったか？」=「Don't get involved with [NPC_thatPersonName], got it?」
 「男も女も、誰だってそういうことは考えるもんだよな……」=「Everyone thinks about those things, right?」
 「へへっ、忘れんじゃねぇぞ？」=「Hehe, don't forget, okay?」
 「へえ……んじゃ、あたしとするか？　お前の初めて……貰ってやるよ」=「Well then... want to do it with me? I'll take your first time.」

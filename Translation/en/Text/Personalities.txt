@@ -5,7 +5,10 @@
 純真無垢=Innocent
 生意気=Cheeky
 ギャル=Gyaru
-健気=Brave
+健気=Hesitant
 母性=Motherly
 小悪魔=Devilish
 ヤンキー=Yankee
+
+豪快=Bold
+好青年=Agreeable

@@ -1,7 +1,3 @@
-// c00 - Ordinary
-// Place translated line after the =
-// Remember to uncomment lines that are translated
-
 「し、しませんよ……初めての人は、自分で選びます……」=「I-I won't... I'll choose my first partner myself...」
 「すみません、集まってもらってもいいですか？」=「Excuse me, could you all gather here for a moment?」
 「えっと……私のこと、どう思っているか教えてほしいです」=「Um... I'd like to know what you think of me.」
@@ -35,7 +31,6 @@
 「その……気を付けた方がいいですよ」=「You should be careful about that.」
 「うーん、これでは駄目ですか……」=「Hmm, is this no good...?」
 「んむっ、むちゅ……おふぁよぉ、ござぃまふっ……あしゃの、じゃーびすれすよ……」=「Mmmph, smooch... Good morning... It's time for breakfast...」
-「[NPC_thatPersonName]は、あなたのことが好きなようですよ」=「[NPC_thatPersonName] seems to like you.」
 「下心丸出しな人の家になんて行きません」=「I won't go to the house of someone who's blatantly lustful.」
 「へ？　そういった経験は、ありません……」=「Huh? I've never had such an experience...」
 「私……あなたと仲良くなりたいです」=「I... want to get along with you.」
@@ -90,7 +85,6 @@
 「それじゃあ……この欲求を、思いっきり発散させてください」=「Then... please let me release this desire fully」
 「最近私の噂が流れてるみたいで……出所が気になります」=「It seems like there are rumors about me lately... I'm curious about the source」
 「では、お元気で……」=「Well then, take care...」
-「どうやら[NPC_thatPersonName]、告白されたみたいですよ」=「It seems like [NPC_thatPersonName] was confessed to」
 「そ、そういう展開になるんですね……じゃあ、えっと……よろしく、お願いします……」=「S-So that's how it turns out... Well then, um... please take care of me...」
 「あなたってすごい人ですね」=「You are an amazing person」
 「火遊びするのも悪くないですし……はい、いいですよ」=「Playing with fire isn't bad either... Yes, it's fine」
@@ -111,12 +105,10 @@
 「もう一度、ですか？　ふふ、分かりました」=「One more time, you say? Hehe, understood」
 「ここまで綺麗にしたら、しばらくは大丈夫でしょうね」=「Now that it's this clean, it should be fine for a while」
 「ふふっ」=「Hehe」
-「[NPC]と[NPC2]、どこかへ行ってしまったようです……何かあったんでしょうか？」=「It seems [NPC] and [NPC2] have gone somewhere... Did something happen?」
 「あなたは石畳のほうをお願いします、私は境内のほうを綺麗にしますね」=「Please take care of the stone pavement, I'll clean the shrine grounds」
 「あの……今、恋人はいますか？」=「Um... Do you have a lover right now?」
 「すみません……私、女性が好きなんです」=「I'm sorry... I like women」
 「どうして私を選んでくれなかったんですか……？」=「Why didn't you choose me...?」
-「その……[NPC_thatPersonName]と、エッチしましたか……？」=「Did you... have sex with [NPC_thatPersonName]...?」
 「積極的すぎると、はしたないと思われますよ」=「If you're too forward, people might think you're shameless」
 「このゲーム、やればやるほど楽しさが増しますね」=「The more you play this game, the more fun it gets」
 「好き……ですよ」=「I... like you」
@@ -137,23 +129,18 @@
 「っ……こんなとこで……大胆、ですね……」=「Ah... Doing it here... You're bold...」
 「おはようございます……ふふ、何だか顔がにやけちゃいますね」=「Good morning... Hehe, I can't help but smile」
 「……私達の関係、もう終わりにしませんか？」=「...Shall we end our relationship?」
-「よかったら、私の[NPC_onesProperty1_item]とあなたの[PC_onesProperty1_item]を交換しませんか？」=「If you'd like, shall we exchange my [NPC_onesProperty1_item] for your [PC_onesProperty1_item]?」
 「ふふ……なんだかあなたのことは撫でたくなるんですよね……」=「Hehe... For some reason, I just want to pet you...」
 「控え目なのも、悪くないと思いますよ」=「Being reserved isn't a bad thing either」
 「キス……してくれませんか？」=「Will you... kiss me?」
 「……最低です」=「...You're the worst」
 「んちゅ……ふふっ、なんだかしたくなったんです」=「Mwah... Hehe, I just felt like doing it」
-「私、[NPC_thatPersonName]と仲良くなりたくて……協力してもらえませんか？」=「I want to get along with [NPC_thatPersonName]... Will you help me?」
 「よかった、ようやく解放されました……」=「I'm glad, finally freed...」
 「身体の調子はどうですか？」=「How is your body feeling?」
 「ご、誤解です！　私のことを信じてください……」=「It's a misunderstanding! Please believe me...」
-「あとで、[NPC_comehereLaterMap]に来てくれませんか？」=「Could you come to [NPC_comehereLaterMap] later?」
-「みんな、[PC_thatPersonName]のことを気にかけてくれますか？」=「Everyone, could you look out for [PC_thatPersonName]?」
 「駄目です、ここに来てはいけませんよ」=「No, you mustn't come here」
 「楽しいＢＢＱを始めましょう！」=「Let's start a fun BBQ!」
 「よかったら、私とお話ししませんか？」=「If you'd like, shall we talk?」
 「ふふ、なんだか顔がにやけそうです」=「Hehe, I feel like I'm going to smile」
-「[NPC_thatPersonName]と関わっちゃダメですよ」=「You shouldn't get involved with [NPC_thatPersonName]」
 「そんな……私の準備は、もう出来てるんですよ……？」=「But... I'm already prepared, you know...?」
 「友達に好きな人が出来たみたいで……ほぼ毎日、相談に乗っているんです」=「It seems my friend has someone they like... I'm giving them advice almost every day」
 「そうなんですね……教えてくれてありがとうございます」=「I see... Thank you for telling me」
@@ -165,7 +152,6 @@
 「はぁ……あなたの身体、あったかくて気持ちいいです」=「Ah... Your body is so warm and comforting.」
 「……あなたより好きな人が出来たので、別れてくれませんか……？」=「...I've found someone I like more than you, so can we break up...?」
 「はい……しっかり見えますか？」=「Yes... Can you see clearly?」
-「ご存知ですか？　[NPC_thatPersonName]、最近評判が良いんですよ」=「Did you know? [NPC_thatPersonName] has been getting a good reputation lately.」
 「そう、ですか……まあでも、雰囲気に流されてするのは、良くないかもしれませんね」=「I see... Well, it might not be good to just go with the flow.」
 「……好き、です……あなたに聞かれたから答えただけなので……悪く思わないでくださいね」=「...I like you... I only answered because you asked, so please don't take it the wrong way.」
 「大好きな人がいるので、あなたと付き合うことは出来ません」=「I have someone I love, so I can't go out with you.」
@@ -196,7 +182,6 @@
 「ふふっ、いいですよ」=「Hehe, it's okay.」
 「え？　なんだって？」=「Huh? What did you say?」
 「ちゅ、ん……ふふ、おはようございます」=「Chu, nn... Hehe, good morning.」
-「明日の朝、[NPC_comehereLaterMap]に来てもらえますか？」=「Can you come to [NPC_comehereLaterMap] tomorrow morning?」
 「お客様の笑顔を見ることに幸せや、やりがいを感じます」=「I find happiness and fulfillment in seeing the customers' smiles.」
 「その命令には、もう従っています……」=「I've already obeyed that order...」
 「……そんなにお願いされたら、断れませんね」=「...If you ask so earnestly, I can't refuse.」
@@ -235,7 +220,6 @@
 「こんな時間ですけど、今からあなたの家に遊びに行っても良いですか？」=「It's late, but can I come over to your place now?」
 「はぁ、用件はなんですか？　私にも予定があるので手短にお願いします」=「Haa, what do you need? I have plans too, so please make it quick.」
 「好きなんですか……きっと、あの人の厚意に勘違いしてしまったんですね」=「You like them... You must have misunderstood their kindness.」
-「その……[NPC_thatPersonName]のこと、どう思っていますか？」=「Um... What do you think about [NPC_thatPersonName]?」
 「美味しいものを食べると英気が養われますね、あなたと一緒だからよりそう思います」=「Eating something delicious revitalizes you, especially when I'm with you.」
 「その……あなたが、好きです」=「Um... I like you.」
 「映画やドラマで突然エッチなシーンが出てくると、少し気まずくなりませんか？」=「Don't you feel a bit awkward when a sudden erotic scene comes up in a movie or drama?」
@@ -270,7 +254,6 @@
 「……今回は許してあげますね」=「...I'll forgive you this time」
 「……バレてしまいましたか」=「...So you found out」
 「将来の為にも、勉強はたくさんした方が良いと思います」=「I think it's good to study a lot for the future」
-「[NPC_thatPersonName]性欲が強いみたいで……よくエッチしてた、という噂が流れてるんです」=「There's a rumor that [NPC_thatPersonName] has a strong sex drive and often had sex」
 「よかったら、一緒に勉強しませんか？」=「Would you like to study together if you don't mind?」
 「ふふ……あなたのこと、甘やかしたくなってしまうんです」=「Hehe... I just want to spoil you」
 「そう、ですか？」=「Is that so?」
@@ -305,7 +288,6 @@
 「い、言い負かされたのに、どうして私は……」=「Even though I lost the argument, why am I still...?」
 「ああ、中がすごく熱いです……」=「Ah, it's so hot inside...」
 「ふふ、ありがとうございます」=「Hehe, thank you」
-「ずっと[NPC_thatPersonName]に付きまとわれていて……助けていただきたいです」=「I've been stalked by [NPC_thatPersonName] constantly... Please help me」
 「忙しいと食事を抜いてしまうのですが、良くないですよね？」=「When I'm busy, I tend to skip meals, which isn't good, right?」
 「少しでもいいので、運動はしましょう」=「Even a little bit is fine, but let's make sure to exercise」
 「その……付き合ってからどのくらいで、キス以上のことをしましたか？」=「Um... How long after you started dating did you do more than just kiss?」
@@ -325,7 +307,6 @@
 「浮気する人と一緒に居るつもりはありません、別れてください」=「I don't intend to stay with someone who cheats, please break up with me」
 「ふふっ、こんにちは」=「Hehe, hello」
 「助かります」=「Thank you」
-「よかったら、私の[NPC_onesProperty0_item]とあなたの[PC_onesProperty0_item]を交換しませんか？」=「If you'd like, would you exchange my [NPC_onesProperty0_item] for your [PC_onesProperty0_item]?」
 「さっきの人より……あなたのことを、気持ち良くしてみせます……」=「I'll make you feel better than that person earlier...」
 「んちゅ、ちゅぢゅる、ぢゅる……キスって、本当に気持ちいいですね……」=「Mwah, slurp, slurp... Kissing really feels good...」
 「その……私、そもそも経験がありません……」=「Um... I have no experience at all...」
@@ -363,11 +344,9 @@
 「やりました！　ノルマ達成どころか新記録です！」=「We did it! Not only did we meet the quota, but we also set a new record!」
 「その話……ちょっと信じられません」=「I can't quite believe that story...」
 「その……初めてでもよければ、お願いします……」=「Well... if it's okay that it's my first time, please...」
-「[NPC_thatPersonName]、評判が悪くて……いい噂を聞きません」=「[NPC_thatPersonName] has a bad reputation... I haven't heard any good rumors.」
 「その……私達、もう一度やり直しませんか？」=「Um... can we start over again?」
 「意外と動き回りますが、運動にもなっていいですね」=「It moves around more than expected, but it's good exercise.」
 「乗り切れたのはあなたのお陰です、ありがとうございました」=「I was able to get through it thanks to you. Thank you very much.」
-「[NPC_thatPersonName]も交えて、みんなでエッチしませんか？」=「Shall we have sex with [NPC_thatPersonName] and everyone together?」
 「んん……キスされると、ドキドキしてしまいます……」=「Mmm... when you kiss me, my heart races...」
 「そうですね、身体を動かすのは良いと思いますよ」=「Yes, I think it's good to move your body.」
 「……なんですか？　今少し機嫌が悪くて……」=「...What is it? I'm in a bit of a bad mood right now...」
@@ -454,7 +433,6 @@
 「ビーチはレジャー場所で事故も怪我も多いので、しっかり働きましょう」=「The beach is a place for leisure, but there are many accidents and injuries, so let's work diligently」
 「大事な時に焦ることがないよう、しっかり勉強を頑張りましょう」=「Let's study hard so we don't panic at important times」
 「それで、なんの用事でしょうか？」=「So, what do you need?」
-「みんな、[NPC_thatPersonName]のことを気にかけてくれますか？」=「Everyone, can you please look out for [NPC_thatPersonName]?」
 「あまり良くないですね……」=「It's not very good...」
 「ん……揉み甲斐は、ないと思いますけど……」=「Hmm... I don't think there's much to squeeze though...」
 「いいんですか？　すみません、ありがとうございます」=「Is it okay? Sorry, thank you very much」
@@ -468,7 +446,6 @@
 「ありがとうございます……遠慮はしなくて、大丈夫ですから」=「Thank you... You don't need to hold back」
 「分からないところを質問したくても、どこがどう分からないのかすら説明できなくて、困ってしまうんですよね……」=「Even if I want to ask about what I don't understand, I can't even explain what it is that I don't understand, and it's troubling...」
 「不健全なことについては個人の問題ですが……流石に限度を超えていますよ」=「Personal issues regarding indecency are one thing... but this is going too far」
-「もし良かったら、[NPC_thatPersonName]と仲良くしてみてください」=「If you don't mind, please try to get along with [NPC_thatPersonName]」
 「うぅ……先ほどは、勝ちを譲ったんですからね？」=「Ugh... I let you win earlier, you know?」
 「お楽しみ中すみません……私も、混ぜてもらえませんか？」=「Sorry to interrupt your fun... Can I join in too?」
 「おのれー」=「Damn you!」

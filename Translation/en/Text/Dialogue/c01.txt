@@ -5,7 +5,6 @@
 「……いつまで付いてくるわけ？　しつこいのは嫌われるって知らないの？」=「How long are you going to follow me? Don't you know being persistent is disliked?」
 「けっこう捗っちゃった～、あんたと勉強するの案外悪くないじゃん♪」=「I've made quite some progress, studying with you isn't so bad♪」
 「あたしみたいないい女を恋人にできるって、あんたそーとー運があるみたいね？」=「Being able to have a great woman like me as a girlfriend, you must be pretty lucky, huh?」
-「明日の朝、[NPC_comehereLaterMap]に集合ね～？」=「Let's meet up at [NPC_comehereLaterMap] tomorrow morning, okay?」
 「あたしのエッチ、見たんだ？　ふふっ、動揺しちゃってるの？　かわい～♪」=「So you saw me being naughty? Hehe, are you flustered? Cute♪」
 「なんかあぶなそーだし、パス」=「It seems kind of dangerous, so I'll pass.」
 「じゃあ、ばいば～い」=「Okay, bye-bye.」
@@ -33,7 +32,6 @@
 「はい、残念でしたー♪」=「Too bad~♪」
 「あはっ♪　いいヒマつぶしができちゃいそ～♪」=「Ahaha♪ Looks like I found a good way to kill time♪」
 「ねぇ、ホントにあいつで満足してるの？　あたしにしちゃうってのも、全然ありでしょ……あたしは好きなんだけどな～」=「Hey, are you really satisfied with that person? Going with me is totally an option... I like you, you know?」
-「[NPC_thatPersonName]のこと、みんなで構ってあげちゃおっか～♪」=「Should we all give [NPC_thatPersonName] some attention~♪」
 「……別に～、選ばれなかったことを根に持ってないけど？」=「I'm not really holding a grudge about not being chosen, though?」
 「あっはっ、自分が正しいと思い込んじゃうなんて……おめでたい頭の中してるんだ～？」=「Ahaha, assuming you're right... what a blissful mind you have.」
 「ちゅっ……ん、んむっ……あはっ、ファーストキス……あげちゃった♪」=「Chu... mmm, mmph... Ahaha, I gave away my first kiss♪」
@@ -128,8 +126,6 @@
 「ムリね」=「Impossible.」
 「せっかく神社で仕事してるんだし、マジメに取り組んだほうがいいんじゃない？」=「Since you're working at the shrine, you should take it seriously, don't you think?」
 「もしかして、まだ勝った余韻に浸ってるわけ？　ぷぷっ、なにそれ情けな～い」=「Are you still basking in the victory? Haha, that's pathetic.」
-「[NPC]と[NPC2]、二人してどっか行ったみたい……すっごくあやしーよねぇ～？」=「[NPC] and [NPC2] both went somewhere... That's really suspicious, isn't it?」
-「あんたさ、[NPC_thatPersonName]のことどう思ってるわけ？」=「What do you think of [NPC_thatPersonName]?」
 「くふふ……ねぇ、あたしとのエッチをオカズにしたりするのー？」=「Hehe... do you use our naughty times as material?」
 「手に負えないわね、はぁ……」=「You're impossible, sigh...」
 「ふふ、このスリル……堪らないわね♪」=「Hehe, this thrill... it's irresistible♪」
@@ -144,11 +140,9 @@
 「あたしくらいになると当然だけど……まだまだ、もっとがんばれちゃうしぃ～？」=「Someone like me, it's only natural... but I can still do more~?」
 「なんとなくで始めた仕事だったけど、あの喫茶店、居心地いいのよね～」=「I started the job on a whim, but that café is comfortable~」
 「別にいいけど、あたし初めてよ？　ちゃーんとリードしなさいよね」=「It's fine, but I'm a first-timer, okay? Make sure to lead properly.」
-「あんた、[NPC_thatPersonName]と近づくの禁止ね？」=「You're forbidden from getting close to [NPC_thatPersonName], okay?」
 「あーあ、あたしの初めての人になるチャンス逃しちゃって……かわいそ～」=「Oh dear, you missed the chance to be my first... poor thing~」
 「よし……お守りやおみくじの補充も十分ね」=「Alright... the charms and fortunes are fully stocked.」
 「これ以上あいつに関わるなら……あたし、なにするかわかんないから～♪」=「If you get more involved with them... who knows what I'll do~♪」
-「あたしの[NPC_onesProperty0_item]とあんたの[PC_onesProperty0_item]、交換しなさいよ」=「Exchange my [NPC_onesProperty0_item] with your [PC_onesProperty0_item].」
 「あんた、なーんかあやしーのよねぇ～？　あたしに話すこと、あるんじゃないの？」=「You're suspicious, aren't you? Is there something you want to tell me?」
 「あたしのエッチ見てたでしょ？　あんたの興奮……あたしが鎮めてあげる♪」=「You watched me being naughty, didn't you? I'll calm your excitement♪」
 「にひひっ♪　楽しみにしてなさいよ？　すっごくいい一日にしてあげるんだからっ」=「Hehe♪ Look forward to it, okay? I'll make it a great day for you.」
@@ -221,7 +215,6 @@
 「えー？　料理も掃除も自分でできないわけないじゃーん！　できて当然でしょ？」=「Eh? There's no way I can't cook or clean by myself! Of course I can」
 「別にどうとも思ってないけど～」=「I don't really care, though~」
 「んー？　今はいないけど」=「Hmm? Not here right now」
-「ねぇねぇ、あんた聞いた～？　[NPC_thatPersonName]の噂よ！　今、評判いいんだから！」=「Hey, did you hear? The rumor about [NPC_thatPersonName]! They're getting a good reputation now!」
 「なーに？　あんた落ち込んじゃってるの？　あはっ、悩むだけムダなんだし、さっさと元気出しとけばー？」=「What? Are you feeling down? Ahaha, worrying is pointless, so cheer up already?」
 「いくら小さいからって、勝手に\nんでいいとか思ってない～？」=「Just because it's small, do you think it's okay to do it without permission?」
 「言うことには従ってるんだから、秘密はちゃんと守ってよね」=「I'm following orders, so keep the secret properly」
@@ -240,7 +233,6 @@
 「はぁ～？　なに言っちゃってんの～？」=「Haa~? What are you saying~?」
 「は？　その命令はもう聞いてるでしょ？」=「Huh? I've already heard that order, right?」
 「あはっ、やっぱりぃ～？　あいつあやしーと思ってたのよねぇ……」=「Aha, I knew it~? I always thought they were suspicious...」
-「[NPC_thatPersonName]、告白されてたって話だけど……実際はどーなのかなぁー？」=「[NPC_thatPersonName] was confessed to, but what's the reality?」
 「ふーん、こういう状況で手を出そうとは思わないんだ」=「Hmm, you don't think of making a move in this situation」
 「大声でキャンキャン\nえて、ホントに恥ずかしいわね！　人に文句言う前に自分のこと反省しなさいよ！」=「Barking loudly and shamefully! Reflect on yourself before complaining about others!」
 「みんなー！　今から運動しな～い？」=「Everyone! Let's exercise now~!」
@@ -260,7 +252,6 @@
 「あくまで噂、でしょ？　あたしは信じないから」=「It's just a rumor, right? I don't believe it」
 「あたし恋人いるんだけど？　ムリに決まってるじゃん」=「I have a partner, so it's impossible」
 「なんであんたにそんなこと……わかったわよ……」=「Why do I have to do that for you... fine...」
-「あたしの[NPC_onesProperty1_item]とあんたの[PC_onesProperty1_item]、交換しなさいよ」=「Exchange my [NPC_onesProperty1_item] with your [PC_onesProperty1_item]」
 「オナニーしてるときに邪魔するとか……今いいところだったのに」=「Interrupting when I'm masturbating... it was just getting good」
 「そんなわけないでしょ？　遊ぶ時間の方が有意義に決まってるし」=「There's no way that's true, spending time playing is obviously more meaningful」
 「あたしが付き合ってあげよっか～？　そ、今からあんたの彼女になってあげる♪」=「Should I keep you company~? Sure, I'll be your girlfriend from now on♪」
@@ -298,7 +289,6 @@
 「疲れるだけなんだから、必要最低限でいいでしょー」=「It's just tiring, so minimum effort is fine」
 「人の邪魔したんだから、責任取りなさいよ？」=「You interrupted, so take responsibility?」
 「ヒマだしあんたのアレでも、見せてもらおっかな～？」=「I'm bored, so can I see your thing~?」
-「[NPC_thatPersonName]があんたのこと、好きらしいよぉ～？」=「[NPC_thatPersonName] seems to like you~?」
 「あんたヒマでしょ？　あたしとエッチしなさい」=「You're free, right? Have sex with me」
 「あはっ、あんたやるじゃんっ！　いい噂、あたしにも届いてるんだけどっ♪」=「Aha, you're doing great! I've heard good things about you too♪」
 「じゃ……これで元気出しなさい♪」=「Then... cheer up with this♪」
@@ -313,7 +303,6 @@
 「あんたさ、アレ見たい？」=「Do you want to see that?」
 「あんた、よっわ～い♪　ゲームでもあたしに勝てないわけ～？」=「You're so weak♪ Can't even beat me in a game~?」
 「……あたしって、そんな敵を作っちゃうような性格してる？」=「... Do I have a personality that makes enemies?」
-「[NPC_thatPersonName]……なーんか悪い噂しか聞かないのよ」=「[NPC_thatPersonName]... I only hear bad rumors about them」
 「みんな、集まりなさーい！」=「Everyone, gather around!」
 「あはっ♪　それじゃよろしく～♪」=「Aha♪ Then let's get along~♪」
 「……いつまでも気にしてもしょうがないわよね、この場を楽しまなきゃっ」=「... There's no point in worrying forever, let's enjoy the moment」
@@ -342,7 +331,6 @@
 「……あんたと話し過ぎて、全然進まなかったわね」=「... Talked too much with you, didn't get anything done」
 「あんたって、意外とモテるんだ？　いい話をよく聞くのよね～」=「Are you surprisingly popular? I hear good things about you~」
 「ふーん？　いいこと聞けちゃったかも……くふふっ♡」=「Hmm? I might have heard something good... kufufu♡」
-「[NPC_thatPersonName]、けっこういいヤツだし、あんた気が合うんじゃない？　仲良くしてみれば？」=「[NPC_thatPersonName] is a pretty good person, you might get along, why not try being friends?」
 「自分に自信がなくていっつも周りの目ばっかり気にしてる小心者に言われても響くわけないんだけどな～？」=「Even if a timid person who's always worried about others' opinions says something, it doesn't resonate with me~?」
 「は？　なに堂々と答えてるわけ？　最低よ、あんた」=「Huh? Why are you answering so confidently? You're the worst」
 「あはっ、いい時に誘ってくれるじゃん……♪　あんたを思い切り感じさせて……♡」=「Aha, inviting me at a good time...♪ Make me feel you completely...♡」
@@ -368,7 +356,6 @@
 「はいはい、あたしもあたしも」=「Alright, me too」
 「んんんっ……あはっ、そんなにキスしたかったのぉ……？」=「Nnnn... aha, did you want to kiss that much...?」
 「え？　なんだって？」=「Eh? What was that?」
-「あんた、[NPC_thatPersonName]とエッチしたの？」=「Did you have sex with [NPC_thatPersonName]?」
 「あんたより面白い人見つけちゃったからぁ、別れてくれる？」=「I found someone more interesting than you, can we break up?」
 「そういう風に見てたんだ……あっそ」=「So that's how you saw it... oh well」
 「そうに決まってるでしょ？　わかったなら頑張りなさいよね～」=「It has to be that way, right? If you understand, do your best~」
@@ -411,13 +398,11 @@
 「あんたねぇ……セクハラで訴えられたいわけ？」=「Do you want to be sued for sexual harassment?」
 「ふーん、ならいいけど～」=「Hmm, that's fine then~」
 「あいつがぁ……？　なーんか嘘くさいわね～」=「That guy...? Sounds fishy to me~」
-「[NPC_thatPersonName]ともっと仲良くしたいから、あんた手伝いなさいよ」=「I want to get closer to [NPC_thatPersonName], so help me out.」
 「今日の分、まだしてないよね～？　じゃあ今すぐしちゃおっか～♡」=「You haven't done today's share yet, right? Let's do it right now~♡」
 「ま、まだ食べるのぉ～？　よく食べれるわね……うぷっ……」=「You're still eating? You really can eat a lot... ugh...」
 「はぁ、なんだあんたか……なーにー？　今あんまし元気ないのよねー……」=「Oh, it's you... What do you want? I'm not feeling very energetic right now...」
 「したいようにするのが一番だけど、押しすぎても引かれちゃうかもね～」=「Doing what you want is best, but if you push too hard, you might be pushed away.」
 「ふぅん、あたしの恋人になりたいんだー？　いいよ、付き合ってあげる♪」=「Hmm, you want to be my lover? Sure, I'll go out with you♪」
-「[NPC_thatPersonName]入れて、三人でエッチしてみない～？」=「Want to have a threesome with [NPC_thatPersonName]?」
 「けっこう好きな部類かもねー」=「I might quite like it.」
 「……あたしはそのつもりないんだけど～？」=「...I don't intend to do that though~?」
 「あんたっ、前からず～～～～っとうざいっ、うざすぎっ！」=「You've been annoying for sooooo long!」
@@ -425,24 +410,20 @@
 「なぁに？　あたしに相手してほしいんだ～？」=「What? You want me to keep you company?」
 「混雑してきたわね……ううん、これくらい全然平気よ」=「It's getting crowded... but this much is totally fine.」
 「さっき掃除したのに、もう汚れてる……なんなのよ……」=「I just cleaned, and it's already dirty... what is this...」
-「また[NPC_thatPersonName]がエッチしまくってる話聞いちゃったぁ……お猿さんみたい」=「I heard again about [NPC_thatPersonName] fooling around... like a monkey.」
 「あんたみたいなザコみてると……くふふ、ついいじめたくなっちゃうっ♡」=「When I see someone like you, I just want to bully you~♡」
 「えー、そんなの絶対ウソっ、あいつがそんなにイイヤツなわけないし～」=「Oh, that's definitely a lie, there's no way that person is that good.」
 「にひひっ……このあたしが撫でてあげるなんて、すっごく光栄なことなんだからね♪」=「Nihihi... it's an honor for you to be petted by me, you know~♪」
 「なに勘違いしちゃってるの～？　あんたとあたし、ただの友達だよね～？」=「What are you misunderstanding? We're just friends, right?」
 「……なんであいつの名前が出るわけ？　ねぇ、あたしがどう思ってるかも知らないくせに……」=「...Why is that person's name coming up? You don't even know how I feel...」
-「あとで[NPC_comehereLaterMap]に来なさい」=「Come to [NPC_comehereLaterMap] later.」
 「ま、そういう姿勢は悪くないんじゃない？　あたしはそう思うけど」=「Well, that attitude isn't bad, I think.」
 「んん……なんか今、えっちな気分なのよねー……」=「Hmm... I'm feeling a bit naughty right now...」
 「あんたの秘密をバラされたくなかったら……ちゃぁんと言うこと、聞いてよね～？」=「If you don't want your secret revealed... you better listen to me~?」
 「はぁ……ようやく終わるのね……」=「Ha... finally over...」
 「そろそろ勉強でもすれば～？　ま、あたしには関係ないけど～？」=「Isn't it about time you studied? Well, it doesn't matter to me~?」
 「ま、今回はこれだけやれば十分でしょ」=「Well, this much should be enough for now.」
-「[PC_thatPersonName]のこと、みんなで構ってあげちゃおっか～♪」=「Let's all give [PC_thatPersonName] some attention~♪」
 「運動とか力仕事とかって、出来る人にやらせとけばよくな～い？」=「For exercise or physical work, isn't it better to let those who can do it handle it?」
 「もちろんいいけどぉ～……どうなっても知らないよ～？」=「Of course it's fine, but... whatever happens, I won't be responsible~?」
 「ん～？　なに～？」=「Hmm? What?」
-「[NPC_thatPersonName]がしつこいんだけど……あんた、どうにかしてくれない？」=「[NPC_thatPersonName] is being persistent... can you do something about it?」
 「はぁ……ま、付き合ってあげる♪」=「Ha... well, I'll keep you company♪」
 「あんたの方から言ってくれて助かったわ～」=「I'm glad you said it first~」
 「微妙な感じだったけど、なんだかんだ楽しめてるわね～……」=「It was a bit awkward, but I ended up enjoying it after all...」

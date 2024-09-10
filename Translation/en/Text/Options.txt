@@ -1,4 +1,3 @@
-オプション=Options
 カメラ設定=Camera Settings
 描画設定=Graphics Settings
 画面設定=Screen Settings
@@ -6,6 +5,7 @@
 音声設定=Voice Settings
 テキスト設定=Text Settings
 エッチ設定=H Settings
+プラグイン設定=Plugin Settings
 注視点の表示=Show Focal Point
 カメラ縦移動=Vertical Camera
 カメラ横移動=Horizonal Camera

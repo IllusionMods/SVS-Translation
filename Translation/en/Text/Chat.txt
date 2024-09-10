@@ -2,13 +2,15 @@
 日常的な話題=Everyday topics
 恋愛的な話題=Romantic topics
 エッチな話題=Naughty topics
+
 聞いてほしい=Influence
 励ます=Cheer Up
 なだめる=Calm Down
 褒める=Praise
 愚痴をこぼす=Grumble
 謝る=Apologize
-もの申す=Confront
+もの申す=Fight
+
 アドバイスする=Give Advice
 食事を勧める=Encourage to eat
 勉強を勧める=Encourage to study
@@ -17,6 +19,7 @@
 人間関係を反省させる=Reflect on relationships
 色恋沙汰を反省させる=Reflect on love affairs
 エッチを反省させる=Reflect on sex
+
 相談する=Ask For Advice
 食事の相談=Dietary advice
 勉強の相談=Study advice
@@ -25,32 +28,38 @@
 人間関係の相談=Relationship advice
 恋愛の相談=Love affairs advice
 エッチの相談=Sex advice
+
 あの人について=Gossip
 良い噂がある=I have a good rumor
 悪い噂がある=I have a bad rumor
 仲良くしてほしい=I want to get along with...
 仲良くしたい=Try to get along with...
 どう思う？=What do you think of...?
+
 一緒にしよう=Invite
 食事しよう=Let's go eat
 勉強しよう=Let's study
 運動しよう=Let's get some exercise
 バイトしよう=Let's go to work
 部屋に来ない？=Let's go to my place
+
 想いを伝える=Love
-好意を示す=Show affection
+好意を示す=Confess
 日曜昼に遊ぼう=Ask on a date
 交際を申し込む=Let's be lovers
 別れてくれ=Let's break up
+
 スキンシップ=Contact
 なでなでする=Headpat
 抱きしめる=Hug
 キスする=Kiss
 おさわりする=Grope
 エッチしよう=Sex
+
 移動を頼む=Travel
 ちょっと来てほしい=Follow me
 後でここに来てほしい=Come here later
+
 オネガイゴト=Blackmail
 オネガイゴトをする=Extort
 あの人を避けてほしい=Ignore

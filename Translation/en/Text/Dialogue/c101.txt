@@ -79,7 +79,6 @@
 「ふーん、なるほどな」=「Hmm, I see.」
 「はは、ポジティブな話題があったらまた知らせるわ！」=「Haha, I'll let you know if there's any positive news again!」
 「そうか……あんま無理はするなよ」=「I see... don't push yourself too hard.」
-「あとで[NPC_comehereLaterMap]に来てくれないか？」=「Could you come to [NPC_comehereLaterMap] later?」
 「もう見えてるだろ？　ほら、よく見ろよ」=「You can see it now, right? Look closely.」
 「なぁ……これからしないか？」=「Hey... want to do it now?」
 「ここに来たってことは、そういうことだよな？　いいぜ、始めようぜ」=「Since you came here, that's what it means, right? Alright, let's start.」
@@ -103,7 +102,6 @@
 「おっ……これ、けっこう旨いぞ！　お前も食ってみろよ」=「Oh... this is pretty good! You should try it too.」
 「なあ、俺ん家で遊ばねぇか？」=「Hey, want to hang out at my place?」
 「……お前は、何か話しておきたいこととかないのか？」=「...Is there anything you want to talk about?」
-「俺の[NPC_onesProperty0_item]とお前の[PC_onesProperty0_item]、交換してくれねぇか？」=「Could you trade my [NPC_onesProperty0_item] with your [PC_onesProperty0_item]?」
 「はっきり言うが嫌いだ」=「To be blunt, I hate you.」
 「お前の言うことになんか従わねぇよ……！」=「I'm not going to follow what you say...!」
 「ギャアギャア喚くんじゃねぇよ鬱陶しい！　だからお前はムカつくんだ！」=「Stop squawking, it's annoying! That's why you piss me off!」
@@ -111,7 +109,6 @@
 「よし、それでいい」=「Alright, that's fine.」
 「……すまん、ちょっと冷静さを欠いていたな」=「...Sorry, I lost my cool for a bit.」
 「こうしてると、なんか落ち着くよな」=「It feels calming like this, doesn't it?」
-「[NPC]と[NPC2]、どっか行っちまったみたいだ……何があったんだろうな？」=「[NPC] and [NPC2] seem to have gone somewhere... what happened?」
 「はぁ……」=「Sigh...」
 「ダメか……こりゃ時間かかるかもな」=「Is it no good...? This might take some time.」
 「実は俺も嫌いなんだよなぁ」=「Actually, I hate it too.」
@@ -127,7 +124,6 @@
 「お前の得意なスポーツはなんだ？　ちなみに俺は基本的に何でも得意だ！」=「What's your favorite sport? I'm generally good at anything!」
 「んで、ここで何の話をするんだ？」=「So, what are we going to talk about here?」
 「ん…………っと、すまんすまん……で、何の用だ？」=「Uh... sorry, sorry... so, what do you need?」
-「お前に頼みがあってな……[NPC_thatPersonName]と仲良くなりたいんだが、協力してもらえねぇか？」=「I have a favor to ask... I want to get closer to [NPC_thatPersonName], can you help me?」
 「気を付けろよ？　色々とな……」=「Be careful, alright? In various ways...」
 「お前は好きな人ができたらすぐに告白するタイプか？　まあちょっと、色々参考にさせてくれ」=「Are you the type to confess as soon as you like someone? Let me use you as a reference.」
 「特に何も……だな」=「Nothing in particular...」
@@ -138,7 +134,6 @@
 「いや、してねぇけど……」=「No, I haven't done it...」
 「これ以上、あいつに近づくな……これは警告だ」=「Don't get any closer to that person... this is a warning.」
 「あー……そんな信じられない話だったか？」=「Ah... was it such an unbelievable story?」
-「お前、[NPC_thatPersonName]とセックスしたのか？」=「Did you have sex with [NPC_thatPersonName]?」
 「人との関わり、もうちょっと増やした方が良いのか？」=「Should I increase my interactions with people?」
 「なんかお前のこと、撫でたくなったんだよな」=「I just felt like patting you.」
 「あー……ちょっと待ってろ、店長に確認してくる」=「Ah... wait a moment, I'll check with the manager.」
@@ -150,7 +145,6 @@
 「なんだなんだ、また言い負かされに来たのか？」=「What's this, did you come to get out-argued again?」
 「おい、お前にはガツンと言わなきゃならないことがあるんだよ」=「Hey, there's something I need to tell you straight up.」
 「なに当然のことを聞いてんだ？　食べなきゃ元気が出ないだろ」=「Why are you asking the obvious? You can't get energy without eating.」
-「最近[NPC_thatPersonName]に付きまとわれてんだよ……どうにかしてくれねぇか？」=「Recently, [NPC_thatPersonName] has been following me around... can you do something about it?」
 「さすがにはしゃぎ過ぎんのはちょっとな……自重するか」=「Going overboard with excitement is a bit much... maybe I should restrain myself.」
 「はぁ、はぁ……思ってたより、疲れたな……」=「Huff, huff... I'm more tired than I thought...」
 「お前……こんなところで何してるんだ？」=「What are you doing in a place like this?」
@@ -160,7 +154,6 @@
 「俺の言うことに従えない、と……なら、対応を考えなきゃならねぇな」=「You can't follow what I say... then I need to think of a response.」
 「正直に強く求める方が、潔くて良いよな？」=「Honestly expressing your desires is refreshing, isn't it?」
 「まあ、なんだ……お前のよくない噂が流れてるぞ」=「Well, there's a bad rumor about you going around.」
-「[NPC_thatPersonName]、お盛んみたいだな……お前も噂、聞いたことないか？」=「[NPC_thatPersonName] seems quite active... haven't you heard the rumors?」
 「……別に、仲良くする必要はないだろ？」=「...There's no need to get along, right?」
 「そこまで頼み込んでくるなら仕方ねぇな……いいぞ、自由にしてやる」=「If you're begging that much, I guess I have no choice... alright, you're free.」
 「ああ、いるぜ」=「Yeah, I'm here.」
@@ -171,7 +164,6 @@
 「なるほどな……なら、可能性は０じゃないってわけだ」=「I see... so there's still a possibility.」
 「チッ……」=「Tsk...」
 「この調子で頑張って終わらせるとするか」=「Let's keep pushing at this pace and finish it.」
-「俺の[NPC_onesProperty1_item]とお前の[PC_onesProperty1_item]、交換してくれねぇか？」=「Could you trade my [NPC_onesProperty1_item] with your [PC_onesProperty1_item]?」
 「おう、どうした？」=「Hey, what's up?」
 「ん……なんだよ、そういう気分になったのか？」=「Mm... what's up? Are you in that kind of mood?」
 「そうか……」=「I see...」
@@ -229,7 +221,6 @@
 「よっしゃ、盛り上がってきたなっ！」=「Alright, it's getting exciting!」
 「向こうの奴らにみたいに、俺達も始めねぇか？」=「Should we start like those guys over there?」
 「……これでいいだろ？」=「...This should be fine, right?」
-「みんな、[NPC_thatPersonName]のことを気にかけてくれないか？」=「Everyone, can you look out for [NPC_thatPersonName]?」
 「お前のことが好きだぜ」=「I like you.」
 「あんま信じられねぇな……」=「I can't quite believe it...」
 「ああ……これで俺は自由だ」=「Yeah... now I'm free.」
@@ -271,7 +262,6 @@
 「んじゃ、俺と付き合ってみないか？　別に悪い話じゃないだろ」=「Then, why don't you go out with me? It's not a bad idea, right?」
 「ほら……どうだ？　旨いか？」=「Here... how is it? Is it good?」
 「やめとけやめとけ……どうせ面倒なことになるだけだぞ」=「Stop it, stop it... it'll just become a hassle.」
-「明日の朝、[NPC_comehereLaterMap]に来てくれるか？」=「Can you come to [NPC_comehereLaterMap] tomorrow morning?」
 「あいつとぉ？　悪いがそれは無理だ」=「With that guy? Sorry, but that's impossible.」
 「おう、さっきは気を遣わせて悪かったな」=「Oh, sorry for making you worry earlier.」
 「ああ、勿論だ……お前には、俺しかいないんだからな」=「Of course... you're the only one for me.」
@@ -281,7 +271,6 @@
 「チッ……何の用だ？」=「Tch... what do you want?」
 「これは、あれか……俺の勘違いか……ああいや、何でもないから気にするな」=「Is this... a misunderstanding on my part...? Oh no, don't worry about it.」
 「ん……ありがとな」=「Thanks...」
-「お前って、[NPC_thatPersonName]の事はどう思ってるんだ？」=「What do you think of [NPC_thatPersonName]?」
 「人と関わることが一番人間を成長させるんだから、そういう姿勢は悪くないぜ」=「Interacting with people is what helps humans grow, so that attitude isn't bad.」
 「んなことを言われても……俺、童貞だぞ？」=「Even if you say that... I'm a virgin, you know?」
 「ふぅ……ダメだ、気を抜くとつい呆けてしまう……」=「Phew... no good, if I let my guard down, I end up spacing out...」
@@ -291,14 +280,12 @@
 「なんだ、落ち込んでるのか？　元気出せって、笑顔でいる方が楽しいぞ」=「What, are you feeling down? Cheer up, it's more fun to be smiling.」
 「そうか」=「I see.」
 「そういうのは、俺にはまだちょっと早ぇと思うんだよな」=「I think that's still a bit early for me.」
-「[NPC_thatPersonName]の噂、知ってるか？　近頃評判が良いみたいだぞ」=「Have you heard the rumors about [NPC_thatPersonName]? They seem to have a good reputation lately.」
 「ふぅん、そうか……可哀想にな、あいつに迫られて断れなかったんだろ？」=「Hmm, I see... poor thing, you couldn't refuse when they approached you, right?」
 「そうか……お前は、あいつが好きなんだな……」=「I see... you like that person, huh...」
 「ったく、謙遜せずに受け止めろ」=「Geez, accept it without being modest.」
 「そうだな……ちょっと、そういうところはあるかもしれん」=「Yeah... maybe there's a bit of that.」
 「本当に腹立たしい顔してんなぁ、お前は！」=「You really have an annoying face!」
 「お前って、セックスしたことあんのか？」=「Have you ever had sex?」
-「いいか、[NPC_thatPersonName]と接触するんじゃないぞ」=「Don't interact with [NPC_thatPersonName].」
 「はぁ……気分をリセットさせないとな」=「Ugh... I need to reset my mood.」
 「マジか？　なんか照れくさいな……」=「Seriously? That's kind of embarrassing...」
 「……そうか……まあ、経験ない奴とはしたくねぇよな」=「...I see... well, you wouldn't want to be with someone inexperienced, right?」
@@ -306,7 +293,6 @@
 「ふ……動くんじゃないぞ？」=「Heh... don't move.」
 「お前の周りに惚気話をする奴はいるか？　ああいうのって、正直リアクションに困るよな……」=「Do you have anyone who brags about their love life around you? Honestly, it's hard to react to that...」
 「否定してくれるのか？　そうか……ありがとな」=「You're denying it? I see... thanks.」
-「そういや、[NPC_thatPersonName]が告白されたらしいぞ」=「By the way, I heard [NPC_thatPersonName] got confessed to.」
 「仕事しに神社まで行って来いよ」=「Go to the shrine for work.」
 「最近調子はどうだ？」=「How have you been lately?」
 「本当か？　正直、かなり怪しいんだが……」=「Really? Honestly, it's quite suspicious...」
@@ -328,10 +314,8 @@
 「おい、勉強はちゃんとしとけよ」=「Hey, make sure to study properly.」
 「ああ、いいぞ！　そもそも悪い事じゃないんだから、お前は間違ってない」=「Yeah, that's fine! It's not a bad thing in the first place, you're not wrong.」
 「一食ぐらいは軽く済ませてもいいんじゃねぇか」=「One meal can be light, right?」
-「[NPC_thatPersonName]……最近よくない噂が流れてんだよなぁ」=「[NPC_thatPersonName]... there's been some bad rumors going around lately.」
 「あー……気分じゃねぇし、遠慮しとく」=「Ah... I'm not in the mood, so I'll pass.」
 「おう、また用があるのか？」=「Oh, do you need something again?」
-「みんな、[PC_thatPersonName]のことを気にかけてくれないか？」=「Everyone, can you look out for [PC_thatPersonName]?」
 「今日はまだ愛し合ってないだろ？　ほら、始めようぜ」=「You haven't made love today, right? Come on, let's start.」
 「ここ最近、笑えるような出来事はあったか？」=「Have there been any funny incidents lately?」
 「悪いが、このまま友達でいてくれねぇか？」=「Sorry, but can we just stay friends?」
@@ -390,8 +374,6 @@
 「楽しむことに集中したいんだが……難しいもんだな」=「I want to focus on having fun... but it's not easy.」
 「……お前に撫でられるのは、悪い気しないな」=「...Being petted by you doesn't feel bad.」
 「誰もいないし……チャンスだと思わねぇか？」=「There's no one around... don't you think it's a chance?」
-「[NPC_thatPersonName]、お前のことが好きらしいぞ」=「[NPC_thatPersonName] seems to like you.」
-「お前と[NPC_thatPersonName]は気が合うと思うんだよな、仲良くしてみたらどうだ？」=「I think you and [NPC_thatPersonName] would get along, why not try being friends?」
 「よし、いい表情になったな！」=「Alright, you've got a good expression now!」
 「いや、そんなことはないと思うぞ」=「No, I don't think so.」
 「おい、お前がそいつに近づくな」=「Hey, don't get close to that person.」

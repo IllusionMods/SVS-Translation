@@ -1,1 +1,15 @@
+ゲームプレイ=Main Game
+キャラクリエイト=Character Maker
+アップローダー=Uploader
+オプション=Options
+利用規約=Terms of Use
+マニュアル=Manual
+終了する=Exit Game
+はじめから=New Game
+つづきから=Continue
+女キャラ=Female
+男キャラ=Male
+戻る=Return
 アップロード=Upload
+ダウンロード=Download
+言語設定=Language
