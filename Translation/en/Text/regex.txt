@@ -1,6 +1,6 @@
 r:"^女性([０-９0-9]+)人(／|/)男性([０-９0-9]+)人$"=$1 Female / $2 Male
-sr:"^『本日の占い』\n～～～積極的に人と関わってみましょう。何か(.+?)ことが(.+?)かもしれません～～～$"=Try to actively engage with people. Something $1 might happen that $2
-sr:"^『本日の占い』\n～～～運命の人と出会えるかも。恋人が(.+?)人は(.+?)ナーを大切に～～～$"=You might meet your destined person. If you have a lover, cherish your partner
+//sr:"^『本日の占い』\n～～～積極的に人と関わってみましょう。何か(.+?)ことが(.+?)かもしれません～～～$"=Try to actively engage with people. Something $1 might happen that $2
+//sr:"^『本日の占い』\n～～～運命の人と出会えるかも。恋人が(.+?)人は(.+?)ナーを大切に～～～$"=You might meet your destined person. If you have a lover, cherish your partner
 sr:"^ちょっと(.+)$"=A little $1.
 sr:"^(.+)ファ$"=$1 F
 sr:"^し(.+)$"=$1
@@ -10,9 +10,6 @@ sr:"^(.+)目 首の向き$"=$1 Eye orientation
 sr:"^会いに(.+)$"=$1 to meet
 sr:"^(.+)の運勢$"=$1 fortune
 sr:"^すごく(.+)！$"=Very $1!
-sr:"^告白して(.+)$"=Confess, $1.
-sr:"^告白(.+.)側$"=Confessed side
-sr:"^一緒に行動(.+)回数$"=Sex together
 r:"^([1１])回$"=$1 time
 r:"^([０-９0-9]+)回$"=$1 times
 r:"^([1１])人$"=$1 person
@@ -35,6 +32,10 @@ r:"^付け毛([０-９0-9]+)$"=Hair $1
 r:"^付け毛([０-９0-9]+)（左）$"=Hair $1 (Left)
 r:"^付け毛([０-９0-9]+)（右）$"=Hair $1 (Right)
 sr:"^エンブレム(\w)$"=Emblem $1
+sr:"^(.+)との関係$"=Relationship with $1
+r:"^([1１])日$"=$1 day
+r:"^([０-９0-9]+)日$"=$1 days
+sr:"^(.+[^と])の(.+)$"= $1's $2
 
 // Prevent placeholder text from being sent to the translator.
 r:"^(あいうえおかきくけこ)+$"=ETAOIN SHRDLU

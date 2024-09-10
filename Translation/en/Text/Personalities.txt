@@ -1,0 +1,14 @@
+キャラメイク=Personality
+普通=Ordinary
+クール=Cool
+妖艶=Bewitching
+純真無垢=Innocent
+生意気=Cheeky
+ギャル=Gyaru
+健気=Hesitant
+母性=Motherly
+小悪魔=Devilish
+ヤンキー=Yankee
+
+豪快=Bold
+好青年=Agreeable

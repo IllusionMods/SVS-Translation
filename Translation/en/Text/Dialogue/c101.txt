@@ -1,3 +1,7 @@
+// c101 - Bold
+// Place translated line after the =
+// Remember to uncomment lines that are translated
+
 「美味い飯屋を開拓したいんだが、オススメの店はないか？」=「I want to explore delicious restaurants, do you have any recommendations?」
 「なぁ、俺と付き合ってみねえか？」=「Hey, why don't you go out with me?」
 「そうか、したのか……そうかぁ」=「I see, you did it... I see.」

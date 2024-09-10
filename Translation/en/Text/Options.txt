@@ -5,10 +5,13 @@
 音声設定=Voice Settings
 テキスト設定=Text Settings
 エッチ設定=H Settings
+プラグイン設定=Plugin Settings
 
 注視点の表示=Show Focal Point
 カメラ縦移動=Vertical Camera
 カメラ横移動=Horizonal Camera
+注視点の表示=Show Crosshair
+縦移動=Vert.
 標準=Normal
 反転=Inverted
 カメラ速度X軸=Horizonal Speed
@@ -23,6 +26,9 @@
 描画レベル=Quality Level
 フォグ=Fog
 被写界深度=Depth of Field
+反転=Turn
+カメラ速度X軸=Cam Speed X
+描画設定=Graphics
 ブルーム=Bloom
 ビネット=Vignette
 マップ上のポイント=Map Interactions
@@ -31,6 +37,7 @@
 
 マスター=Master
 環境音=Ambience
+環境音=Environment
 システムSE=System SFX
 ゲームSE=Game SFX
 MAP上の会話=BG Conversations
@@ -69,3 +76,20 @@ OFF=Off
 
 初期化する=Reset
 タイトルに戻る=Return to Title
+
+遅=-
+速=+
+カメラ初期化判断=Move Camera On Position Change
+カラー=Color
+スペースキーで戻ります=Spacebar To Return
+目=Iris
+口=Mouth
+眉=Eyebrows
+ライトカラー=Light Color
+背景色=Color
+はい=Yes
+いいえ=No
+身長=Body Height
+頭のサイズ=Head Size
+調整=Adjust
+閉じる=Close

@@ -1,3 +1,7 @@
+// c05 - Bewitching
+// Place translated line after the =
+// Remember to uncomment lines that are translated
+
 「少し、私に付いて来てくれませんか？」=「Could you follow me for a bit?」
 「調子はいかがですか？」=「How are you feeling?」
 「このようなノリで決めるものではないと思うので……すみません」=「I don't think this is something to be decided in such a manner... I'm sorry.」

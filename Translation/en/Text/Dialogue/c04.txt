@@ -1,3 +1,7 @@
+// c04 - Brave
+// Place translated line after the =
+// Remember to uncomment lines that are translated
+
 「最近、調子はどうですか？」=「How have you been lately?」
 「ありがとうございます」=「Thank you.」
 「えっ……見ているだけで、よかったんですか……？」=「Eh... Was it okay to just watch...?」

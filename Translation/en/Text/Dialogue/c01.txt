@@ -1,3 +1,7 @@
+// c01 - Cheeky
+// Place translated line after the =
+// Remember to uncomment lines that are translated
+
 「むっ……」=「Hmm...」
 「ん、それでいいわ」=「Yes, that's fine.」
 「危ない日だしムリ……そういう配慮くらいはできるよね～？」=「It's a risky day, so no... You can at least be considerate, right?」

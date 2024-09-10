@@ -1,3 +1,7 @@
+// c09 - Yankee
+// Place translated line after the =
+// Remember to uncomment lines that are translated
+
 「……わりぃ、そうだよな……あたしなんかとじゃ、お前もイヤだよな……」=「......Sorry, you're right... you must not want to be with someone like me...」
 「いや、もうこれ以上はどうしろってんだよ……」=「No, seriously, what more do you want me to do...?」
 「へへっ、ま、わりぃ気はしねえっつーか……」=「Hehe, well, I don't really mind...」

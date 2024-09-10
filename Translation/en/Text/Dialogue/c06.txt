@@ -1,3 +1,7 @@
+// c06 - Innocent
+// Place translated line after the =
+// Remember to uncomment lines that are translated
+
 「ねぇねぇ、きみにとってわたしは、どんな子？」=「Hey, hey, what kind of person am I to you?」
 「きみって恋人いるの？」=「Do you have a girlfriend?」
 「えへへぇ……♪　うんっ、いいよーっ♪」=「Hehehe...♪ Okay, sure♪」

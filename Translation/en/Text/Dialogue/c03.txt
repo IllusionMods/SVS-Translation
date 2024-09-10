@@ -1,3 +1,7 @@
+// c03 - Gyaru
+// Place translated line after the =
+// Remember to uncomment lines that are translated
+
 「あはっ、けっこーデキちゃった！　あたしって天才かも！」=「Ahaha, I did pretty well! I might be a genius!」
 「ねねっ、ちょーっと付いて来て？」=「Hey, hey, can you come with me for a bit?」
 「ちょっとぉ……今の、見た……？」=「Hey... did you see that just now...?」

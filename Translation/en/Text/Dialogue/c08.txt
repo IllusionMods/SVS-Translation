@@ -1,3 +1,7 @@
+// c08 - Devilish
+// Place translated line after the =
+// Remember to uncomment lines that are translated
+
 「今は……そっとしておいてほしいの」=「Right now... I just want to be left alone.」
 「ふーん……よく話しかけられるわね？　あたしを怒らせたこと、気付いてないの？」=「Hmm... You get spoken to often, don't you? Haven't you realized you made me angry?」
 「あんなに熱心に見てたのに、つれないわね……」=「You were watching so intently, but now you're indifferent...」
