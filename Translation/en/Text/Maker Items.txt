@@ -1,6 +1,7 @@
 目元の陰=Shadowed Eyes
 ホクロ=Mole
 そばかす=Freckles
+
 ハート=Heart
 アイドル=Idol
 星=Star
@@ -9,6 +10,7 @@
 羊目=Sheep Eye
 光=Light
 バツ=Cross
+
 横長=Broad
 四角=Rectangular
 三角=Triangle
@@ -22,9 +24,11 @@
 大縦長=Wide And Wispy
 そり跡=Pubic Stubble
 小盾=Small Shield
+
 筋肉質=Muscular
 スレンダー=Slender
 ぽっちゃり=Chubby
+
 腹・下腹部=Belly / lower abdomen
 背中・うなじ=Between Shoulder Blades
 右尻=Right Buttcheek
@@ -39,6 +43,7 @@
 右手甲=Right hand
 左手甲=Left hand back
 左腕=Left Forearm
+
 シズク=Tear
 三日月=Crescent Moon
 猫=Cat
@@ -76,6 +81,7 @@
 淫紋B=Lewd Crest B
 チア=Cheers
 ゼッケン=Athlete Bib
+
 ストレートボブ=Straight Bob
 ミドルヘア=Middle Hair
 サイドテール（左）=Side Tail (Left)
@@ -117,6 +123,7 @@
 ＜ベース＞おさげ=<Base> Braids
 ＜ベース＞ツインテール=<Base> Twintails
 ＜ベース＞ミドルツインテ=<Base> Middle Twintails
+
 サイドカールバング=Side Curls
 レフトボリュームエムバング=M-Shaped, Parted Left
 ライトボリュームエムバング=M-Shaped, Parted Right
@@ -159,6 +166,7 @@
 エアインテーク=Air Vents
 左流しアシンメトリ=Left-Flowing Asymmetry
 右流しアシンメトリ=Right-Flowing Asymmetry
+
 ミドルサイド=Middle Sides
 スマートサイド=Smart Sides
 耳隠しサイド=Ear-Hiding Sides
@@ -170,6 +178,7 @@
 細三つ編みサイド=Braid side
 カールサイド=Curly Sides
 ゆる巻きカールサイド=Loose Curl Sides
+
 はねつけ毛=Splashy
 ニュアンス=Nuanced
 Wニュアンス=Double Nuanced
@@ -184,6 +193,8 @@ Wお団子=Double Buns
 くるくる=Curled
 ギザギザ=Jagged
 ミニハート=Mini-Heart
+
+
 帯1=Sash 1
 帯2=Sash 2
 帯雷=Thunder
@@ -209,6 +220,7 @@ Wお団子=Double Buns
 キラ=Sparkle
 六角=Hexagon
 スター=Star
+
 Tシャツ=T-Shirt
 サロペットワンピース=Dress with Overalls
 ノースリーブニット=Sleeveless Knit
@@ -268,6 +280,7 @@ Yシャツ(男)=Y-Shirt (Male)
 ジャケットB(男)=Jacket B (Male)
 カジュアルシャツ(男)=Casual Shirt (Male)
 小悪魔トップス=Little Devil Top
+
 ショートデニム=Denim Shorts
 ショートパンツ=Shorts
 ロールアップパンツ=Rolled-Up Pants
@@ -313,6 +326,7 @@ Yシャツ(男)=Y-Shirt (Male)
 腰巻きタオル(男)=Wrapped Towel (Male)
 海パン=Swim Briefs
 小悪魔パンツ=Little Devil Pants
+
 シンプルブラ=Simple Bra
 ビキニ水着トップス=Bikini Top
 競泳水着=Competition Swimsuit
@@ -343,6 +357,7 @@ Yバックワンピース水着=Y-Back One-Piece
 マイクロビキニトップス=Micro Bikini Top
 眼帯ビキニトップス=Eye Belt Bikini Top
 ロボスーツ=Robo Suit
+
 シンプルショーツ=Simple Panties
 ビキニ水着ボトムス=Bikini Bottom
 フロントレースショーツ=Front Laced Panties
@@ -367,6 +382,7 @@ Fオープンショーツ=Split Open Panties
 レザーTバック=Leather T-Back
 マイクロビキニボトムス=Micro Bikini Bottom
 眼帯ビキニボトムス=Eye Belt Bikini Bottom
+
 ミドルグローブ=Middle Gloves
 ショートグローブ=Short Gloves
 ロンググローブ=Long Gloves
@@ -378,6 +394,7 @@ Fオープンショーツ=Split Open Panties
 ロボグローブ=Robo Gloves
 雷神袖=Thunder Goddess Sleeves
 小悪魔グローブ=Little Devil Gloves
+
 パンストソックス=Pantyhose
 ローライズパンストA=Low-Rise Pantyhose a
 ローライズパンストB=Low-Rise Pantyhose B
@@ -386,6 +403,7 @@ Fオープンショーツ=Split Open Panties
 スパッツ=Spats
 カウガーター =Cow Garter???
 網タイツ=Fishnet Tights
+
 ソックス=Socks
 ニーハイソックス=Knee-High Socks
 折り返しソックス=Tucked Socks
@@ -401,6 +419,7 @@ Fオープンショーツ=Split Open Panties
 雷神足袋=Thunder Goddess Tabi
 サイバーソックス=Cyber Socks
 小悪魔ソックス=Little Devil Socks
+
 ランニングシューズ=Running Shoes
 カジュアルスニーカー=Casual Sneakers
 ローファー=Loafers
@@ -428,6 +447,7 @@ Fオープンショーツ=Split Open Panties
 雷神高下駄=Thunder Goddess Geta
 サイバーシューズ=Cyber Shoes
 小悪魔シューズ=Little Devil Shoes
+
 ヘアクリップ=Hair Clip
 ヘアピン=Hairpin
 レース付きリボン=Ribbon with Lace
@@ -450,6 +470,7 @@ Fオープンショーツ=Split Open Panties
 ボールヘアゴム（左）=Ball Hair Tie (Left)
 ボールヘアゴム（右）=Ball Hair Tie (Right)
 小悪魔リボン=Little Devil Ribbon
+
 ロングリボン=Long Ribbon
 キャスケット=Casquette
 ヘッドホン=Headphones
@@ -511,6 +532,7 @@ Fオープンショーツ=Split Open Panties
 サイバーホーン(左)=Cyber ​​Horn (Left)
 小悪魔角(左)=Little Devil Horn (Left)
 小悪魔角(右)=Little Devil Horn (Right)
+
 スクエア=Square Glasses
 ボストン=Boston Glasses
 マスク=Mask
@@ -529,6 +551,7 @@ Fオープンショーツ=Split Open Panties
 付けヒゲA=Moustache A
 付けヒゲB=Moustache B
 スティックキャンディ=Lollipop
+
 ハートペンダント=Heart Pendant
 リボンネクタイ=Ribbon Tie
 ネクタイ=Necktie
@@ -557,6 +580,7 @@ Sチェーンネックレス=S-Chain Necklace
 レザーチョーカー=Leather Choker
 サイバーネックガード=Cyber Neck Guard
 小悪魔チョーカー=Little Devil Choker
+
 リュックサック=Backpack
 天使の翼=Angel Wings
 片方の翼=One Wing
@@ -567,6 +591,7 @@ Sチェーンネックレス=S-Chain Necklace
 帯電=Thunder Goddess Aura
 サイバーアーマー=Cyber Armor
 小悪魔ウィング=Little Devil Wings
+
 ウェストでかリボン=Waist Ribbon
 猫しっぽ=Cat Tail
 ウエストポーチ=Waist Pouch
@@ -578,6 +603,7 @@ Sチェーンネックレス=S-Chain Necklace
 サイバーベルト=Cyber Belt
 サイバーテール=Cyber Tail
 小悪魔しっぽ=Little Devil Tail
+
 レースガーターリング（左）=Laced Garter Ring (Left)
 レースガーターリング（右）=Laced Garter Ring (Right)
 ミサンガA=Luck Bracelet A
@@ -585,6 +611,7 @@ Sチェーンネックレス=S-Chain Necklace
 ミサンガC=Luck Bracelet C
 ガーターポーチ(左)=Garter Pouch (Left)
 ガーターポーチ(右)=Garter Pouch (Right)
+
 シュシュ=Scrunchie
 リストバンド(左)=Wristband (Left)
 リストバンド(右)=Wristband (Right)
@@ -597,8 +624,9 @@ Sチェーンネックレス=S-Chain Necklace
 ストーンバングル=Stone Bangle
 バニーカフス(左)=Bunny Cuffs (Left)
 バニーカフス(右)=Bunny Cuffs (Right)
-サイバーショルダー(右)=Cyber Shoulder (Right)
-サイバーショルダー(左)=Cyber Shoulder (Left)
+サイバーショルダー(右)=Cyber ​​Shoulder (Right)
+サイバーショルダー(左)=Cyber ​​Shoulder (Left)
+
 シンプル指輪=Simple Ring
 宝石指輪=Jewel Ring
 大幣=Ōnusa
@@ -614,5 +642,6 @@ Sチェーンネックレス=S-Chain Necklace
 雷小槌=Thunder God Hammer
 チェーンソー=Chainsaw
 小悪魔槍=Little Devil Pitchfork
+
 バイブ=Vibrating Dildo
 アナルバイブ=Anal Vibrator

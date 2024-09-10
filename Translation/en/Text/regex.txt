@@ -36,7 +36,8 @@ r:"^付け毛([０-９0-9]+)（左）$"=Hair $1 (Left)
 r:"^付け毛([０-９0-9]+)（右）$"=Hair $1 (Right)
 sr:"^エンブレム(\w)$"=Emblem $1
 sr:"^(.+)との関係$"=Relationship with $1
-sr:"^([０-９0-9]+)日$"=$1 days
+r:"^([０-９0-9]+)日$"=$1 days
 sr:"^(.+[^と])の(.+)$"= $1's $2
+
 // Prevent placeholder text from being sent to the translator.
 r:"^(あいうえおかきくけこ)+$"=ETAOIN SHRDLU
