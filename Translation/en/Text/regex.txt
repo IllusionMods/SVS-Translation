@@ -35,4 +35,6 @@ r:"^付け毛([０-９0-9]+)$"=Hair $1
 r:"^付け毛([０-９0-9]+)（左）$"=Hair $1 (Left)
 r:"^付け毛([０-９0-9]+)（右）$"=Hair $1 (Right)
 sr:"^エンブレム(\w)$"=Emblem $1
-sr:"(あいうえおかきくけこ)+"=ETAOIN SHRDLU
+
+// Prevent placeholder text from being sent to the translator.
+r:"^(あいうえおかきくけこ)+$"=ETAOIN SHRDLU
