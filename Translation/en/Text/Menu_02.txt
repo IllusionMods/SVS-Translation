@@ -24,7 +24,8 @@
 争奪戦勝利回数=Wins Over Someone
 振られた回数=Rejections
 イった回数=Climax
-総接触回数=Total Touches
+総接触回数=Total Interactions
+一緒に行動した回数=Joint Activities
 スキンシップ回数=Affections
 隠れてエッチした回数=Private Sex
 アナル行為回数=Anal Sex
@@ -34,6 +35,8 @@
 総エッチ回数=Total Sex
 エッチ相性=H Compatibility
 付き合った日数=Days Dating
+告白した側=Confession
+告白していない=No confession yet
 いない=None
 不明=Unclear
 交際人数=Partners

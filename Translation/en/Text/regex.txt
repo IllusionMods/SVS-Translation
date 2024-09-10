@@ -1,6 +1,4 @@
 r:"^女性([０-９0-9]+)人(／|/)男性([０-９0-9]+)人$"=$1 Female / $2 Male
-//sr:"^『本日の占い』\n～～～積極的に人と関わってみましょう。何か(.+?)ことが(.+?)かもしれません～～～$"=Try to actively engage with people. Something $1 might happen that $2
-//sr:"^『本日の占い』\n～～～運命の人と出会えるかも。恋人が(.+?)人は(.+?)ナーを大切に～～～$"=You might meet your destined person. If you have a lover, cherish your partner
 sr:"^ちょっと(.+)$"=A little $1.
 sr:"^(.+)ファ$"=$1 F
 sr:"^し(.+)$"=$1
@@ -8,7 +6,6 @@ sr:"^(.+)目 視線$"=$1 eyes
 sr:"^カメラ(.+)$"=Camera $1
 sr:"^(.+)目 首の向き$"=$1 Eye orientation
 sr:"^会いに(.+)$"=$1 to meet
-sr:"^(.+)の運勢$"=$1 fortune
 sr:"^すごく(.+)！$"=Very $1!
 r:"^([1１])回$"=$1 time
 r:"^([０-９0-9]+)回$"=$1 times

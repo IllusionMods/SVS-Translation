@@ -76,6 +76,7 @@ OFF=Off
 
 初期化する=Reset
 タイトルに戻る=Return to Title
+決定=Accept
 
 遅=-
 速=+
@@ -93,3 +94,5 @@ OFF=Off
 頭のサイズ=Head Size
 調整=Adjust
 閉じる=Close
+初期化確認=Revert Settings
+設定を初期化しますか？=Revert your settings to default?
