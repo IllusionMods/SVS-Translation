@@ -327,7 +327,12 @@ internal static class ReleaseTool
                 File.WriteAllLines(dialogueFile, lines.Where(x => x.Length > 0));
         }
 
-        File.WriteAllLines(Path.Combine(dialogueDir, "generated_regex.txt"), taggedLines);
+        File.WriteAllLines(Path.Combine(dialogueDir, "generated_regex.txt"),
+                           // Deduplicate, then order regexes based on number of characters before first tag then by original text length for a small speedup at runtime
+                           taggedLines.Distinct()
+                                      .GroupBy(x => x.Substring(0, x.IndexOf('='))).Select(x => x.First())
+                                      .OrderByDescending(x => x.IndexOf('(', StringComparison.Ordinal))
+                                      .ThenBy(x => x.IndexOf('=', StringComparison.Ordinal)));
     }
 
     private static readonly List<FileSystemInfo> _toCleanup = new List<FileSystemInfo>();
