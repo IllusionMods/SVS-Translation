@@ -1,0 +1,3 @@
+#set level 5
+SimulationScene/CorrelationDiagram(Clone)/Canvas/MainPanel/CharaList/Window/BG/Content/CorrelationUI/SpeechBubble/Noise/Image/SVT-06-18=AutoResize(true, 12, 18)
+SimulationScene/CorrelationDiagram(Clone)/Canvas/MainPanel/CharaList/Window/BG/Content/CorrelationUI(Clone)/SpeechBubble/Noise/Image/SVT-06-18=AutoResize(true, 12, 18)
