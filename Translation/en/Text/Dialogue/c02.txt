@@ -482,7 +482,7 @@
 「ふむ、快楽となるなら、私は何人来ても構わない」=「Ah, actually...」
 「そんなの、お前に決まっているだろう？」=「Hmm, if it's for pleasure, I don't mind how many come.」
 「だ、そうだが？　私の役目は終わりでいいんじゃないか？」=「That's obvious, isn't it you?」
-「喧嘩ならよそでやってくれ、私には関係ない」=「That's what it is, isn't it? My role is over, right?」
+「喧嘩ならよそでやってくれ、私には関係ない」=「If you're fighting, take it somewhere else. It's got nothing to do with me.」
 「お楽しみの所すまないが、私も混ぜてくれないか？」=「Then do it elsewhere, it has nothing to do with me.」
 「二人して、何をしているんだ？」=「Sorry to interrupt your fun, but can I join in?」
 「どちらを選べと言われてもな……」=「What are you two doing?」
