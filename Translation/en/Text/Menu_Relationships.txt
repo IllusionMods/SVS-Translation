@@ -1,3 +1,39 @@
+// Jizou statue text
+関係性を見る=Relationships
+個性01=Trait 01
+個性02=Trait 02
+ペア記録=Pair Record
+個人記録=Personal Record
+※ペアとなる相手を\n選択してください=* Please select\na partner
+初交際相手=First Partner
+現在の持ち物=Normal Item
+大事な持ち物=Important Item
+口喧嘩回数=Fights Had
+口喧嘩勝利回数=Fights Won
+争奪戦勝利回数=Wins Over Someone
+振られた回数=Rejections
+イった回数=Climax
+総接触回数=Total Interactions
+一緒に行動した回数=Shared Activities
+スキンシップ回数=Physical Contact
+隠れてエッチした回数=Private Sex
+アナル行為回数=Anal Sex
+挿入行為回数=Vaginal Sex
+奉仕行為回数=Service Count
+愛撫行為回数=Caress Count
+総エッチ回数=Total Sex
+エッチ相性=Sex Compatibility
+付き合った日数=Days Dating
+告白した側=Confessed by
+告白していない=No confession yet
+いない=None
+不明=Unclear
+交際人数=Partners
+0日=0 days
+//1日=1 day
+//2日=2 days
+
+// Characters Status
 イキマショウ=Let's Cum
 邪魔者は…=In The Way...
 許さない！=Unforgivable!
@@ -54,6 +90,8 @@
 ご主人様=My Master
 ドキドキする=Makes My Heart Throb
 ムラムラする=Really Wanna Fuck
+
+// Pair Status
 相思相愛=Lovebirds
 親愛=My Darling
 心のすれ違い=Not On The Same Page
