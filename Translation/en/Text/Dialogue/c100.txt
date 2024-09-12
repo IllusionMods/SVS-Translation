@@ -85,7 +85,7 @@
 「スポーツって見るのと実際にやるのとじゃ全然違いますよね……僕もきびきび動けたらいいんですが、上手くいきません」=「Watching sports and actually doing them are completely different...... I'd love to move briskly, but it doesn't go well.」
 「謝罪されても困ります、君を許すつもりはないので」=「Even if you apologize, it won't help, I have no intention of forgiving you.」
 「どうして、僕を選んでくれなかったんですか……？」=「Why didn't you choose me......?」
-「へぇ、君がですか？　喧\nなら買いますけど」=「Oh, you? If it's a fight, I'll take it.」
+「へぇ、君がですか？　喧嘩なら買いますけど」=「Oh, you? If it's a fight, I'll take it.」
 「はい、どうぞ……ふふ、たくさん食べてくださいね」=「Yes, please...... hehe, eat a lot.」
 「君は、エッチしたことありますか？」=「Have you had sex before?」
 「ほっ……すみません、変なことを聞いてしまって……」=「Phew...... sorry for asking something weird......」
@@ -419,7 +419,7 @@
 「僕は構いませんけど……どうしますか？」=「I don't mind, but... what will you do?」
 「断るのは野暮みたいですね……いいですよ、三人でしましょう」=「It seems rude to decline... Alright, let's do it with three people.」
 「……まあ、構いませんよ」=「...Well, I don't mind.」
-「ちょっとちょっと、喧\nはよくないですよ！」=「Hey, hey, fighting isn't good!」
+「ちょっとちょっと、喧嘩はよくないですよ！」=「Hey, hey, fighting isn't good!」
 「どっちとするの？」=「Who will you do it with?」
 「おのれー」=「Darn it...」
 「ほっ……それじゃあ、僕はこれで……」=「Well... I'll take my leave then...」

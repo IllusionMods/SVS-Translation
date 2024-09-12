@@ -27,7 +27,7 @@
 「……あんたには甲斐性ってものがないのね」=「You really lack any resourcefulness, don't you?」
 「いいわよ、今日大丈夫な日だし♡」=「Alright, today is a safe day♡」
 「……悪いけど、今話せないから……」=「Sorry, but I can't talk right now...」
-「んっ、誰の許可得ておっぱい\nんでんのよ……」=「Hmph, who gave you permission to touch my breasts...」
+「んっ、誰の許可得ておっぱい揉んでんのよ……」=「Hmph, who gave you permission to touch my breasts...」
 「まーたナンパされちゃったぁ……モテすぎるのも困りものよねぇ～？」=「I got hit on again... Being too popular is troublesome, isn't it?」
 「ふぅん、そう……別に？　ただ聞いただけで他意とかないから」=「Hmm, I see... Not really? I just asked, no ulterior motives.」
 「あんたが信じなかったところで、噂が流れてることに変わりはないけどー？」=「Even if you don't believe it, the rumors are still spreading.」
@@ -82,7 +82,7 @@
 「じゃあ今日は……寝かせるつもりないからね～♡」=「Then today... I won't let you sleep~♡」
 「なーんだ、ちゃぁんとすることしてんじゃん♪」=「What, you're actually doing what you're supposed to do♪」
 「運動でもしてみなさいよ、いい気分転換になるかもしれないわよ～？」=「Try exercising, it might be a good change of pace~?」
-「へぇ、ちょうどいいサイズで……なんかずっと\nんでられるわね」=「Hmm, just the right size... I could keep touching it forever.」
+「へぇ、ちょうどいいサイズで……なんかずっと揉んでられるわね」=「Hmm, just the right size... I could keep touching it forever.」
 「あんたがいないまましちゃったけど、いいの？　ま、別にあたしには関係ないけど」=「I did it without you, is that okay? Well, it doesn't matter to me anyway.」
 「あんたには前からど～～しても言いたいことあったのよねっ」=「I've always had something I've really wanted to tell you.」
 「ちょっとそのまま……ジッとしてなさい」=「Stay still like that for a bit.」
@@ -113,7 +113,7 @@
 「ほんっっとに汚れてない？　ニオイも気になるし……お風呂入りたぁい……」=「Isn't it really dirty? The smell bothers me too... I want to take a bath...」
 「今なら二人きりみたいだけど？　くふっ、もししたいことがあるなら話してみれば～？」=「It seems like it's just the two of us now? Hehe, if there's something you want to do, why not say it~?」
 「なにそれ？」=「What is that?」
-「それくらいであたしが言うこと聞くわけないでしょ？　あたしのこと\nめすぎ～」=「Do you think I'd listen to you for that? You're too obsessed with me.」
+「それくらいであたしが言うこと聞くわけないでしょ？　あたしのこと舐めすぎ～」=「Do you think I'd listen to you for that? You're too obsessed with me.」
 「ちゅ、れちゅっ……奥まで舌、入れてくるとかぁ……」=「Chu, lechu... putting your tongue all the way in...」
 「あんた見るからにザコザコなんだから、ご飯くらいちゃんと食べれば～？」=「You look weak, so why not eat properly?」
 「……少しは人の言葉にも耳を貸しなさいよ」=「...At least listen to what others have to say.」
@@ -193,7 +193,7 @@
 「素直に謝ってくれたことだし、許してあげよっかな～」=「Well, since you apologized honestly, maybe I'll forgive you~」
 「ふーん、断るんだ」=「Hmm, so you're refusing」
 「ま、あんたがどーしてもって言うなら謝ってやってもいいけど？」=「Well, if you insist, I might apologize to you?」
-「はっ、負け犬の遠\nえにしか聞こえないんですけど～～？　ワンちゃんなら犬語でしゃべればぁ？」=「Ha, it only sounds like the whining of a loser to me~~? If you're a puppy, why not speak in dog language?」
+「はっ、負け犬の遠吠えにしか聞こえないんですけど～～？　ワンちゃんなら犬語でしゃべればぁ？」=「Ha, it only sounds like the whining of a loser to me~~? If you're a puppy, why not speak in dog language?」
 「なーんだあんたか……なに？　用事でもあんの？」=「Oh, it's you... What? Do you need something?」
 「あはっ、あたしが満足するまで付き合ってもらっちゃお～♡」=「Ahaha, I'll keep you company until I'm satisfied~♡」
 「身体が熱くなってるから……あんたに、手伝わせてあげる♪」=「My body is getting hot... I'll let you help me♪」
@@ -227,7 +227,7 @@
 「んー？　今はいないけど」=「Hmm? Not here right now」
 「ねぇねぇ、あんた聞いた～？　[NPC_thatPersonName]の噂よ！　今、評判いいんだから！」=「Hey, did you hear? The rumor about [NPC_thatPersonName]! They're getting a good reputation now!」
 「なーに？　あんた落ち込んじゃってるの？　あはっ、悩むだけムダなんだし、さっさと元気出しとけばー？」=「What? Are you feeling down? Ahaha, worrying is pointless, so cheer up already?」
-「いくら小さいからって、勝手に\nんでいいとか思ってない～？」=「Just because it's small, do you think it's okay to do it without permission?」
+「いくら小さいからって、勝手に揉んでいいとか思ってない～？」=「Just because it's small, do you think it's okay to do it without permission?」
 「言うことには従ってるんだから、秘密はちゃんと守ってよね」=「I'm following orders, so keep the secret properly」
 「くふふっ……みんなでエッチしちゃう？　してみちゃう？」=「Kufufu... should we all have sex? Want to try it?」
 「はぁう、ぢゅるっ、れろぉ……はぁ、はぁ、こんなんじゃ……足りないんだけど？」=「Haa, slurp, lick... ha, ha, this isn't enough...」
@@ -246,7 +246,7 @@
 「あはっ、やっぱりぃ～？　あいつあやしーと思ってたのよねぇ……」=「Aha, I knew it~? I always thought they were suspicious...」
 「[NPC_thatPersonName]、告白されてたって話だけど……実際はどーなのかなぁー？」=「[NPC_thatPersonName] was confessed to, but what's the reality?」
 「ふーん、こういう状況で手を出そうとは思わないんだ」=「Hmm, you don't think of making a move in this situation」
-「大声でキャンキャン\nえて、ホントに恥ずかしいわね！　人に文句言う前に自分のこと反省しなさいよ！」=「Barking loudly and shamefully! Reflect on yourself before complaining about others!」
+「大声でキャンキャン吠えて、ホントに恥ずかしいわね！　人に文句言う前に自分のこと反省しなさいよ！」=「Barking loudly and shamefully! Reflect on yourself before complaining about others!」
 「みんなー！　今から運動しな～い？」=「Everyone! Let's exercise now~!」
 「いいよ、付き合ってあげる♡」=「Sure, I'll keep you company♡」
 「神社の神聖な感じ、あたしけっこう気に入ってるのよね～」=「I quite like the sacred feeling of the shrine」
@@ -352,7 +352,7 @@
 「あはっ、いい時に誘ってくれるじゃん……♪　あんたを思い切り感じさせて……♡」=「Aha, inviting me at a good time...♪ Make me feel you completely...♡」
 「あんたさぁ……もっと周りに気を使ったら～？」=「Hey... be more considerate of others~?」
 「ねぇ、あんたにあたしの初めて、あげてもいいけど？」=「Hey, I could give you my first time」
-「あそこ……なんか\nめてるみたいね？　ふぅ、あたしたちの出番ね」=「Over there... seems to be crowded? Phew, it's our turn」
+「あそこ……なんか揉めてるみたいね？　ふぅ、あたしたちの出番ね」=「Over there... seems to be crowded? Phew, it's our turn」
 「がっついたら引かれるでしょ？　適度にしておいたら～？」=「If you're too eager, you'll be turned off, so keep it moderate~?」
 「あんたはもうあたしのモノね……ぜーーったい逃がさないんだから……」=「You're already mine... I'll never let you go...」
 「ちゃんと優しくしなさいよ？」=「Be gentle, okay?」
@@ -480,7 +480,7 @@
 「あはっ、いいことしちゃってるじゃん♪　あたしもまーぜてっ♡」=「Aha, you're doing something good~♪ Let me join in♡」
 「ふぅ～ん……あんたはそっちを選ぶんだ……へぇ～……」=「Hmm... so you're choosing that side... heh...」
 「選ぶなら……あんたね♪」=「If I had to choose... it would be you♪」
-「はぁ？　なんであたしを巻き込んでるのか知らないけど、喧\nならよそでやってよね」=「Huh? I don't know why you're involving me, but if you're fighting, do it elsewhere.」
+「はぁ？　なんであたしを巻き込んでるのか知らないけど、喧嘩ならよそでやってよね」=「Huh? I don't know why you're involving me, but if you're fighting, do it elsewhere.」
 「んー？　あたしはいいけど、あんたはどーするー？」=「Hmm? I'm fine, but what about you?」
 「そんなの、あんたに決まってるでしょ？」=「Of course it's you, right?」
 「もう一人増えるのかぁ……くふふっ、たのしそーだし、いいよっ♪」=「Another one added... kufufu, sounds fun, so sure♪」
