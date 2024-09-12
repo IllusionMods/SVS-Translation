@@ -6,7 +6,7 @@
 「ねねっ、ちょーっと付いて来て？」=「Hey, hey, can you come with me for a bit?」
 「ちょっとぉ……今の、見た……？」=「Hey... did you see that just now...?」
 「駆け引きってムズいよねー……まあ、それがおもしろくもあるんだけどね？」=「Negotiation is tough, right? But that's what makes it interesting, isn't it?」
-「おおーっ、見た目もスゴいけど、\nみ心地も最高じゃん♪」=「Wow, it looks amazing, but it also feels great♪」
+「おおーっ、見た目もスゴいけど、揉み心地も最高じゃん♪」=「Wow, it looks amazing, but it also feels great♪」
 「勉強とかしてると、甘いものがほしくなるよね～」=「When I'm studying, I crave something sweet~」
 「あっそ、あたしは用ないから～」=「Whatever, I don't need anything~」
 「別件入っちゃった？　ケド、連絡くらいほしかったなー」=「Did something else come up? But I wish you had at least contacted me.」
@@ -432,7 +432,7 @@
 「あたしってそんなに魅力ないんだ……」=「Am I really that unattractive?」
 「んふふ～♪　こーして体温が伝わり合うとさー、安心するよね～♪」=「Hehe~♪ When we share body heat like this, it feels reassuring~♪」
 「[NPC_thatPersonName]と仲良くしてみるのアリかもよ～？」=「Maybe getting along with [NPC_thatPersonName] is a good idea~?」
-「あぁん……もー、おっきいからって、\nみすぎでしょ～」=「Ahh... just because they're big, doesn't mean you should stare~」
+「あぁん……もー、おっきいからって、揉みすぎでしょ～」=「Ahh... just because they're big, doesn't mean you should stare~」
 「ちゃんとオーダー回せたねっ、よかったよかった♪」=「You handled the orders well, great job♪」
 「ビーチでのオシゴトだからさ、つい遊びたくなっちゃうんだよね～」=「Because it's a beach job, I feel like playing around~」
 「えっと、ガチで言ってる？　場所は考えないとダメでしょ」=「Uh, are you serious? You need to consider the place.」
@@ -456,7 +456,7 @@
 「……あはっ、秘密～♪」=「...Ahaha, it's a secret~♪」
 「そーお？　別に気のせいなんじゃない？」=「Really? Maybe it's just your imagination?」
 「うへへ……なんかうれしーかも」=「Uh-huh... I might be happy.」
-「ふぁあ……\nみ方、ちょっとエッチだってば～」=「Yawn... Your way is a bit naughty, you know~」
+「ふぁあ……揉み方、ちょっとエッチだってば～」=「Yawn... Your way is a bit naughty, you know~」
 「なるほどね～、そーいう考え方もアリかも」=「I see, that's one way to think about it.」
 「あんたとエッチしたい気分かも……しよっか♪」=「I might be in the mood to do it with you... shall we?♪」
 「ん、いーよ」=「Sure, it's fine.」

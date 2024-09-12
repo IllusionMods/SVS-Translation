@@ -61,7 +61,7 @@
 「あ、あの……私の秘密……絶対、内緒にしてくださいね……？」=「Um... Please keep my secret... absolutely to yourself, okay...?」
 「あ、お、おはようございます……なんだか少し、恥ずかしいですね……」=「Ah, good morning... It's a bit embarrassing, isn't it...?」
 「あ、あの……率直に私のこと、どう思っていますか？」=「Um... How do you honestly feel about me?」
-「あ……んっ……あ、あの、いつまで\nんでいるんですか？　は、恥ずかしいですよ……」=「Ah... Mm... Um, how long are you going to keep doing that? It's embarrassing...」
+「あ……んっ……あ、あの、いつまで揉んでいるんですか？　は、恥ずかしいですよ……」=「Ah... Mm... Um, how long are you going to keep doing that? It's embarrassing...」
 「はい、なんでしょう？」=「Yes, what is it?」
 「あそこに何やら人だかりが……ちょ、ちょっと行ってみましょう」=「There's a crowd over there... Let's go check it out.」
 「こ、こんな姿を見たんです……だから、私とエッチしてください……」=「I saw something like this... So please have sex with me...」
@@ -70,7 +70,7 @@
 「ん、ちゅ……その……今の、初めてのキスでした……」=「Mmm, smooch... That was... my first kiss...」
 「……あの人には私が必要なんです……私だけが居れば、それでいいんです……」=「...That person needs me... It's fine as long as I'm there...」
 「はい……栄養のことも、考えてくださいね」=「Yes... Please consider your nutrition too.」
-「……男の人は、お尻を\nまれて気持ちいいものなんでしょうか？」=「...Do men feel good when their butt is touched?」
+「……男の人は、お尻を揉まれて気持ちいいものなんでしょうか？」=「...Do men feel good when their butt is touched?」
 「それは……お断りします」=「I'll have to decline that.」
 「わ、私って……そんなにダメですか？」=「Am I really that bad?」
 「その……好意は、はっきり伝えるべきでしょうか……？」=「Should I clearly express my feelings?」
@@ -135,7 +135,7 @@
 「そんな風に言って……何か裏があるんじゃないですか……？」=「Saying it like that... Is there something behind it...?」
 「では……あちらと同じくらい、大胆にシましょう……」=「Let's be as bold as that over there...」
 「私も……好きです……」=「I like you too...」
-「んっ……こんな小さい胸……\nんでも楽しくないですよ……？」=「Mm... Such small breasts... They're not fun...」
+「んっ……こんな小さい胸……揉んでも楽しくないですよ……？」=「Mm... Such small breasts... They're not fun...」
 「あの……これ以上はもう、私たち無理だと思うんです……だからお別れにしませんか？」=「Um... I think it's impossible for us anymore... So let's break up?」
 「その……今、お付き合いしてる方はいますか……？」=「Um... Are you seeing someone right now...?」
 「その……すみませんでした……！」=「I'm sorry...!」
@@ -249,7 +249,7 @@
 「まだ……許すことは出来ません」=「I still can't forgive you...」
 「……これでも私、怒っているんですよ？　本気の本気ですからね」=「...Even with this, I'm angry, you know? I'm seriously serious.」
 「次は……境内のお掃除をしましょうか」=「Next, shall we clean the shrine grounds?」
-「勉強って……一度\nくと、どうしようもないですよね……どこがわからないのか、それすらもわからなくなって……」=「Studying... once you fall behind, it's hopeless, isn't it...? You don't even know what you don't understand...」
+「勉強って……一度躓くと、どうしようもないですよね……どこがわからないのか、それすらもわからなくなって……」=「Studying... once you fall behind, it's hopeless, isn't it...? You don't even know what you don't understand...」
 「もっと……自分のお仕事を頑張った方が良いんでしょうか……？」=「Should I work harder at my own job...?」
 「……そんな風に言われる筋合いは、ないと思いますけど？」=「...I don't think you have the right to say such things.」
 「こうして集まって騒ぐのも、いいものですよね……」=「Gathering and making a fuss like this is nice, isn't it...?」
@@ -347,7 +347,7 @@
 「秘密のエッチ……も、燃えてきますね」=「Secret intimacy... it fires me up.」
 「エッチな話ししてると、こう……いろいろと妄想しちゃいます」=「Talking about intimate things makes me imagine various scenarios.」
 「お、お願いですから、こんなことはもうやめてください……」=「P-please, stop doing this...」
-「あ、あなたが不\nなことをするなら、私もしてもいいってことですよね……？」=「If you're going to do inappropriate things, then I can too, right...?」
+「あ、あなたが不埒なことをするなら、私もしてもいいってことですよね……？」=「If you're going to do inappropriate things, then I can too, right...?」
 「あ、はい、この通り元気です」=「Ah, yes, I'm as lively as you see.」
 「ここだけの話ですけど……[NPC_thatPersonName]、告白されたみたいですよ」=「Just between us... [NPC_thatPersonName] seems to have been confessed to.」
 「あの……よかったら、エッチしませんか……？」=「Um... if you'd like, would you like to do it...?」

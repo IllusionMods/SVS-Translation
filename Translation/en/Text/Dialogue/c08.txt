@@ -31,7 +31,7 @@
 「ふふ、面白い顔も見られたし、許してあげる」=「Hehe, I saw your funny face, so I'll forgive you.」
 「ふん……次は負けないわ」=「Hmph... I won't lose next time.」
 「お断りよ」=「I refuse.」
-「その……普段はサクっと解いてるのよ？　たまたま、ちょっと\nいちゃってるだけで……」=「Well... I usually solve it quickly, right? It's just a little off today...」
+「その……普段はサクっと解いてるのよ？　たまたま、ちょっと躓いちゃってるだけで……」=「Well... I usually solve it quickly, right? It's just a little off today...」
 「一人じゃ疼きがおさまらないの……手伝ってくれる……？」=「I can't calm down alone... will you help me...?」
 「ね、もう一度やり直してみない？　やっぱり君のこと、忘れられなくて……」=「Hey, why don't we try again? I just can't forget you...」
 「クスクス、身体の洗いっこでもする？　でも、ダーメ」=「Kukuku, how about washing each other? But, no way.」
@@ -39,13 +39,13 @@
 「ふふ、仲良しだと思ってるわ」=「Hehe, I think we're close.」
 「んんっ……ダメよ、こんな場所で……でも、疼いちゃう……」=「Mm... not here, it's not good... but I'm aching...」
 「んぅ……仕方なく付き合ってあげるわ」=「Nn... I'll reluctantly go out with you.」
-「……あたし、売られた喧\nは買うタイプよ？」=「...I'm the type to take up a fight if it's sold to me?」
+「……あたし、売られた喧嘩は買うタイプよ？」=「...I'm the type to take up a fight if it's sold to me?」
 「んふ、撫でるの上手……もっと、ん、撫でて……？」=「Nfu, you're good at petting... more, nn, pet me...?」
 「え？　あたし、その、したことないんだけど……」=「Huh? I, uh, haven't done it before...」
 「ま、あたしをその気にさせたんだから当然よね」=「Well, you got me in the mood, so it's expected, right?」
 「んんんっっ……んもう、小さい分、ふぁぁ、敏感なのに……」=「Nnnngh... oh, it's small, but fuu, sensitive...」
 「照れてるの？　子供っぽくて可愛いじゃない」=「Are you blushing? It's childlike and cute.」
-「巫女ってほら、貞\nを良しとするでしょ？　だからこそたまに羽目を外したくなっちゃうのよね」=「Miko, you see, value chastity, right? That's why sometimes I want to let loose.」
+「巫女ってほら、貞淑を良しとするでしょ？　だからこそたまに羽目を外したくなっちゃうのよね」=「Miko, you see, value chastity, right? That's why sometimes I want to let loose.」
 「君と一緒なら、毎日ボランティア活動してもいいかもしれないわ」=「If I'm with you, I might be okay doing volunteer work every day.」
 「ちゅむ、んちゅ……このキスはまだまだ前座……本番はここからよ？」=「Chumu, nchuu... this kiss is just the prelude... the main event starts now?」
 「どうして連れ出したのか……ふふ、気付いてるんでしょ？　それじゃあ、気兼ねなく楽しみましょう」=「Why did you take me out... hehe, you know, right? Then let's enjoy it freely.」
@@ -76,7 +76,7 @@
 「良かったわ」=「That's good.」
 「あらあら、好感度上がっちゃうじゃない」=「Oh dear, my likability is going up.」
 「何か噂されてるみたいなの……もしかして、君も知ってるの？」=「It seems like there's a rumor... do you know anything about it?」
-「ちゅっ……ふふ、唇美味しくて何度も\nんじゃう……」=「Kiss... hehe, your lips are so tasty I keep wanting to...」
+「ちゅっ……ふふ、唇美味しくて何度も啄んじゃう……」=「Kiss... hehe, your lips are so tasty I keep wanting to...」
 「面白い人ね、じゃあ付き合ってみる？」=「You're an interesting person, should we try dating?」
 「もっとバリバリお仕事した方がいいのかしらね」=「Should I work harder?」
 「ちゃんと食事は取らないと、大切な時に困っちゃうわよ？」=「You need to eat properly, or you'll be in trouble at important times.」
@@ -162,7 +162,7 @@
 「スリスリ……ふふ、女の子もセクハラしたくなる時があるの」=「Rubbing... hehe, sometimes girls want to sexually harass too.」
 「ふふ、残念、体調が悪かったら付きっきりで看病してあげるつもりだったのに」=「Hehe, what a shame, if you were feeling unwell, I was going to take care of you.」
 「えらいえらい、一途なご褒美、あげなくちゃね？」=「Good job, I need to give you a reward for being faithful, right?」
-「うわぁ、すごいボリューム感……\nみ心地、抜群ね？」=「Wow, such volume... the feel is amazing, right?」
+「うわぁ、すごいボリューム感……揉み心地、抜群ね？」=「Wow, such volume... the feel is amazing, right?」
 「え？　なんだって？」=「Eh? What did you say?」
 「ずっと元気でいられるように、運動は欠かさずしておいた方がいいわよ？」=「To stay healthy, you should exercise regularly.」
 「ま、気を付けなさい」=「Well, be careful.」

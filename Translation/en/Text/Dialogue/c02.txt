@@ -120,7 +120,7 @@
 「そうだな…………いや、やめておこう、あまり簡単に決めていい事ではないからな」=「That's right... No, let's not, it's not something to decide lightly.」
 「その情報、あまり鵜呑みには出来ないな」=「I can't take that information at face value.」
 「ふん、口ほどにもないな」=「Hmph, not much of a match.」
-「ん……子ども扱いされるのは\nだが……悪くはないな」=「Mm... Being treated like a child is... but it's not bad.」
+「ん……子ども扱いされるのは癪だが……悪くはないな」=「Mm... Being treated like a child is... but it's not bad.」
 「んちゅ……ん、何だ、ただのマーキングだ」=「Nchu... n, what, it's just marking.」
 「むぅ、中々手ごわい……だが、勝負を譲る気はないぞっ」=「Mmm, quite tough... But I have no intention of yielding the match!」
 「皆で性欲を開放してみないか？」=「Shall we all release our sexual desires?」
@@ -444,6 +444,8 @@
 「お前は一人で落ち着きたいとき、どんな事をしている？　私は……」=「What do you do when you want to be alone and calm down? I...」
 「ボランティアでもしてきたらどうだ？」=「Why don't you try doing some volunteer work?」
 「やはりあいつは……忠告、感謝する」=「Indeed, that person... I appreciate the advice.」
+「不埒な匂いがするが……気のせいか？」=「It smells disgusting... or is it just my imagination?」
+「調子が悪いなら無理はするな、いいな？」=「If you're not feeling well, don't push yourself, okay?」
 「調子が悪いなら無理はするな、いいな？」\nな匂いがするが……気のせいか？」=「If you're not feeling well, don't push yourself, alright?」
 「ダメだ、許さん」=「It smells a bit... is it just my imagination?」
 「むぅ、他人には流されない、という事か……仕方ない」=「No, I won't allow it.」
@@ -463,7 +465,7 @@
 「頭の中では軽やかに動いているんだが、体の方がついてきてくれなくてな……」=「I see... but in the end, you just wanted the body, right? Ah, that's definitely it.」
 「あぁ、お前か……いかんな、ぼーっとしてしまって……」=「In my head, I'm moving lightly, but my body isn't keeping up...」
 「ふむ……そう言われると、あまり良くない気がするな」=「Ah, it's you... I was spacing out...」
-「お前がしている不\nな事、私もしてみようと思う……お前の目を覚まさせる為にもな」=「Hmm... when you say that, it doesn't feel very good.」
+「お前がしている不埒な事、私もしてみようと思う……お前の目を覚まさせる為にもな」=「Hmm... when you say that, it doesn't feel very good.」
 「お前は私を怒らせた、それだけだ」=「I'm thinking of trying the things you're doing that are improper... to wake you up.」
 「ん、どうした？」=「You made me angry, that's all.」
 「ふっ……♪」=「Hmm, what's up?」
@@ -481,7 +483,7 @@
 「ふむ、快楽となるなら、私は何人来ても構わない」=「Ah, actually...」
 「そんなの、お前に決まっているだろう？」=「Hmm, if it's for pleasure, I don't mind how many come.」
 「だ、そうだが？　私の役目は終わりでいいんじゃないか？」=「That's obvious, isn't it you?」
-ならよそでやってくれ、私には関係ない」=「That's what it is, isn't it? My role is over, right?」
+「喧嘩ならよそでやってくれ、私には関係ない」=「That's what it is, isn't it? My role is over, right?」
 「お楽しみの所すまないが、私も混ぜてくれないか？」=「Then do it elsewhere, it has nothing to do with me.」
 「二人して、何をしているんだ？」=「Sorry to interrupt your fun, but can I join in?」
 「どちらを選べと言われてもな……」=「What are you two doing?」
@@ -502,7 +504,7 @@
 「すまない、つい熱くなってしまってな……」=「What are you doing in a place like this? If you're going to do it, do it with me.」
 「私の目の前で堂々と……お前達、ふざけるのも大概にしろ」=「Sorry, I got a bit heated...」
 「今いい所なんだが……まったく、野暮な奴だな」=「Right in front of my eyes... you guys, don't mess around too much.」
-「うるさいぞ、喧\nなら他所でやれ」=「It's a good part right now... what a boorish person.」
+「うるさいぞ、喧嘩なら他所でやれ」=「It's a good part right now... what a boorish person.」
 「ふふっ、私の口の虜になったようだな」=「You're noisy, if you're going to argue, do it elsewhere.」
 「どうだ、初めてのエッチの感想は？　ふふっ、悪くないものだろう？」=「Hehe, seems like you've become addicted to my mouth.」
 「互いの肉欲を押し付け合うだけの関係……私は気に入っているぞ？」=「How was your first time? Hehe, not bad, right?」
@@ -517,7 +519,7 @@
 「お前の気持ちよさそうな顔が見れてよかった、またシよう」=「Putting it in the butt... isn't that a bad idea? At least I think so.」
 「っ……いや、大丈夫だ……むしろ、私に性の経験を与えてくれた礼を言いたい……ありがとう」=「I'm glad I got to see your satisfied face, let's do it again.」
 「……まだ痛いか？　だが、それはお前が『女』になった証拠でもある……まぁ、今はゆっくり休め」=「Ah... no, I'm fine... rather, I want to thank you for giving me sexual experience... thank you.」
-「ん、う……いかんな、快楽に狂い過ぎた……\nの感触が、まだ……んふぅ……♪」=「...Does it still hurt? But that's proof that you've become a 'woman'... well, just rest for now.」
+「ん、う……いかんな、快楽に狂い過ぎた……痙攣の感触が、まだ……んふぅ……♪」=「...Does it still hurt? But that's proof that you've become a 'woman'... well, just rest for now.」
 「お前のフェラはすごいな、すっかり搾り取られてしまった」=「Mmm, ugh... it's not good, I got too lost in pleasure... the sensation is still there... hmm...♪」
 「全員で……楽しむことが出来たようだな」=「Your oral skills are amazing, I've been completely drained.」
 「筆おろしをしてくれてありがとう、これからも精進しようと思う」=「It seems everyone was able to enjoy themselves.」

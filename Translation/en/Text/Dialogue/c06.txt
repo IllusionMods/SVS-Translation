@@ -357,7 +357,7 @@
 「愛してるって『いっぱい好き』ってことだよね！」=「Saying 'I love you' means 'I really like you,' right?」
 「えっ！？　そ、それは……言えないよぉ……♪」=「Eh!? Th-that is... I can't say it...」
 「はい、わたしの勝ち～！」=「Yup, I win~!」
-むと大きくなるらしいけど……このままでもいいよね♪」=「Even if they say it grows bigger... it's fine as it is, right♪」
+「揉むと大きくなるらしいけど……このままでもいいよね♪」=「Even if they say it grows bigger... it's fine as it is, right♪」
 「きみのアレ、みーせて……♪」=「Show me your thing...♪」
 「みんなで勉強しちゃお！」=「Let's study together!」
 「ねぇお願いっ、エッチしよ……♪　してぇ……っ」=「Please, let's do something naughty...♪ I want to...♪」

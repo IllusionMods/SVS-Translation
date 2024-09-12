@@ -167,7 +167,7 @@
 「そのような言葉を頂けるなんて、ええ、ぜひお願いします」=「I never expected such words... yes, please.」
 「約束してたはずですのに……不義理はよくありません」=「We were supposed to have a promise... it's not good to be unfaithful.」
 「はい、素敵な方とお付き合いしていますよ」=「Yes, I'm dating a wonderful person.」
-「あ、ん……私のを\nんでも面白くないのでは……？」=「Ah, n... my thing\nmight not be interesting...」
+「あ、ん……私のを揉んでも面白くないのでは……？」=「Ah, n... my thing\nmight not be interesting...」
 「迷惑は承知の上ですが、あなたが好きなんです……私とお付き合いしてください」=「I know it's annoying, but I like you... please go out with me.」
 「良いですよ、ただ危ない日なので、挿入しないと約束してくださいね」=「Alright, but it's a risky day, so promise not to penetrate.」
 「んん……甘えたくなったんですか？」=「Mm... you want to be pampered?」
@@ -276,7 +276,7 @@
 「良いですよ……この背徳感、興奮を覚えます……」=「That's fine... This sense of guilt, it excites me...」
 「ふふ、よかったです」=「Hehe, that's good.」
 「残念です……そっとしておくのが良いのでしょうね」=「It's unfortunate... Perhaps it's best to leave it alone.」
-「んふ、立派ですね……ずっと\nみしだいていたいです」=「Hehe, it's impressive... I want to keep touching it.」
+「んふ、立派ですね……ずっと揉みしだいていたいです」=「Hehe, it's impressive... I want to keep touching it.」
 「あなたが私のことをどのように思っているのか、ぜひ教えてほしいです」=「I'd love to know what you think of me.」
 「また素敵なお話があったら、お伝えしますね」=「If there's another wonderful story, I'll let you know.」
 「綺麗になりましたね、これも力を合わせたからですね」=「It got clean, thanks to our combined efforts.」
@@ -476,7 +476,7 @@
 「では、私はお邪魔させていただきます」=「Well then, I'll be intruding.」
 「おのれー」=「Darn it.」
 「その……私はお二人とそんな関係ではない筈ですが……」=「Um... I'm not supposed to be in such a relationship with you two...」
-「あの……喧\nなら他所でやってください」=「Um... if you're going to quarrel, please do it elsewhere.」
+「あの……喧嘩なら他所でやってください」=「Um... if you're going to quarrel, please do it elsewhere.」
 「優柔不断なのは良くありませんよ」=「Being indecisive is not good.」
 「このような場所ですることではないでしょう、分かったらやめてください」=「This isn't something to be done in such a place, if you understand, please stop.」
 「……選ぶのなら、あなたが良いです」=「...If I have to choose, I'd choose you.」

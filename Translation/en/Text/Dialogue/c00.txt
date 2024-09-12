@@ -180,6 +180,7 @@
 「私のエッチを見てたということは……そういう気分なんですよね？　私と、エッチしませんか……？」=「So, you were watching me being naughty... Does that mean you're in the mood? Would you like to do it with me...?」
 「これ以上、何を見せればいいんですか……」=「What more do you want me to show...?」
 「ふふっ、どうやら私を侮ってたようですね」=「Hehe, it seems you underestimated me.」
+「っ……ごめんなさい……私、用事があるので失礼します」=「I...I'm sorry...I have something to do so please excuse me.」
 「料理が得意な人は凄いですよね……私はあんなに何品も作れる気がしません」=「People who are good at cooking are amazing... I don't think I could make that many dishes.」
 「周りを巻き込んで、あなただけが大騒ぎしていることを教えてあげますね」=「I'll let you know that you're causing a big fuss all by yourself and dragging everyone else into it.」
 「ごめんなさい、既に他の方と約束していて……参加できそうにありません」=「I'm sorry, I've already made plans with someone else... I don't think I can join.」
