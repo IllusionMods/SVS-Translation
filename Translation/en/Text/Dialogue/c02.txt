@@ -446,7 +446,6 @@
 「やはりあいつは……忠告、感謝する」=「Indeed, that person... I appreciate the advice.」
 「不埒な匂いがするが……気のせいか？」=「It smells disgusting... or is it just my imagination?」
 「調子が悪いなら無理はするな、いいな？」=「If you're not feeling well, don't push yourself, okay?」
-「調子が悪いなら無理はするな、いいな？」\nな匂いがするが……気のせいか？」=「If you're not feeling well, don't push yourself, alright?」
 「ダメだ、許さん」=「It smells a bit... is it just my imagination?」
 「むぅ、他人には流されない、という事か……仕方ない」=「No, I won't allow it.」
 「……すまない、手間をかけた」=「Hmm, so you won't be swayed by others... there's no helping it.」
