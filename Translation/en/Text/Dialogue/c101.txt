@@ -420,7 +420,7 @@
 「……」=「......」
 「邪魔をするんじゃねぇよ、お前は引っ込んでろ」=「Don't interfere, just stay out of it.」
 「選べって言うんなら、お前だな」=「If I have to choose, it's you.」
-「ったく……喧\nはやめろ」=「Geez... stop fighting.」
+「ったく……喧嘩はやめろ」=「Geez... stop fighting.」
 「おいおい、いったい何の話だ？　俺には関係ないだろ」=「Hey, what are you talking about? It has nothing to do with me.」
 「片方を選べと言われても、なぁ」=「Even if you tell me to choose one, well...」
 「これはまぁ……そういうのじゃねぇんだよ」=「This isn't... about that.」

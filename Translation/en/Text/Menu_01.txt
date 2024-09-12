@@ -65,6 +65,11 @@ ALL=All
 ※登録人数が増えると動作に負荷がかかりますのでご注意下さい=※This will increase available character slots to 24.
 登録人数拡張=Number of Characters
 登録人数を拡張しますか？=Increase available character slots?
+ソート、フィルター=Sort, Filter
+昇順=Ascending
+降順=Descending
+名前順=Name Order
+日付順=Date Order
 // In Game Menus
 出かける=Start Day
 外に出ますか？=Do you want to start the day?
@@ -81,3 +86,39 @@ ALL=All
 
 終了確認=Exit Game
 ゲームを終了しますか？=Exit the game?
+
+// Registration tutorial
+チュートリアル確認画面=Tutorial Confirmation
+チュートリアルを見ますか？=Do you want to view the tutorial?
+『サマバケ！すくらんぶる』キャラクター登録チュートリアル="Summer Vacation! Scramble"\nCharacter Registraion Tutorial
+『サマバケ！すくらんぶる』はキャラ同士が触れ合い、変化していく関係性を楽しむ３Ｄコミュニティ形成観察シミュレーターです。\nコミュニケーションの取れるマップに出かけるためには、キャラクターが最低1人以上登録されている必要があります。\nまずは「キャラの管理」アイコンを選択してみましょう。="Summer Vacation! Scramble" is a 3D community building observation simulator\nwhere characters can interact and form relationships with each other.\nIn order to go out onto the map and start communicating, you must have at least one character registered.\nFirst, let's select the "Characters" icon.
+「キャラの管理」アイコンを選択する=Select the "Characters" icon
+こちらがキャラクターの登録・編集をする「キャラの管理」画面となります。\n空いている登録枠にカーソルをあわせて下さい。=This is the Character Management screen for registering and editing characters.\nPlease move the cursor over an empty registration slot.
+指定された「空の登録枠」にカーソルをあわせる=Move the cursor to the highlighted empty slot.
+空いている登録枠にカーソルがあわさると、各登録ボタンが現れます。\nまずは１番上の「女キャラ登録」ボタンを選択し、女キャラを登録してみましょう。=When the cursor is over an empty registration slot, the three registration buttons appear.\nFirst, press the Register Female button on top and register a female character.
+「女キャラ登録」ボタンを選択する=Press the Register Female button
+開いたキャラ一覧から登録したいキャラを選択して下さい。=Select a character you want to register from the list.
+登録したいキャラ画像を選択する=Select the character you want to register
+「登録」ボタンを選択して下さい。=Press the Register button.
+「登録」を選択する=Press "Register"
+これで１人目のキャラの登録完了となります。\n続いて2人目のキャラを登録してみましょう。\n1人目の隣の空いている登録枠にカーソルをあわせて下さい。=You have now registered your first character.\nLet's now register a second character.\nMove your cursor over the empty slot to the right of the character you just registered.
+１番下は「ランダム登録」ボタンとなり、男女ランダムで登録が可能となっています。\n今回は上から2番目の「男キャラ登録」ボタンを選択して下さい。=The button on the bottom is the Register Random button, which will pick a random character regardless of gender.\nThis time, press the Register Male button in the center.
+「男キャラ登録」ボタンを選択する=Press the Register Male button
+これで2人目のキャラの登録完了となります。\n続いて操作キャラの変更をしてみましょう。=You have now registered your second character.\nNext, let's change the player character.
+誰も登録されていない状態でキャラを登録した場合、または登録キャラが1人だけの場合は\nそのキャラが操作キャラとして登録されます。\n別のキャラを操作キャラとして使用したい場合は、まずは操作したいキャラを選択してみましょう。=If you register a character without anyone else registered, or you remove all but one character from the roster,\nthat character will automatically become the player character.\nTo change which character you play as, first select the character you want to become the player character.
+登録されている男キャラを選択する=Select the male character that was registered
+キャラを選択すると画面右に選択したキャラの情報が表示されます。\nその中にある「操作キャラに登録」ボタンを選択しましょう。=When you select a character, their information is displayed on the right-hand side of the screen.\nPress the "Make Player Character" button on it.
+「操作キャラに登録」ボタンを選択する=Press the "Make Player Character" button
+これで現在選択しているキャラが操作キャラとして使用可能となりました。\n操作キャラの変更は登録されているキャラであれば誰にでも変更可能です。=The currently selected character is now the player character.\nAny character that is currently registered can become the player character.
+大まかな登録の流れは以上となります。\nここからはキャラの管理画面内で出来る事の説明となります。=This concludes the registration tutorial.\nFrom here, we will go over what else you can do on the Character Management screen.
+新規でキャラの作成をしたい場合は、画面左の新規作成から各性別のキャラの作成を行えます。=If you want to create a new character, you can press the Females or Males buttons on the left-hand side of the screen.
+「全てランダムに登録」ボタンを選択すると空いている枠全てに一括でキャラをランダム登録させることが出来ます。=Press the Assign Randomly button to register a random character in all open slots.
+キャラの役職や容姿を変更したい場合は、選択したキャラ情報内の画像内にある「容姿変更」ボタンを選択して下さい。\n選択することでキャラ編集画面に移動しますので、そちらで変更が可能となっています。\n<color\=orange>※役職以外のキャラ設定は変更できません。</color>=If you want to change the character's clothes or appearance, press the Edit button that appears in the corner the character portrait.\nThis will take you to the Character Maker screen.\n<color\=orange>※ Profile information cannot be changed.</color>
+続いて登録したキャラを削除する方法です。\nまずは現在選択しているキャラにカーソルをあわせて下さい。=Next is how to remove a character from the roster.\nFirst, move the cursor over the currently selected character.
+選択されているキャラにカーソルをあわせる=Move the cursor over the currently selected character
+選択しているキャラにカーソルをあわせると、画像右上に「登録解除」ボタンが表示されます。\nこちらを選択することで登録しているキャラを削除することが出来ます。\n<color\=orange>※キャラを削除するとそれまで変化したパラメータや関係性が失われますのでご注意下さい。</color>=If you hover over the currently selected character, a Remove button will be displayed in the upper right corner.\nPressing this will remove the character from the roster.\n<color\=orange>※ Note that if a character is deleted, all relationships and parameters will be lost!</color>
+左下にある「戻る」ボタンを選択、または画面内を右クリックする事で自室画面に戻ります。=Press the "Return" button in the bottom-left corner of the screen or right-click to return to the room screen.
+説明は以上となります。\nここからはご自由にキャラの登録をし、完了しましたら自室画面へ戻りましょう。=This covers all the information on the Character Management screen.\nFrom here, register any characters you want and return to the room screen when you are done.
+キャラ登録が完了したら画面左下の「戻るボタン」を選択する=When you are done, press the Return button in the bottom-left.
+これにてキャラ登録の説明は終了となります。\n最後に「出かける」アイコンを選択する事でマップ画面へと進みます。=This concludes the tutorial.\nTo go to the map screen, press the Go Outside button.
+また現状のデータを保存したい場合は「セーブ・ロード」アイコンからセーブ・ロードを行えます。\n各準備が整いましたら、早速キャラ達との触れ合いの場に向かいましょう。=If you want to save your game, you can press the Save・Load button to save or load game data.\nOnce you are ready, press the Go Outside button.
