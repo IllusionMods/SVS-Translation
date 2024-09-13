@@ -15,6 +15,7 @@
 <color\=#FFFFFFFF>ハンドルネームを更新しました。</color>\n登録された全ハンドルネームの取得を開始します。=<color\=#FFFFFFFF>Username registered.</color>\nAcquiring all registered usernames.
 <color\=#FFFFFFFF>83/83</color>\n全てのキャラ情報の取得を開始します。=<color\=#FFFFFFFF>83/83</color>\nAcquiring card information.
 <color\=#FFFFFFFF>37/37</color>\n準備が完了しました。=<color\=#FFFFFFFF>37/37</color>\nOperation complete.
+データのダウンロードが完了しました。=Data download complete.
 最新情報に更新=Refresh
 データ=Data
 メニュー=Menu
