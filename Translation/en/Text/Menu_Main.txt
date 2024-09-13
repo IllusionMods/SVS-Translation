@@ -1,6 +1,7 @@
 ゲームプレイ=Main Game
 キャラクリエイト=Character Maker
 アップローダー=Uploader
+ダウンローダー=Downloader
 オプション=Options
 利用規約=Terms of Use
 マニュアル=Manual

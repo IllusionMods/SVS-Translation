@@ -1,0 +1,59 @@
+ハンドルネーム=Username
+※空文字や「ILLGAMES」は使用できません=※Empty characters and "ILLGAMES" cannot be used
+無断転載 ・ 無断使用を禁じます。<br><br>（C）ILLGAMES 2024=Unauthorized reproduction and unauthorized use are prohibited.\n<br> (C) ILLGAMES 2024
+サーバーをチェックしています=Checking the server
+サーバーをチェックしています．=Checking the server.
+サーバーをチェックしています．．=Checking the server...
+データをダウンロードしています…=Downloading data...
+ダウンロードが完了しました。=Download complete.
+登録を開始します。=Begin registration.
+サーバーから情報を取得しています。\nユーザー情報の確認を開始します。=Information obtained from server.\nChecking user information.
+サーバーから情報を取得しています。=Information obtained from the server.
+ユーザー情報の確認を開始します。=Checking user information.
+<color\=#FFFFFFFF>ハンドルネームを更新しました。</color>\nハンドルネームの登録を開始します。=<color\=#FFFFFFFF>The username has been recorded.</color>\nRegistering username.
+ハンドルネームの登録を開始します。=Registering username.
+<color\=#FFFFFFFF>ハンドルネームを更新しました。</color>\n登録された全ハンドルネームの取得を開始します。=<color\=#FFFFFFFF>Username registered.</color>\nAcquiring all registered usernames.
+<color\=#FFFFFFFF>83/83</color>\n全てのキャラ情報の取得を開始します。=<color\=#FFFFFFFF>83/83</color>\nAcquiring card information.
+<color\=#FFFFFFFF>37/37</color>\n準備が完了しました。=<color\=#FFFFFFFF>37/37</color>\nOperation complete.
+最新情報に更新=Refresh
+データ=Data
+メニュー=Menu
+選択情報=Character Info
+進捗ログ=Progress Log
+キャッシュの削除=Clear Cache
+本当に削除しますか？=Do you really want to clear the cache?
+ダウンロードする=Download
+自分がアップしたデータ=My Uploaded Cards
+キーワード検索=Keyword Search
+検索項目をリセット=Reset Search Criteria
+選択=Select
+解除=Clear
+
+// Card information
+名前=Name
+性別=Sex
+コメント=Comment
+個性０１=Trait 01
+個性０２=Trait 02
+エッチ特性０１=H Preference 01
+エッチ特性０２=H Preference 02
+通常持ち物=Normal Item
+バストサイズ=Bust Size
+
+// Sorting
+検索設定=Search Settings
+並び順=Sorting
+ハンドルネーム一覧=Username List
+DL数(総合)=DLs (Overall)
+DL数(週間)=DLs (This Week)
+更新(古)=Updated (Oldest)
+更新(新)=Updated (Newest)
+投稿(古)=Posted (Oldest)
+投稿(新)=Posted (Newest)
+
+// Uploader
+変更=Edit
+コメント（80文字以内）=Comment (up to 80 characters)
+コメントを入れてください=Type comment here
+※既存の版権に抵触する恐れのある記述はお控え下さい。\n　確認次第削除させていただく場合がございます。=※Please refrain from posting copyrighted characters.\nWe will delete it once identified.
+本当にアップロードしますか？=Upload this character?
