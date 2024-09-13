@@ -1,28 +1,30 @@
 // Belongings
+持ち物=Items
+大事なもの=Important
 ダンベル=Dumbbell
 料理本=Cookbook
-除菌シート=Disinfecting Wipe
+除菌シート=Disinfectant Wipe
 ノートパソコン=Laptop
 参考書=Textbook
 メモ帖=Notepad
 携帯ゲーム=Portable Console
 ムフフな本=Adult Magazine
-携帯調味料=Travel Spice Kit
+携帯調味料=Seasoning Set
 入浴剤=Bath Salts
 攻略本=Strategy Guide
 髪の毛=Lock of Hair
-ひ・み・つ=It's a Secret
+ひ・み・つ=It's a secret!
 香水=Perfume
 ハンカチ=Handkerchief
 髪ゴム=Hairband
 ぬいぐるみ=Plushie
 財布=Wallet
-フィギュア=Figure
+フィギュア=Figurine
 眼鏡=Glasses
 手作りお菓子=Homemade Sweets
-お守り=Amulet
+お守り=Charm
 おにぎり=Onigiri
-手作り弁当=Homemade Lunch
+手作り弁当=Homemade Bento
 鍵=Key
 ポエム=Poem
 同人誌=Doujinshi
@@ -34,15 +36,24 @@
 //なし=None
 受け=Submissive
 攻め=Dominant
-愛撫好き=Likes Caressing
-奉仕好き=Likes to Service
-口上手=Blowjob Master
+愛撫好き=Caressing
+奉仕好き=Service
+口上手=Blowjob Pro
 アナル好き=Anal Play
 対面好き=Face to Face
-背面好き=Doggystyle
-中出し好き=Likes Creampie
+背面好き=Doggy Style
+中出し好き=Creampies
 ぶっかけ好き=Bukkake
 口内射精好き=Swallowing
+
+//Jobs
+なし=None
+ビーチ監視員=Lifeguard
+会社員=Office Worker
+カフェ店員=Cafe Worker
+パート=Part-timer
+巫女・男巫=Shrine Keeper
+学生=Student
 
 // Traits
 //なし=None
