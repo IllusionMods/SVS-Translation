@@ -1,7 +1,0 @@
-なし=None
-ビーチ監視員=Lifeguard
-会社員=Office Worker
-カフェ店員=Cafe Worker
-パート=Part-timer
-巫女・男巫=Shrine Keeper
-学生=Student

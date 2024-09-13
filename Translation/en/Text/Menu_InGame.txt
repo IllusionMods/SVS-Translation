@@ -70,6 +70,7 @@ ALL=All
 降順=Descending
 名前順=Name Order
 日付順=Date Order
+
 // In Game Menus
 出かける=Start Day
 外に出ますか？=Do you want to start the day?
@@ -86,6 +87,22 @@ ALL=All
 
 終了確認=Exit Game
 ゲームを終了しますか？=Exit the game?
+
+// Clothing change prompts
+「役職服」設定中=Wearing "Job"
+「私服」設定中=Wearing "Casual"
+「水着」設定中=Wearing "Swim"
+
+// Help section tabs
+自室画面=Your Room
+キャラの管理=Character Management
+キャラ管理画面=Character Management
+セーブロード画面=Save/Load
+マップ画面=Map
+コマンド選択=Interactions
+関係性画面=Relationships
+エッチシーン=H Scene
+マップ選択=Map
 
 // Registration tutorial
 チュートリアル確認画面=Tutorial Confirmation
