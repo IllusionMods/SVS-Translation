@@ -82,7 +82,7 @@ namespace SVS_Subtitles
             var xuatType = Type.GetType("XUnity.AutoTranslator.Plugin.Core.AutoTranslatorSettings, XUnity.AutoTranslator.Plugin.Core");
             if (xuatType == null) return null;
 
-            // WARNING: DestinationLanguage is initialized sometime during 1st frame, after Load() is called, so the this can't be used in our Load()
+            // WARNING: DestinationLanguage is initialized sometime during 1st frame, long after Load() is called. It will return null during Load().
             var language = AccessTools.PropertyGetter(xuatType, "DestinationLanguage").Invoke(null, null) as string;
             if(string.IsNullOrEmpty(language)) SubtitlesPlugin.Log.LogError("Tried to get DestinationLanguage before AutoTranslator initialized it!");
             return language;
