@@ -30,8 +30,8 @@ r:"^付け毛([０-９0-9]+)（右）$"=Hair $1 (Right)
 r:"^スロット([０-９0-9]+) カラー([０-９0-9]+)$"=Slot $1 Color $2
 r:"^スロット([０-９0-9]+) 柄([０-９0-9]+) カラー$"=Slot $1 Pattern $2 Color
 sr:"^(?<location>パンスト|靴下|ボトムス|手袋|トップス|インナー\([上下]\)|靴|靴下) 柄(?<num_i>[０-９0-9]+) カラー$"=${location} Pattern ${num_i} Color
-sr:"^(?<location1>パンスト|靴下|ボトムス|手袋|トップス|インナー\([上下]\)|靴|靴下) カラー(?<num_j>[０-９0-9]+)$"= ${location1} Color ${num_j}
-sr:"^(?<location2>ネイル|アイライン|瞳|瞳孔)カラー(?<num_k>[０-９0-9]+)$"= ${location2} Color ${num_k}
+sr:"^(?<location>パンスト|靴下|ボトムス|手袋|トップス|インナー\([上下]\)|靴|靴下) カラー(?<num_i>[０-９0-9]+)$"= ${location} Color ${num_i}
+sr:"^(?<location>ネイル|アイライン|瞳|瞳孔)カラー(?<num_i>[０-９0-9]+)$"= ${location} Color ${num_i}
 
 sr:"^エンブレム(\w)$"=Emblem $1
 sr:"^(?<name>.+)との関係$"=Relationship with ${name}
