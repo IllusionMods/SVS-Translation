@@ -1,6 +1,7 @@
 ﻿using System;
+using System.IO;
 using System.Linq;
-using HarmonyLib;
+using BepInEx;
 using XUnity.AutoTranslator.Plugin.Core;
 
 namespace SVS_Subtitles
@@ -79,13 +80,25 @@ namespace SVS_Subtitles
 
         public static string? TryGetAutoTranslatorLanguage()
         {
-            var xuatType = Type.GetType("XUnity.AutoTranslator.Plugin.Core.AutoTranslatorSettings, XUnity.AutoTranslator.Plugin.Core");
-            if (xuatType == null) return null;
-
+            // var xuatType = Type.GetType("XUnity.AutoTranslator.Plugin.Core.AutoTranslatorSettings, XUnity.AutoTranslator.Plugin.Core");
+            // if (xuatType == null) return null;
+            //
             // WARNING: DestinationLanguage is initialized sometime during 1st frame, long after Load() is called. It will return null during Load().
-            var language = AccessTools.PropertyGetter(xuatType, "DestinationLanguage").Invoke(null, null) as string;
-            if(string.IsNullOrEmpty(language)) SubtitlesPlugin.Log.LogError("Tried to get DestinationLanguage before AutoTranslator initialized it!");
-            return language;
+            // var language = AccessTools.PropertyGetter(xuatType, "DestinationLanguage").Invoke(null, null) as string;
+            // if(string.IsNullOrEmpty(language)) SubtitlesPlugin.Log.LogError("Tried to get DestinationLanguage before AutoTranslator initialized it!");
+            // return language;
+
+            if (AutoTranslatorInstalled)
+            {
+                var path = Path.Combine(Paths.ConfigPath, "AutoTranslatorConfig.ini");
+                var lines = File.ReadAllLines(path);
+                foreach (var line in lines)
+                {
+                    if (line.StartsWith("Language="))
+                        return line.Substring("Language=".Length).Trim();
+                }
+            }
+            return null;
         }
     }
 }

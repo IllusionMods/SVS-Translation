@@ -43,7 +43,7 @@ public class SubtitlesPlugin : BasePlugin
     internal static new BepInEx.Logging.ManualLogSource Log;
     private static HScene HSceneInstance;
 
-    private static Dictionary<string, string> subtitleMap = new();
+    private static Dictionary<string, string> subtitleMap;
 
     public override void Load()
     {
@@ -52,8 +52,29 @@ public class SubtitlesPlugin : BasePlugin
         // Plugin startup logic
         // Log.LogInfo($"Plugin {MyPluginInfo.PLUGIN_GUID} is loaded!");
 
-        EnableConfig = Config.Bind("General", "Enable Subtitles", true, "Reload the H Scene to Enable/Disable.");
+        EnableConfig = Config.Bind("General", "Enable Subtitles", true, "Reload the game to Enable/Disable.");
         LanguageConfig = Config.Bind("General", "Subtitle Language", "auto", "Language of the subtitles.\nThe subtitles are loaded from 'BepInEx/Translation/<this setting>/SVS_Subtitles.json'.\nIf set to 'auto' or empty, AutoTranslator's Destination Language is used.");
+
+        if(!EnableConfig.Value) return;
+
+        var languageCode = LanguageConfig.Value.Trim();
+        if (languageCode == string.Empty || languageCode == "auto")
+            languageCode = TranslationHelper.TryGetAutoTranslatorLanguage();
+
+        var subsPath = GetSubtitlesPath(languageCode);
+
+        try
+        {
+            var jsonString = File.ReadAllText(subsPath);
+            subtitleMap = JsonSerializer.Deserialize<Dictionary<string, string>>(jsonString) ?? throw new Exception("Failed to deserialize jsonString, could be an empty file");
+
+            Log.LogInfo($"Loaded subtitles from \"{subsPath}\"");
+        }
+        catch (Exception e)
+        {
+            Log.LogError($"Failed to load subtitles from \"{subsPath}\" - {e}");
+            return;
+        }
 
         Harmony.CreateAndPatchAll(typeof(Hooks));
 
@@ -89,25 +110,6 @@ public class SubtitlesPlugin : BasePlugin
         canvasObject = new GameObject("SubtitleCanvas");
         SceneManager.MoveGameObjectToScene(canvasObject, scene);
         canvasObject.AddComponent<SubtitlesCanvas>();
-
-        var languageCode = LanguageConfig.Value.Trim();
-        if (languageCode == string.Empty || languageCode == "auto")
-            languageCode = TranslationHelper.TryGetAutoTranslatorLanguage();
-
-        var subsPath = GetSubtitlesPath(languageCode);
-
-        try
-        {
-            var jsonString = File.ReadAllText(subsPath);
-            subtitleMap = JsonSerializer.Deserialize<Dictionary<string, string>>(jsonString) ?? throw new Exception("Failed to deserialize jsonString, could be an empty file");
-
-            Log.LogInfo($"Loaded subtitles from \"{subsPath}\"");
-        }
-        catch (Exception e)
-        {
-            Log.LogError($"Failed to load subtitles from \"{subsPath}\" - {e}");
-            EnableConfig.Value = false;
-        }
     }
 
     public class SubtitlesCanvas : MonoBehaviour
@@ -243,7 +245,7 @@ public class SubtitlesPlugin : BasePlugin
             }
             else
             {
-                Log.LogInfo($"Play voice({data.Voice?.AssetFile}): Not in subtitleMap!");
+                Log.LogWarning($"Play voice({data.Voice?.AssetFile}): Not in subtitleMap!");
             }
         }
 
