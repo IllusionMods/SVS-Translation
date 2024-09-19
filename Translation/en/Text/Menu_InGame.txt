@@ -54,15 +54,15 @@ ALL=All
 ネットワークから選出=From the internet
 操作キャラに登録=Make Player Character
 操作キャラに登録中=Current Player Character
-※全ての空いている場所へ、ランダムにキャラを登録します=Assign random characters to all empty slots
-※選択した場所へ、ランダムにキャラを登録します=Assign random character to selected slot
-※1人以上キャラを登録してください=* Please assign one or more characters
+※全ての空いている場所へ、ランダムにキャラを登録します=※ Assign random characters to all empty slots
+※選択した場所へ、ランダムにキャラを登録します=※ Assign random character to selected slot
+※1人以上キャラを登録してください=※ Please assign one or more characters
 セーブを行うには、1人以上キャラを\n登録している必要があります=You cannot save without\nany characters assigned
 やめる=No
 情報切替え=Switch Info
 入替え中=Switching
 「全てランダムに登録」確認=Confirm "Assign Randomly"
-※登録人数が増えると動作に負荷がかかりますのでご注意下さい=※This will increase available character slots to 24.
+※登録人数が増えると動作に負荷がかかりますのでご注意下さい=※ This will increase available character slots to 24.
 登録人数拡張=Number of Characters
 登録人数を拡張しますか？=Increase available character slots?
 ソート、フィルター=Sort, Filter
@@ -70,17 +70,24 @@ ALL=All
 降順=Descending
 名前順=Name Order
 日付順=Date Order
+※ゲーム内で得たステータス・関係性は失われます！\n削除しますか？=※ Any statuses and relationships gained will be lost!\nRemove this character from the roster?
+「ランダム登録」確認=Confirm Random Assignment
+ネットワークからキャラを取得中=Acquiring character from the network...
+キャラ情報を取得しています=Acquiring character information...
+取得したキャラ情報を変換しています=Converting acquired character information...
+キャラクリエイト画面に移動します\nよろしいですか？=You will switch to the character maker.\nAre you sure?
+キャラの新規作成=New Character Creation
 
 // In Game Menus
 出かける=Start Day
-外に出ますか？=Do you want to start the day?
+外に出ますか？=Start the day?
 会いに行く=Go Meet
 
 マップ移動=Map
 ヘルプ=Help
 
 帰宅する=End Day
-１日を終了しますが、よろしいですか？=Do you want to end the day?
+１日を終了しますが、よろしいですか？=End the day?
 
 タイトルへ戻りますか？=Return to title?
 タイトルへ戻る=Return to Title Screen
