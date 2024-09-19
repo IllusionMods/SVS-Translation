@@ -2,6 +2,8 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Reflection;
+using System.Text.Json;
 // BepInEx
 using BepInEx;
 using BepInEx.Configuration;
@@ -15,7 +17,6 @@ using Il2CppInterop.Runtime.Injection;
 using TMPro;
 using SV.H;
 using SV.H.Words;
-using System.Reflection;
 
 [assembly: AssemblyTitle(SVS_Subtitles.SubtitlesPlugin.DisplayName)]
 [assembly: AssemblyProduct(SVS_Subtitles.SubtitlesPlugin.DisplayName)]
@@ -33,14 +34,15 @@ public class SubtitlesPlugin : BasePlugin
     internal const string DisplayName = "SVS Subtitles";
 
     // BepInEx Config
-    internal static ConfigEntry<bool> EnableConfig;
+    private static ConfigEntry<bool> EnableConfig;
 
     // Plugin variables
-    static GameObject canvasObject;
-    internal static new BepInEx.Logging.ManualLogSource Log;
-    internal static HScene HSceneInstance;
+    private static GameObject canvasObject;
+    private static new BepInEx.Logging.ManualLogSource Log;
+    private static HScene HSceneInstance;
 
-    internal static Dictionary<string, string> subtitleMap;
+    private static Dictionary<string, string> subtitleMap;
+
     public override void Load()
     {
         Log = base.Log;
@@ -48,15 +50,21 @@ public class SubtitlesPlugin : BasePlugin
         // Plugin startup logic
         // Log.LogInfo($"Plugin {MyPluginInfo.PLUGIN_GUID} is loaded!");
 
-        EnableConfig = Config.Bind("General",
-                                         "Enable Subtitles",
-                                         true,
-                                         "Reload the game to Enable/Disable");
+        EnableConfig = Config.Bind("General", "Enable Subtitles", true, "Reload the game to Enable/Disable");
 
         if (EnableConfig.Value)
         {
-            var jsonString = File.ReadAllText(System.IO.Path.Combine(BepInEx.Paths.ConfigPath, "SVS_Subtitles.json"));
-            subtitleMap = System.Text.Json.JsonSerializer.Deserialize<Dictionary<string, string>>(jsonString);
+            var subsPath = Path.Combine(Paths.ConfigPath, "SVS_Subtitles.json");
+            try
+            {
+                var jsonString = File.ReadAllText(subsPath);
+                subtitleMap = JsonSerializer.Deserialize<Dictionary<string, string>>(jsonString) ?? throw new Exception("Failed to deserialize jsonString, could be an empty file");
+            }
+            catch (Exception e)
+            {
+                Log.LogError($"Failed to load subtitles from \"{subsPath}\" - {e}");
+                return;
+            }
             Harmony.CreateAndPatchAll(typeof(Hooks));
         }
 
@@ -70,10 +78,9 @@ public class SubtitlesPlugin : BasePlugin
     /// <param name="scene"></param>
     public static void MakeCanvas(Scene scene)
     {
-        if (canvasObject != null)
-        {
-            GameObject.Destroy(canvasObject);
-        }
+        if (canvasObject)
+            UnityEngine.Object.Destroy(canvasObject);
+        
         // Creating Canvas object
         canvasObject = new GameObject("SubtitleCanvas");
         SceneManager.MoveGameObjectToScene(canvasObject, scene);
@@ -85,12 +92,12 @@ public class SubtitlesPlugin : BasePlugin
         // Constructor needed to use Start, Update, etc...
         public SubtitlesCanvas(IntPtr handle) : base(handle) { }
 
-        static GameObject subtitleObject;
-        static TextMeshProUGUI subtitle;
+        private static GameObject subtitleObject;
+        private static TextMeshProUGUI subtitle;
 
         public static List<PlayingWord> playingWords = new();
 
-        static T getResource<T>(string name) where T : UnityEngine.Object
+        private static T GetResource<T>(string name) where T : UnityEngine.Object
         {
             var objs = Resources.FindObjectsOfTypeAll(Il2CppInterop.Runtime.Il2CppType.Of<T>());
             for (var i = objs.Length - 1; i >= 0; --i)
@@ -105,7 +112,7 @@ public class SubtitlesPlugin : BasePlugin
             return null;
         }
 
-        void Start()
+        private void Start()
         {
             // Setting canvas attributes
             var canvasScaler = canvasObject.AddComponent<CanvasScaler>();
@@ -128,8 +135,8 @@ public class SubtitlesPlugin : BasePlugin
             subtitleRect.sizeDelta = new Vector2(Screen.width * 0.990f, fontSize + (fontSize * 0.05f));
 
             subtitle = subtitleObject.AddComponent<TextMeshProUGUI>();
-            subtitle.font = getResource<TMP_FontAsset>("tmp_sv_default");
-            subtitle.fontSharedMaterial = getResource<Material>("tmp_sv_default SVT-10");
+            subtitle.font = GetResource<TMP_FontAsset>("tmp_sv_default");
+            subtitle.fontSharedMaterial = GetResource<Material>("tmp_sv_default SVT-10");
 
             subtitle.fontSize = fontSize;
             subtitle.alignment = TextAlignmentOptions.Bottom;
@@ -147,22 +154,21 @@ public class SubtitlesPlugin : BasePlugin
         }
 
         // Using Update because coroutines, onDestroy and onDisable are not working as intended
-        void Update()
+        private void Update()
         {
-            if (HSceneInstance != null && HSceneInstance?.isActiveAndEnabled == true)
+            if (HSceneInstance && HSceneInstance.isActiveAndEnabled)
             {
                 var subtitleText = "";
-                playingWords.RemoveAll((PlayingWord word) =>
+                playingWords.RemoveAll(word =>
                 {
                     var isPlaying = !word.baseWords.WasCollected && (
                         (word.kind == PlayData.VoiceKind.Heart && word.baseWords._player?.IsHeartNow == true)
-                        || word.baseWords._player?.IsPlaying(true) == true 
+                        || word.baseWords._player?.IsPlaying(true) == true
                     );
-                    
+
                     if (isPlaying)
-                    {
                         subtitleText = subtitleText + "\n" + word.text;
-                    }
+
                     return !isPlaying;
                 });
                 if (subtitle.text != subtitleText) subtitle.text = subtitleText;
@@ -177,29 +183,33 @@ public class SubtitlesPlugin : BasePlugin
         }
     }
 
-    internal static class Hooks
+    private static class Hooks
     {
         [HarmonyPostfix]
         [HarmonyPatch(typeof(BaseWords), nameof(BaseWords.Play))]
         private static void PlayVoice(BaseWords __instance, PlayData data)
         {
             if (data.Kind == PlayData.VoiceKind.Breath) return;
+
             var subtitle = subtitleMap.GetValueSafe(data.Voice?.AssetFile) ?? data.Voice?.AssetFile ?? "";
-            var text = $"{__instance._actor?.Name} 「{subtitle}」";
-            Log.LogInfo($"Play voice({data.Voice?.AssetFile}): {subtitle}");
             if (!subtitle.IsNullOrEmpty())
             {
-                var playingWord = new SubtitlesCanvas.PlayingWord()
+                Log.LogDebug($"Play voice({data.Voice?.AssetFile}): {subtitle}");
+
+                var text = $"{__instance._actor?.Name} 「{subtitle}」";
+                var playingWord = new SubtitlesCanvas.PlayingWord
                 {
                     baseWords = __instance,
                     kind = data.Kind,
                     text = text
                 };
-                SubtitlesCanvas.playingWords.RemoveAll((SubtitlesCanvas.PlayingWord word) =>
-                {
-                    return word.baseWords == __instance;
-                });
+
+                SubtitlesCanvas.playingWords.RemoveAll(word => word.baseWords == __instance);
                 SubtitlesCanvas.playingWords.Add(playingWord);
+            }
+            else
+            {
+                Log.LogInfo($"Play voice({data.Voice?.AssetFile}): Not in subtitleMap!");
             }
         }
 
@@ -210,6 +220,5 @@ public class SubtitlesPlugin : BasePlugin
             HSceneInstance = __instance;
             MakeCanvas(SceneManager.GetActiveScene());
         }
-
     }
 }
