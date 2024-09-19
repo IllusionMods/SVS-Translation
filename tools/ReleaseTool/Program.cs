@@ -114,10 +114,10 @@ internal static class ReleaseTool
         output.BeginUpdate(new MemoryArchiveStorage(FileUpdateMode.Direct));
 
         var readmePath = Path.Combine(root.FullName, "README.md");
-        if (File.Exists(readmePath)) output.Add(readmePath, "README.md");
+        if (File.Exists(readmePath)) output.Add(readmePath, $"BepInEx\\Translation\\{translationName}_README.md");
 
         var licensePath = Path.Combine(root.FullName, "LICENSE");
-        if (File.Exists(licensePath)) output.Add(licensePath, "LICENSE");
+        if (File.Exists(licensePath)) output.Add(licensePath, $"BepInEx\\Translation\\{translationName}_LICENSE");
 
         var configDir = Path.Combine(root.FullName, "config");
         if (Directory.Exists(configDir))
@@ -169,6 +169,11 @@ internal static class ReleaseTool
             var result = CleanTranslations(copyDir, copyDir);
             Console.Out.Flush();
             Console.SetOut(_originalOut);
+
+            foreach (var looseFile in Directory.GetFiles(tlDir, "*.*", SearchOption.TopDirectoryOnly))
+            {
+                AddToZip(looseFile,  $"BepInEx\\Translation\\{languageCode}\\{Path.GetFileName(looseFile)}");
+            }
 
             // Use the cleaned up copy
             tlDir = copyDir.FullName;
