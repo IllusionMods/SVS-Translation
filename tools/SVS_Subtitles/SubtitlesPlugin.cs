@@ -27,21 +27,23 @@ using SV.H.Words;
 namespace SVS_Subtitles;
 
 [BepInPlugin(GUID, DisplayName, Version)]
+[BepInDependency("gravydevsupreme.xunity.resourceredirector", BepInDependency.DependencyFlags.SoftDependency)]
 public class SubtitlesPlugin : BasePlugin
 {
-    public const string Version = "0.0.1";
+    public const string Version = "0.0.2";
     public const string GUID = "SVS_Subtitles";
     internal const string DisplayName = "SVS Subtitles";
 
     // BepInEx Config
     private static ConfigEntry<bool> EnableConfig;
+    private static ConfigEntry<string> LanguageConfig;
 
     // Plugin variables
     private static GameObject canvasObject;
-    private static new BepInEx.Logging.ManualLogSource Log;
+    internal static new BepInEx.Logging.ManualLogSource Log;
     private static HScene HSceneInstance;
 
-    private static Dictionary<string, string> subtitleMap;
+    private static Dictionary<string, string> subtitleMap = new();
 
     public override void Load()
     {
@@ -50,26 +52,28 @@ public class SubtitlesPlugin : BasePlugin
         // Plugin startup logic
         // Log.LogInfo($"Plugin {MyPluginInfo.PLUGIN_GUID} is loaded!");
 
-        EnableConfig = Config.Bind("General", "Enable Subtitles", true, "Reload the game to Enable/Disable");
+        EnableConfig = Config.Bind("General", "Enable Subtitles", true, "Reload the H Scene to Enable/Disable.");
+        LanguageConfig = Config.Bind("General", "Subtitle Language", "auto", "Language of the subtitles.\nThe subtitles are loaded from 'BepInEx/Translation/<this setting>/SVS_Subtitles.json'.\nIf set to 'auto' or empty, AutoTranslator's Destination Language is used.");
 
-        if (EnableConfig.Value)
-        {
-            var subsPath = Path.Combine(Paths.ConfigPath, "SVS_Subtitles.json");
-            try
-            {
-                var jsonString = File.ReadAllText(subsPath);
-                subtitleMap = JsonSerializer.Deserialize<Dictionary<string, string>>(jsonString) ?? throw new Exception("Failed to deserialize jsonString, could be an empty file");
-            }
-            catch (Exception e)
-            {
-                Log.LogError($"Failed to load subtitles from \"{subsPath}\" - {e}");
-                return;
-            }
-            Harmony.CreateAndPatchAll(typeof(Hooks));
-        }
+        Harmony.CreateAndPatchAll(typeof(Hooks));
 
         // IL2CPP don"t automatically inherits MonoBehaviour, so needs to add a component separatelly
         ClassInjector.RegisterTypeInIl2Cpp<SubtitlesCanvas>();
+    }
+
+    private static string GetSubtitlesPath(string? languageCode)
+    {
+        if (string.IsNullOrEmpty(languageCode))
+        {
+            Log.LogWarning("AutoTranslator not found or has no language set in its config. Please set the Subtitle Language setting manually or place SVS_Subtitles.json in 'BepInEx/Config'.");
+        }
+        else
+        {
+            var subsPath = Path.Combine(Paths.BepInExRootPath, "Translation", languageCode, "SVS_Subtitles.json");
+            if (File.Exists(subsPath)) return subsPath;
+            Log.LogWarning($"Subtitles file not found at \"{subsPath}\". Looking in config instead...");
+        }
+        return Path.Combine(Paths.ConfigPath, "SVS_Subtitles.json");
     }
 
     /// <summary>
@@ -80,11 +84,30 @@ public class SubtitlesPlugin : BasePlugin
     {
         if (canvasObject)
             UnityEngine.Object.Destroy(canvasObject);
-        
+
         // Creating Canvas object
         canvasObject = new GameObject("SubtitleCanvas");
         SceneManager.MoveGameObjectToScene(canvasObject, scene);
         canvasObject.AddComponent<SubtitlesCanvas>();
+
+        var languageCode = LanguageConfig.Value.Trim();
+        if (languageCode == string.Empty || languageCode == "auto")
+            languageCode = TranslationHelper.TryGetAutoTranslatorLanguage();
+
+        var subsPath = GetSubtitlesPath(languageCode);
+
+        try
+        {
+            var jsonString = File.ReadAllText(subsPath);
+            subtitleMap = JsonSerializer.Deserialize<Dictionary<string, string>>(jsonString) ?? throw new Exception("Failed to deserialize jsonString, could be an empty file");
+
+            Log.LogInfo($"Loaded subtitles from \"{subsPath}\"");
+        }
+        catch (Exception e)
+        {
+            Log.LogError($"Failed to load subtitles from \"{subsPath}\" - {e}");
+            EnableConfig.Value = false;
+        }
     }
 
     public class SubtitlesCanvas : MonoBehaviour
@@ -191,12 +214,23 @@ public class SubtitlesPlugin : BasePlugin
         {
             if (data.Kind == PlayData.VoiceKind.Breath) return;
 
-            var subtitle = subtitleMap.GetValueSafe(data.Voice?.AssetFile) ?? data.Voice?.AssetFile ?? "";
+            if (!EnableConfig.Value) return;
+
+            var subtitle = subtitleMap.GetValueSafe(data.Voice?.AssetFile)
+#if DEBUG
+                           ?? data.Voice?.AssetFile 
+#endif
+                           ?? "";
             if (!subtitle.IsNullOrEmpty())
             {
                 Log.LogDebug($"Play voice({data.Voice?.AssetFile}): {subtitle}");
 
-                var text = $"{__instance._actor?.Name} 「{subtitle}」";
+                var actorName = __instance._actor?.Name;
+                
+                if(TranslationHelper.TryTranslate(actorName, out var actorNameTl))
+                    actorName = actorNameTl;
+
+                var text = $"{actorName} 「{subtitle}」";
                 var playingWord = new SubtitlesCanvas.PlayingWord
                 {
                     baseWords = __instance,
@@ -216,6 +250,8 @@ public class SubtitlesPlugin : BasePlugin
         [HarmonyPostfix, HarmonyPatch(typeof(HScene), nameof(HScene.Start))]
         private static void HSceneInitialize(HScene __instance)
         {
+            if (!EnableConfig.Value) return;
+
             if (HSceneInstance == __instance) return;
             HSceneInstance = __instance;
             MakeCanvas(SceneManager.GetActiveScene());

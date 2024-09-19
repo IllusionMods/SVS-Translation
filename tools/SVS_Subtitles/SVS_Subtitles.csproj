@@ -13,6 +13,13 @@
     <PackageReference Include="IllusionLibs.SamabakeScramble.UnityEngine.UI" Version="2021.3.33.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="XUnity.AutoTranslator.Plugin.Core">
+      <HintPath>lib\XUnity.AutoTranslator.Plugin.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+
   <Target Name="CopyCustomContent" AfterTargets="AfterBuild">
     <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(SolutionDir)\bin" />
   </Target>
