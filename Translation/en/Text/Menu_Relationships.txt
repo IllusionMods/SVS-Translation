@@ -34,7 +34,7 @@
 //2日=2 days
 
 // Characters Status
-イキマショウ=Let's Cum
+イキマショウ=TOGETHER FOREVER
 邪魔者は…=In The Way...
 許さない！=Unforgivable!
 浮気者！=Cheater!
@@ -110,6 +110,6 @@
 ビジネスパートナー=Business Partner
 発展途中=Developing Relationship
 喧嘩中……=Fighting...
-追うもの・追われるもの=Pursuing/Being Pursued
+追うもの・追われるもの=Hunter/Hunted
 サツバツ=Bloodthirsty
 条件的にあり得ないであろう組み合わせ=Impossible Pairing
