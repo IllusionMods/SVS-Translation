@@ -1,3 +1,4 @@
+//Downloader
 ハンドルネーム=Username
 ※空文字や「ILLGAMES」は使用できません=※Empty characters and "ILLGAMES" cannot be used
 無断転載 ・ 無断使用を禁じます。<br><br>（C）ILLGAMES 2024=Unauthorized reproduction and unauthorized use are prohibited.\n<br> (C) ILLGAMES 2024
