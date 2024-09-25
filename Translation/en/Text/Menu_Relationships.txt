@@ -27,11 +27,16 @@
 告白した側=Confessor
 告白していない=No confession yet
 いない=None
-不明=Unclear
 交際人数=Partners
 0日=0 days
 //1日=1 day
 //2日=2 days
+
+// H Compatibility
+不明=Unknown
+良好=Good
+最高=Excellent
+完璧=Perfect
 
 // Characters Status
 イキマショウ=TOGETHER FOREVER
