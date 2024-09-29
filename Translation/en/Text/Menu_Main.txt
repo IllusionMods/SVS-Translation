@@ -13,4 +13,8 @@
 戻る=Return
 アップロード=Upload
 ダウンロード=Download
+キャラアップロード=Character Upload
+タウンダウンロード=Town Download
+キャラダウンロード=Character Download
+タウンアップロード=Town Upload
 言語設定=Language

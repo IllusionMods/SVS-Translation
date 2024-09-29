@@ -619,6 +619,9 @@ H好み=Loves Sex
 融合対象を選択=Select Fusion Target
 キャラのカード化!=Character Card Maker!
 
+キャラのカード化=Character card creation
+キャラの容姿変更=Change character appearance
+変更内容の保存=Save changes
 編集前に戻す=Revert Edits
 性格を表示=Show Pers.
 ※読込みたい項目を選択=※ Select the data you wish to load
