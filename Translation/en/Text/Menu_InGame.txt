@@ -20,6 +20,7 @@ ALL=All
 ☆お気に入り=☆ Favorites
 お気に入り：=Favorite:
 ※お気に入りセーブデータがありません=※ No save data has been marked as favorite
+※他作セーブデータがありません=* No save data has been downloaded
 セーブデータの上書き=Overwrite Save Data
 上書き=Overwrite
 セーブデータ名：=Save Data Name:
