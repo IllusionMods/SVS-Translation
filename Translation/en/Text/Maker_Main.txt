@@ -748,6 +748,7 @@ H好み=Loves Sex
 フォーマルA・ネイビー２=Formal A / Navy 2
 フォーマルA・ネイビー１=Formal A / Navy 1
 私服・ダークトーン=Plain Clothes / Dark Tone
+保存していない内容は破棄されます=Unsaved changes will be discarded
 ※実行すると「イメージで作成」で構成された\nデータは失われます。=※ Revert to the character that was originally loaded.\nAll changes will be discarded.
 ※削除したデータは復帰しません！=※ Deleted data cannot be recovered!
 削除しますか？=Are you sure you want to delete this?
