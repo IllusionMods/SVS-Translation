@@ -183,7 +183,7 @@
 「何だ？　今の私は、すこぶる機嫌が悪いのだが」=「What? I'm in a terribly bad mood right now.」
 「お前は本当によくやっているな」=「You really are doing well.」
 「いい事が聞けた、ありがとう」=「I'm glad to hear that, thank you.」
-「お前のアレが見たい、私に見せろ」=「I want to see that of yours, show it to me.」
+「お前のアレが見たい、私に見せろ」=「I want to see yours, show me.」
 「断る」=「No.」
 「ふむ、骨格の違いか肉質の違いか……やはり男女で尻の柔らかさは違うな」=「Hmm, is it the difference in bone structure or the quality of the flesh... The softness of the buttocks definitely differs between men and women.」
 「今は気分がいい、何でも言ってみろ」=「I'm in a good mood now, say anything.」
@@ -362,7 +362,7 @@
 「[NPC_thatPersonName]と接触するな、いいな？」=「Don't interact with [NPC_thatPersonName], got it?」
 「お前と仲よくする義理はない」=「I have no obligation to be friendly with you.」
 「悪いが、リスクのあるセックスはしたくないんだ」=「Sorry, I don't want to have risky sex.」
-「お前……アレ、見たいか？」=「You... Do you want to see that?」
+「お前……アレ、見たいか？」=「You... Do you want to see?」
 「別れたい、だと？　どうやら、まだ私の愛が足りないようだな……いいぞ、もっともっと、愛してやるからな♪」=「Breaking up, you say? It seems my love is still lacking... Fine, I'll love you more and more.」
 「恋人関係である以上、互いに互いを知るべきだと思わないか？　だからどんな些細なことでもいい、お前の事を教えてくれ」=「As lovers, we should know each other, don't you think? So tell me anything about you, no matter how trivial.」
 「くっ……この屈辱は忘れない……っ」=「Ugh... I won't forget this humiliation...」
