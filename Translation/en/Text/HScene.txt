@@ -1,7 +1,7 @@
 //Categories
 愛撫=Caress
-女挿入=Insertion (M Top)
-男挿入=Insertion (F Top)
+女挿入=Insertion (F Top)
+男挿入=Insertion (M Top)
 奉仕=Service
 
 //Positions
@@ -10,14 +10,14 @@
 立ち股弄り=Standing masturbation
 立ち胸揉み=Standing breast grope
 立ち股バイブ=Standing vibrator
-立ちアナル弄り=Standing anal Fingering
+立ちアナル弄り=Standing anal fingering
 立ちアナル舐め=Standing anilingus
-立ちアナルバイブ=Standing anal Vibrator
+立ちアナルバイブ=Standing anal vibrator
 床胸揉み=Breast grope on the floor
 床股弄り=Mastubation on the floor
 まんぐりクンニ=Piledriver cunnilingus
 まんぐり股バイブ=Piledriver vibrator
-床アナル弄り=Anilingus while laying down
+床アナル弄り=Anal fingering while laying down
 床アナル舐め=Anilingus while laying down
 床アナルバイブ=Anal vibrator while laying down
 椅子胸揉み=Seated breast grope
@@ -48,7 +48,7 @@
 脱力机股弄り=Weak masturbation on desk
 脱力机クンニ=Weak cunnilingus on desk
 
-//Insertion (M Top)
+//Insertion (F Top)
 アナルM字背面騎乗位=Anal squatting reverse cowgirl
 M字騎乗位=Squatting cowgirl
 胸弄り騎乗位=Breast-fondling cowgirl
@@ -64,7 +64,7 @@ M字背面騎乗位=Squatting reverse cowgirl
 アナルM字騎乗位=Anal squatting cowgirl
 アナル背面騎乗位=Anal reverse cowgirl
 正常位=Missionary
-後背位=Doggy Style
+後背位=Doggy style
 駅弁=Standing lifted
 逆駅弁=Reverse standing lifted
 側位=Spooning
@@ -79,7 +79,7 @@ M字背面騎乗位=Squatting reverse cowgirl
 脱力アナル正常位=Weak anal missionary
 脱力アナル後背位=Weak anal doggy style
 
-//Insertion (F Top)
+//Insertion (M Top)
 アナル壁立ちバック=Anal wall doggy style
 対面机=Face-to-face on desk
 対面立位=Standing face-to-face
