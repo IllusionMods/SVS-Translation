@@ -1,3 +1,4 @@
+// Default character cards
 小牧 瑞穗=Komaki Mizuho
 小牧=Komaki
 瑞穗=Mizuho
@@ -41,3 +42,20 @@
 青山 祐樹=Aoyama Yuki
 青山=Aoyama
 祐樹=Yuki
+
+// Default coordinate names
+マミーウルフセット=Mummy Wolf Set
+ディアンドルセット=Doll set
+ゴスロリセット=Goth-loli set
+サイバーパンクセット=Cyberpunk set
+サブカルセット=Subculture set
+メカニックセット=Mechanic set
+チアリーダーセット=Cheerleader set
+ナースコスセット=Nurse costume set
+セキュリティガードセット=Security guard set
+クロップドセーラーセット=Cropped sailor set
+くノ一セット=Female ninja set
+カウガールセット=Cowgirl set
+巫女セット=Shrine maiden set
+ライフセーバーセット=Life saver set
+ウェイトレスセット=Waitress Set

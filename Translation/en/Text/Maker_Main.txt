@@ -756,3 +756,11 @@ H好み=Loves Sex
 自作=My Work
 他作=Others Work
 職業=Job
+
+コーディネート名を入力して下さい=Please enter the coordinate name
+コーディネートの新規保存=Save a new outfit
+コーディネート名(最大18文字)=Coordinate name (up to 18 characters)
+以下のコーディネートに上書きしますか？=Do you want to overwrite the existing coordinate?
+コーディネートの上書き保存=Overwrite an outfit
+容姿変更=Change of appearance
+キャラクターを変更前の状態に戻しますか？=Do you want to revert changes to the character?
