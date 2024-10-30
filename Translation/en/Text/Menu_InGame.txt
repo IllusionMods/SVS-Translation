@@ -78,6 +78,8 @@ ALL=All
 取得したキャラ情報を変換しています=Converting acquired character information...
 キャラクリエイト画面に移動します\nよろしいですか？=You will switch to the character maker.\nAre you sure?
 キャラの新規作成=New Character Creation
+キャラ未登録=No registered characters
+※キャラがいないため出かけることはできません\n自室へ戻りますか？=※ You will not be able to go outside because there are no characters.\nDo you want to go back to your room?
 
 // In Game Menus
 出かける=Start Day
