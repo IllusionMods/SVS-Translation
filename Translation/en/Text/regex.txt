@@ -41,3 +41,6 @@ sr:"^(?<name>.+)の(?<item>ダンベル|料理本|除菌シート|ノートパ�
 
 // Prevent placeholder text from being sent to the translator.
 r:"^(あいうえおかきくけこ)+$"=ETAOIN SHRDLU
+
+// Default coordinate names
+r:"^私服([０-９0-9]+)$"=Plain clothes $1
