@@ -1,6 +1,7 @@
 // c103 - 飄々
 // Place translated line after the =
 // Remember to uncomment lines that are translated
+// All translations are DeepL MTL
 
 「ようやく気付いたのか」=「You finally realized it.」
 「お前も恋人とは毎日連絡取ってたりするのか？」=「Do you communicate with your girlfriend every day?」

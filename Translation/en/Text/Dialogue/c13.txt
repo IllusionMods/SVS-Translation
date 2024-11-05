@@ -1,6 +1,7 @@
 // c13 - オタク
 // Place translated line after the =
 // Remember to uncomment lines that are translated
+// All translations are DeepL MTL
 
 「むぅ……あまり撫でられると、その、恥ずかしいですぞ……」=「Mmm ... if you stroke me too much, well, it's embarrassing ...」
 「ふむ、これ以上となると……もしや、哲学の類ですかな？」=「Hmmm, if it goes any further, is ... any kind of philosophy?」

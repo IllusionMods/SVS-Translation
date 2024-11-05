@@ -1,6 +1,7 @@
 // c15 - 元気活発
 // Place translated line after the =
 // Remember to uncomment lines that are translated
+// All translations are DeepL MTL
 
 「もっと……エッチなことにも積極的になった方がいいんでしょうかっ？」=「Should I be more ... sexually active?」
 「うー……わかりました……」=「Woo ... okay ...」

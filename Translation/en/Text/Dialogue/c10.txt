@@ -1,6 +1,7 @@
 // c10 - 無口
 // Place translated line after the =
 // Remember to uncomment lines that are translated
+// All translations are DeepL MTL
 
 「好きな物食べると……元気になれますよね……」=「Eating what you like makes you feel ... better...」
 「興奮してしまいました……エッチしてくれないと、困ります……」=「I'm so excited ... sex me or I'm in trouble ...」

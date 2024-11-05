@@ -1,6 +1,7 @@
 // c14 - やんちゃ
 // Place translated line after the =
 // Remember to uncomment lines that are translated
+// All translations are DeepL MTL
 
 「[NPC_thatPersonName]、お前のことが好きみたいだぞ？」=「[NPC_thatPersonName], I think he likes you, huh?」
 「悪いけど、私だって初めては大事にしてるんだからな」=「Sorry, but even I cherish my first time.」

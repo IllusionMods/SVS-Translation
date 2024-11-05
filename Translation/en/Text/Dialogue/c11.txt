@@ -1,6 +1,7 @@
 // c11 - お嬢様
 // Place translated line after the =
 // Remember to uncomment lines that are translated
+// All translations are DeepL MTL
 
 「んちゅ……サプライズ成功ですわ！」=「Nchu_... your surprise is a success!」
 「危ないエッチをするつもりはありませんの」=「I don't intend to have dangerous sex.」

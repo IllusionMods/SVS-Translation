@@ -1,6 +1,7 @@
 // c12 - のんびり
 // Place translated line after the =
 // Remember to uncomment lines that are translated
+// All translations are DeepL MTL
 
 「[NPC_thatPersonName]がえっちしてるの見ちゃったんだー」=「I saw [NPC_thatPersonName] having sex.」
 「えーいっ、ぎゅうぎゅうーだぁ」=「Wow, it's so tight!」

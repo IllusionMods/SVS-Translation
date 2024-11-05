@@ -1,6 +1,7 @@
 // c102 - 無邪気
 // Place translated line after the =
 // Remember to uncomment lines that are translated
+// All translations are DeepL MTL
 
 「……ん？　ああ、僕に用？」=「... hmm? Oh, you wanted to see me?」
 「え、やだけど」=「Yeah, no, but...」
