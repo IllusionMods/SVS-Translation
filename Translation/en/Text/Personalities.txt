@@ -1,4 +1,6 @@
 キャラメイク=Personality
+
+// Female
 普通=Ordinary
 クール=Cool
 妖艶=Bewitching
@@ -9,6 +11,17 @@
 母性=Motherly
 小悪魔=Devilish
 ヤンキー=Yankee
+// Added in additional personality pack
+お嬢様=Ojousama
+やんちゃ=Mischievous
+のんびり=Relaxed
+オタク=Otaku
+元気活発=Energetic
+無口=Reserved
 
+// Male
 豪快=Bold
 好青年=Agreeable
+// Added in additional personality pack
+飄々=Nonchalant
+無邪気=Naive
