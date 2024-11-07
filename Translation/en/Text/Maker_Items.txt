@@ -81,6 +81,19 @@
 淫紋B=Lewd Crest B
 チア=Cheers
 ゼッケン=Athlete Bib
+縫い傷A=Stitches A
+縫い傷B=Stitches B
+裂傷=Claw Marks
+血のりA=Blood A
+血のりB=Blood B
+血のりC(右)=Blood C (Right)
+血のりC(左)=Blood C (Left)
+クモ=Spider
+クモの巣=Spider Web
+コウモリ=Bat
+オバケ(右)=Ghost (Right)
+オバケ(左)=Ghost (Left)
+キャンディー=Candy
 
 ストレートボブ=Straight Bob
 ミドルヘア=Middle Hair
@@ -276,6 +289,7 @@ Wお団子=Double Buns
 パワーウェーブ=Power Wave
 雷交柄=Lightning Bolts
 稲妻=Lightning Bolts S
+雲柄=Clouds
 
 Tシャツ=T-Shirt
 サロペットワンピース=Dress with Overalls
