@@ -59,3 +59,4 @@
 巫女セット=Shrine maiden set
 ライフセーバーセット=Life saver set
 ウェイトレスセット=Waitress Set
+ガーデニングセット=Gardening set

@@ -81,6 +81,19 @@
 淫紋B=Lewd Crest B
 チア=Cheers
 ゼッケン=Athlete Bib
+縫い傷A=Stitches A
+縫い傷B=Stitches B
+裂傷=Claw Marks
+血のりA=Blood A
+血のりB=Blood B
+血のりC(右)=Blood C (Right)
+血のりC(左)=Blood C (Left)
+クモ=Spider
+クモの巣=Spider Web
+コウモリ=Bat
+オバケ(右)=Ghost (Right)
+オバケ(左)=Ghost (Left)
+キャンディー=Candy
 
 ストレートボブ=Straight Bob
 ミドルヘア=Middle Hair
@@ -124,6 +137,7 @@
 ＜ベース＞ツインテール=<Base> Twintails
 ＜ベース＞ミドルツインテ=<Base> Middle Twintails
 ワイルドロング=Wild Long
+ツインリングテール=Twin Rings with Tails
 
 サイドカールバング=Side Curls
 レフトボリュームエムバング=M-Shaped, Parted Left
@@ -169,6 +183,7 @@
 右流しアシンメトリ=Right-Flowing Asymmetry
 ワイルドバング（右）=Wild Bangs (Right)
 ワイルドバング（左）=Wild Bangs (Left)
+トライアングルバング=Triangle Bangs
 
 ミドルサイド=Middle Sides
 スマートサイド=Smart Sides
@@ -276,6 +291,7 @@ Wお団子=Double Buns
 パワーウェーブ=Power Wave
 雷交柄=Lightning Bolts
 稲妻=Lightning Bolts S
+雲柄=Clouds
 
 Tシャツ=T-Shirt
 サロペットワンピース=Dress with Overalls
@@ -336,6 +352,8 @@ Yシャツ(男)=Y-Shirt (Male)
 ジャケットB(男)=Jacket B (Male)
 カジュアルシャツ(男)=Casual Shirt (Male)
 小悪魔トップス=Little Devil Top
+ガーデニングトップス=Gardening Top
+風神腰巻き=Fujin Dress
 
 ショートデニム=Denim Shorts
 ショートパンツ=Shorts
@@ -382,6 +400,7 @@ Yシャツ(男)=Y-Shirt (Male)
 腰巻きタオル(男)=Wrapped Towel (Male)
 海パン=Swim Briefs
 小悪魔パンツ=Little Devil Pants
+ガーデニングスカート=Gardening Skirt
 
 シンプルブラ=Simple Bra
 ビキニ水着トップス=Bikini Top
@@ -453,6 +472,7 @@ Fオープンショーツ=Split Open Panties
 雷神袖=Thunder Goddess Sleeves
 小悪魔グローブ=Little Devil Gloves
 マミーグローブ=Mummy Gloves
+風神腕巻き=Fujin Gloves
 
 パンストソックス=Pantyhose
 ローライズパンストA=Low-Rise Pantyhose a
@@ -479,6 +499,7 @@ Fオープンショーツ=Split Open Panties
 サイバーソックス=Cyber Socks
 小悪魔ソックス=Little Devil Socks
 マミーソックス=Mummy Socks
+風神脚巻き=Fujin Socks
 
 ランニングシューズ=Running Shoes
 カジュアルスニーカー=Casual Sneakers
@@ -507,6 +528,8 @@ Fオープンショーツ=Split Open Panties
 雷神高下駄=Thunder Goddess Geta
 サイバーシューズ=Cyber Shoes
 小悪魔シューズ=Little Devil Shoes
+ガーデニングシューズ=Gardening Shoes
+風神一本下駄=Fujin Geta
 
 ヘアクリップ=Hair Clip
 ヘアピン=Hairpin
@@ -595,6 +618,9 @@ Fオープンショーツ=Split Open Panties
 狼耳=Wolf Ears
 包帯のカケラ=Bandage Fragment
 マミーハット=Mummy Hat
+ガーデニングボンネット=Gardening Bonnet
+風冠=Fujin Crown
+風角=Fujin Antler
 
 スクエア=Square Glasses
 ボストン=Boston Glasses
@@ -646,6 +672,7 @@ Sチェーンネックレス=S-Chain Necklace
 サイバーネックガード=Cyber Neck Guard
 小悪魔チョーカー=Little Devil Choker
 マミーマフラー=Mummy Scarf
+数珠の首飾り=Bead Necklace
 
 リュックサック=Backpack
 天使の翼=Angel Wings
@@ -658,6 +685,8 @@ Sチェーンネックレス=S-Chain Necklace
 サイバーアーマー=Cyber Armor
 小悪魔ウィング=Little Devil Wings
 星型バッジ=Star-shaped Badge
+風袋=Wind Bag
+風纏=Fujin Aura
 
 ウェストでかリボン=Waist Ribbon
 猫しっぽ=Cat Tail
@@ -711,6 +740,13 @@ Sチェーンネックレス=S-Chain Necklace
 チェーンソー=Chainsaw
 小悪魔槍=Little Devil Pitchfork
 ペロペロキャンディー=Lollipop Candy
+蔦柄指輪=Ivy Ring
+スコップ=Trowel
+園芸ばさみ=Gardening Scissors
+バスケット=Basket
+ジョウロ=Watering Can
+霧吹き=Spray Bottle
+風大扇=Fujin Fan
 
 バイブ=Vibrating Dildo
 アナルバイブ=Anal Vibrator
