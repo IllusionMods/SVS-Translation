@@ -3,6 +3,9 @@
 女挿入=Insertion (F Top)
 男挿入=Insertion (M Top)
 奉仕=Service
+レズ=Lesbian
+女複数=MFF
+男複数=MMF
 
 //Positions
 //Caress
@@ -13,6 +16,7 @@
 立ちアナル弄り=Standing anal fingering
 立ちアナル舐め=Standing anilingus
 立ちアナルバイブ=Standing anal vibrator
+床キス=Lying kiss
 床胸揉み=Breast grope on the floor
 床股弄り=Mastubation on the floor
 まんぐりクンニ=Piledriver cunnilingus
@@ -49,11 +53,11 @@
 脱力机クンニ=Weak cunnilingus on desk
 
 //Insertion (F Top)
-アナルM字背面騎乗位=Anal squatting reverse cowgirl
-M字騎乗位=Squatting cowgirl
-胸弄り騎乗位=Breast-fondling cowgirl
+騎乗位=Cowgirl
 背面騎乗位=Reverse cowgirl
+M字騎乗位=Squatting cowgirl
 M字背面騎乗位=Squatting reverse cowgirl
+胸弄り騎乗位=Breast-fondling cowgirl
 対面座位=Sitting face-to-face
 背面座位=Sitting facing away
 対面椅子座位=Face-to-face chair sitting
@@ -61,41 +65,49 @@ M字背面騎乗位=Squatting reverse cowgirl
 チングリ騎乗位=Amazon
 チングリ背面騎乗位=Reverse amazon
 アナル騎乗位=Anal cowgirl
-アナルM字騎乗位=Anal squatting cowgirl
 アナル背面騎乗位=Anal reverse cowgirl
+アナルM字騎乗位=Anal squatting cowgirl
+アナルM字背面騎乗位=Anal squatting reverse cowgirl
+脱力騎乗位=Weak cowgirl
+脱力背面騎乗位=Weak reverse cowgirl
+脱力座位=Weak sitting face-to-face
+脱力背面座位=Weak sitting facing away
+脱力椅子座位=Weak face-to-face chair sitting 
+脱力背面椅子座位=Weak facing away chair sitting
+脱力アナル騎乗位=Weakn anal cowgirl
+脱力アナル背面騎乗位=Weak anal reverse cowgirl
+
+//Insertion (M Top)
 正常位=Missionary
+キス正常位=Kissing missionary
+まんぐり正常位=Piledriver missionary
 後背位=Doggy style
+つっぱり後背位=Supported doggy style
+対面立位=Standing face-to-face
+背面立位=Standing facing away
 駅弁=Standing lifted
 逆駅弁=Reverse standing lifted
 側位=Spooning
 壁立ちバック=Wall standing doggy style
+対面机=Face-to-face on desk
+背面机=Facing away on desk
 アナル正常位=Anal missionary
+アナルまんぐり正常位=Anal piledriver missionary
 アナル後背位=Anal doggy style
+アナル背面立位=Anal standing facing away
+アナル逆駅弁=Anal reverse standing lifted
+アナル壁立ちバック=Anal wall doggy style
 脱力正常位=Weak missionary
 脱力後背位=Weak doggy style
+脱力立位=Weak standing
+脱力背面立位=Weak standing facing away
 脱力駅弁=Weak standing lifted
 脱力逆駅弁=Weak reverse standing lifted
 脱力壁立ちバック=Weak wall doggy style
-脱力アナル正常位=Weak anal missionary
-脱力アナル後背位=Weak anal doggy style
-
-//Insertion (M Top)
-アナル壁立ちバック=Anal wall doggy style
-対面机=Face-to-face on desk
-対面立位=Standing face-to-face
-キス正常位=Kissing missionary
-まんぐり正常位=Piledriver missionary
-つっぱり後背位=Supported doggy style
-背面立位=Standing facing away
-背面机=Facing away on desk
-アナルまんぐり正常位=Anal piledriver missionary
-アナル背面立位=Anal standing facing away
-アナル逆駅弁=Anal reverse standing lifted
-椅子パイズリ=Chair paizuri
-脱力立位=Weak standing
-脱力背面立位=Weak standing facing away
 脱力対面机=Weak face-to-face on desk
 脱力背面机=Weak facing away on desk
+脱力アナル正常位=Weak anal missionary
+脱力アナル後背位=Weak anal doggy style
 脱力アナル背面立位=Weak anal standing facing away
 脱力アナル逆駅弁=Weak anal reverse standing lifted
 脱力アナル壁立ちバック=Weak anal wall doggy style
@@ -128,12 +140,14 @@ M字背面騎乗位=Squatting reverse cowgirl
 脱力椅子イラマ=Weak seated deepthroat
 
 // 3P MFF
-騎乗位=Cowgirl 
+W騎乗位=Double cowgirl
 フェラ=Fellatio
+Wフェラ=Double blowjob
 挿入+手マン=Insertion + fingering
+W手コキ舐め=Double handjob + licking
 手コキ舐め=Handjob and licking
 座位＋クンニ=Seated + cunnilingus
-脱力W騎乗位=Weakcowgirl
+脱力W騎乗位=Weak cowgirl
 脱力挿入+手マン=Weak insertion + fingering
 脱力座位＋クンニ=Weak seated + cunnilingus
 
