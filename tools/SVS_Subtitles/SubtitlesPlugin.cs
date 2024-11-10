@@ -22,7 +22,7 @@ using SV.H.Words;
 [assembly: AssemblyProduct(SVS_Subtitles.SubtitlesPlugin.DisplayName)]
 [assembly: AssemblyVersion(SVS_Subtitles.SubtitlesPlugin.Version)]
 [assembly: AssemblyDescription("Show subtitles in H scenes.")]
-[assembly: AssemblyCompany("ekibun")]
+[assembly: AssemblyCompany("https://github.com/IllusionMods/SVS-Translation")]
 
 namespace SVS_Subtitles;
 
@@ -55,7 +55,7 @@ public class SubtitlesPlugin : BasePlugin
         EnableConfig = Config.Bind("General", "Enable Subtitles", true, "Reload the game to Enable/Disable.");
         LanguageConfig = Config.Bind("General", "Subtitle Language", "auto", "Language of the subtitles.\nThe subtitles are loaded from 'BepInEx/Translation/<this setting>/SVS_Subtitles.json'.\nIf set to 'auto' or empty, AutoTranslator's Destination Language is used.");
 
-        if(!EnableConfig.Value) return;
+        if (!EnableConfig.Value) return;
 
         var languageCode = LanguageConfig.Value.Trim();
         if (languageCode == string.Empty || languageCode == "auto")
@@ -214,38 +214,47 @@ public class SubtitlesPlugin : BasePlugin
         [HarmonyPatch(typeof(BaseWords), nameof(BaseWords.Play))]
         private static void PlayVoice(BaseWords __instance, PlayData data)
         {
-            if (data.Kind == PlayData.VoiceKind.Breath) return;
+            if (data == null || data.Kind == PlayData.VoiceKind.Breath) return;
 
             if (!EnableConfig.Value) return;
 
-            var subtitle = subtitleMap.GetValueSafe(data.Voice?.AssetFile)
+            try
+            {
+                var voiceAssetFile = data.Voice?.AssetFile;
+                var subtitle = subtitleMap.GetValueSafe(voiceAssetFile)
 #if DEBUG
-                           ?? data.Voice?.AssetFile 
+                               ?? voiceAssetFile 
 #endif
-                           ?? "";
-            if (!subtitle.IsNullOrEmpty())
-            {
-                Log.LogDebug($"Play voice({data.Voice?.AssetFile}): {subtitle}");
-
-                var actorName = __instance._actor?.Name;
-                
-                if(TranslationHelper.TryTranslate(actorName, out var actorNameTl))
-                    actorName = actorNameTl;
-
-                var text = $"{actorName} 「{subtitle}」";
-                var playingWord = new SubtitlesCanvas.PlayingWord
+                               ?? "";
+                if (!string.IsNullOrWhiteSpace(subtitle))
                 {
-                    baseWords = __instance,
-                    kind = data.Kind,
-                    text = text
-                };
+                    Log.LogDebug($"Play voice({voiceAssetFile}): {subtitle}");
 
-                SubtitlesCanvas.playingWords.RemoveAll(word => word.baseWords == __instance);
-                SubtitlesCanvas.playingWords.Add(playingWord);
+                    var actorName = __instance._actor?.Name;
+                    if (string.IsNullOrWhiteSpace(actorName))
+                        actorName = "???";
+                    else if (TranslationHelper.TryTranslate(actorName, out var actorNameTl))
+                        actorName = actorNameTl;
+
+                    var text = $"{actorName} 「{subtitle}」";
+                    var playingWord = new SubtitlesCanvas.PlayingWord
+                    {
+                        baseWords = __instance,
+                        kind = data.Kind,
+                        text = text
+                    };
+
+                    SubtitlesCanvas.playingWords.RemoveAll(word => word.baseWords == __instance);
+                    SubtitlesCanvas.playingWords.Add(playingWord);
+                }
+                else
+                {
+                    Log.LogWarning($"Play voice({voiceAssetFile}): Not in subtitleMap!");
+                }
             }
-            else
+            catch (Exception e)
             {
-                Log.LogWarning($"Play voice({data.Voice?.AssetFile}): Not in subtitleMap!");
+                Log.LogError($"{__instance} {data} {e}");
             }
         }
 
