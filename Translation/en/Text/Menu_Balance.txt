@@ -1,0 +1,47 @@
+バランス設定=Balance settings
+
+設定を適用=Apply these settings
+※キャラの状況によって設定の反映に時間差が生じる場合があります=* Depending on the NPC's current situation, there may be a delay before changes to these settings take effect.
+
+〇住人たちの行動=〇 Behavior of NPCs (non-player characters)
+プレイヤー以外の住人同士が接触しなくなる=NPCs do not interact with other NPCs
+住人の会話や行動に周りが反応しなくなる=NPCs do not respond to other's conversations and actions
+
+〇住人たちが取れる行動やコマンドの制限=〇 Restrictions of NPC actions
+「悪い噂」「貶す」禁止=Prohibit "Bad rumor" and "Speak ill of"
+「争奪戦関連」禁止=Prohibit disputes
+「逃走」禁止=Prohibit escaping from the player
+「オネガイゴト関連」禁止=Prohibit "Blackmail"
+「交際を申し込む行為」禁止=Prohibit asking for a relationship 
+「別れを告げる行為」禁止=Prohibit asking to break up
+「スキンシップ関連」禁止=Prohibit skinship-related activities
+「みんなでしよう」禁止=Prohibit "Everyone, let's..."
+「個人でのバイト、運動、勉強、食事」禁止=Prohibit asking to work/exercise/study/eat together
+「エッチに関わる行為」禁止=Prohibit sex-related activities
+
+〇好感度=〇 Favorability
+プレイヤー▶住人の好意系パラメータ増加倍率=Gain rate of Player ▶ NPC friendly parameters
+プレイヤー▶住人の嫌悪系パラメータ増加倍率=Gain rate of Player ▶ NPC hostile parameters
+プレイヤー◀住人の好意系パラメータ増加倍率=Gain rate of NPC ▶ Player friendly parameters
+プレイヤー◀住人の嫌悪系パラメータ増加倍率=Gain rate of NPC ▶ Player hostile parameters
+住人同士の好意系パラメータ増加倍率=Gain rate of NPC ▶ NPC friendly parameters
+住人同士の嫌悪系パラメータ増加倍率=Gain rate of NPC ▶ NPC hostile parameters
+
+〇プレイヤーに対する住人たちの行動=〇 NPC's actions towards the player
+住人から接触してこなくなる=NPCs no longer try to interact with the player
+プレイヤーとの会話や行動に周りが反応しなくなる=Other NPCs no longer react to player's conversations and actions
+
+〇関係性=〇 Relationships
+関係性「浮気者！」を表示しない=Do not display the "Cheater!" relationship
+関係性「この泥棒猫！」を表示しない=Do not display the "Homewrecker!" relationship
+
+〇コマンド、選択肢、時間帯ゲージ=〇 Talk commands and the time limit
+プレイヤーが行う成功率０％以外のコマンドが必ず成功する=Player's commands with success rate above 0% will always succeed
+「話をしよう」や食事、運動などの３択結果が必ず一番いい結果になる=Three-choice questions (let's talk/eat/exercise) will always give the best result
+「オネガイゴト」を常に使用可能にする=Make "Blackmail" always available
+プレイヤーの行動で時間帯ゲージを消費しない=Player's actions do not consume the time gauge
+時間経過で時間帯ゲージを減少させない=Do not advance the time gauge as time passes
+
+〇エッチ関係=〇 Sexual relations
+全員が発情状態になる=Everyone goes into heat
+快感ゲージをドラッグで操作する=Drag the pleasure gauge to change it
