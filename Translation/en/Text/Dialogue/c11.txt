@@ -331,7 +331,7 @@
 「あなたと、今よりももっと仲良くなりたいと思っていますの」=「I want to be closer to you than I am now.」
 「好きな人と過ごす甘い時間は、思い出すだけでもドキドキしてしまいますわ」=「Just remembering the sweet time I spend with the person I love makes my heart race.」
 「交友関係を広げるよりも、今いる友人と仲を深めることの方が大事ではなくて？」=「Isn't it more important to deepen your relationship with your current friends than to expand your friendship?」
-「[NPC_thatPersonName]、最近不穏な噂が流れていますの」=「NPC_thatPersonName], there have been some disturbing rumors recently.」
+「[NPC_thatPersonName]、最近不穏な噂が流れていますの」=「[NPC_thatPersonName], there have been some disturbing rumors recently.」
 「まだ頭がボーッとしている気がしますわ」=「I still feel like my head is in a daze.」
 「私たちとエッチいたしませんか？」=「Would you like to have sex with us?」
 「危険日ですのでお断りしますわ」=「It's a dangerous day, so I refuse.」

@@ -42,7 +42,7 @@
 「おや、どうかしましたかな？」=「Oh, is something the matter?」
 「ぬふふ。わたくしという沼にハマったあなたのことを、一生逃がしたりはしませんぞ……」=「Nufufu. I won't let you escape for the rest of your life, since you've become addicted to the swamp I am...」
 「ぬふふ、それでは夜通し付き合ってもらうとしましょうぞ……♪」=「Nufufu, then I'll have you stay with me all night...♪」
-「[NPC_thatPersonName]がセックスしていましてな……まったくお盛んなことですなぁ」=「NPC_thatPersonName] has been having sex... is a very lively thing.」
+「[NPC_thatPersonName]がセックスしていましてな……まったくお盛んなことですなぁ」=「[NPC_thatPersonName] has been having sex... is a very lively thing.」
 「作品を楽しむための時間は一秒でも惜しい……とはいえ、やはり食事を疎かにしてはダメ……？」=「I don't have even a second to enjoy my work... That said, shouldn't I neglect my food...?」
 「まさかわたくし、高度な煽りを受けている……？」=「Don't tell me I'm being stirred up by something so high-level...?」
 「みなさん、手伝ってはくれませぬか？」=「Would you all be willing to help?」

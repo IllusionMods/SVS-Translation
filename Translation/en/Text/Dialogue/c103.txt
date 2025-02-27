@@ -186,7 +186,7 @@
 「ここなら、邪魔が入る心配なんてないだろ？」=「There's no need to worry about getting in the way here, right?」
 「この感触、さすがのサイズ感だな」=「This sensation really does have a sense of size.」
 「本当か？　ありがとう、本気で嬉しいよ」=「Really? Thank you. I'm really happy.」
-「[NPC_thatPersonName]、所構わずエッチしてるみたいだ」=「NPC_thatPersonName], you seem to be having sex everywhere.」
+「[NPC_thatPersonName]、所構わずエッチしてるみたいだ」=「[NPC_thatPersonName], you seem to be having sex everywhere.」
 「悪いが無理だ」=「Sorry, but I can't.」
 「そうなのか。教えてくれて助かった」=「I see. I'm glad you told me.」
 「いつもより身体が軽いな。もう少しやれそうだ」=「Your body feels lighter than usual. I think I can do a little more.」
@@ -282,7 +282,7 @@
 「俺が負けるなんて、なんの冗談だよ……」=「What kind of joke is it that I'm losing...?」
 「みんな、メシにしないか？」=「Why don't we all eat?」
 「もう見せてるだろ。これ以上どうしろって？」=「I've already shown you. What else do you want me to do?」
-「[NPC_thatPersonName]、お前の事が好きらしいぞ」=「NPC_thatPersonName], I hear he likes you.」
+「[NPC_thatPersonName]、お前の事が好きらしいぞ」=「[NPC_thatPersonName], I hear he likes you.」
 「みんな、[PC_thatPersonName]と仲良くしてやってくれないか？」=「Guys, can you be nice to [PC_thatPersonName]?」
 「……そうか」=「...I see.」
 「よし、時間と日にち、忘れるなよ？」=「Okay, don't forget the time and date, okay?」

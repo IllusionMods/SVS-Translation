@@ -211,7 +211,7 @@
 「あ……そ、そっか……君って、ああいう人が好きなんだ……」=「Ah... I-I see... So you like people like that...」
 「僕の[NPC_onesProperty0_item]と君の[PC_onesProperty0_item]、交換しない？」=「How about we trade my [NPC_onesProperty0_item] for your [PC_onesProperty0_item]?」
 「……集中すると、どうしても無言になるよね」=「...When you concentrate, you can't help but be silent.」
-「[NPC_thatPersonName]、告白されたんだってさ」=「NPC_thatPersonName], he confessed his feelings to me.」
+「[NPC_thatPersonName]、告白されたんだってさ」=「[NPC_thatPersonName], he confessed his feelings to me.」
 「君はさ、恋愛は積極性が大事だと思う？」=「Do you think assertiveness is important in love?」
 「あ、危ない……ギリギリで、帰ってこれたよ……」=「Th-That was close... I just barely made it back...」
 「おっけー」=「Okay―」
@@ -384,7 +384,7 @@
 「ねえ、僕のことをどう思ってるか教えてよ♪」=「Hey, tell me what you think of me♪」
 「[NPC_thatPersonName]……すっごい性欲が強いらしいよ」=「I heard that [NPC_thatPersonName]... has a very high sex drive.」
 「口で僕に勝てるわけないじゃん。なんでわかんないの？」=「There's no way you can beat me with your mouth. Why don't you understand?」
-「[NPC_thatPersonName]、君のことが好きみたいだよ」=「NPC_thatPersonName], I think he likes you.」
+「[NPC_thatPersonName]、君のことが好きみたいだよ」=「[NPC_thatPersonName], I think he likes you.」
 「その……僕、経験ないから、ちょっと怖くて……ごめん」=「Umm... I don't have any experience, so I'm a little scared... Sorry.」
 「僕の変な噂を流したのって、君……？」=「Were you the one who spread those weird rumors about me...?」
 「君はこっちをお願いね？　僕はあっちに……いや、サボろうとなんてしてないって！」=「You take care of this one, okay? I'm not... No, I wasn't trying to slack off!」
