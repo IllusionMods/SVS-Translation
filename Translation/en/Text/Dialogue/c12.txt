@@ -141,7 +141,7 @@
 「うあぁ、あ……ちょ、ちょっとそれは、だめぇ……」=「Uwah, ah... H-Hey, don't do that...」
 「好き、だよ」=「I love you.」
 「特になんもー、全然へーき」=「Nothing in particular. I'm totally fine.」
-「[NPC_thatPersonName]、最近評判がいいみたいだよー」=「NPC_thatPersonName], you seem to be getting a good reputation lately!」
+「[NPC_thatPersonName]、最近評判がいいみたいだよー」=「[NPC_thatPersonName], you seem to be getting a good reputation lately!」
 「ちょっと手伝って欲しいんだけどぉ……いい？」=「I'd like you to help me out a little... Is that okay?」
 「[NPC_thatPersonName]とは、仲良くした方がいいと思うよぉ」=「I think you should get along with [NPC_thatPersonName].」
 「私も好きぃ♪」=「I love you too♪」
@@ -244,7 +244,7 @@
 「いやあ、そこまで言われるほどじゃ……」=「No, you don't have to go that far...」
 「えへへ、いいよー」=「Ehehe, sure.」
 「おしまい、おしまい。もう言いたいこともないでしょ」=「It's over, it's all over. There's nothing left to say.」
-「[NPC]と[NPC2]、どっか行ったみたいだよー」=「NPC] and [NPC2], I think they went somewhere else.」
+「[NPC]と[NPC2]、どっか行ったみたいだよー」=「[NPC] and [NPC2], I think they went somewhere else.」
 「疲れるし、別にしなくていいと思うけどなぁ」=「It's tiring, so I don't think you need to do it.」
 「へへー、知れて良かったでしょ」=「Heheh, it's a good thing you found out.」
 「んー、最低限カロリーが取れればいいと思うよー」=「Hmm, I think it'd be good to get at least some calories.」
@@ -284,7 +284,7 @@
 「えへへぇ……あなたと恋人になれるなんて幸せぇ♪　これからよろしくね」=「Eheheh... I'm so happy to be lovers with you♪ I'll be counting on you from now on.」
 「家事くらいはパパっとできて当たり前だよねー」=「It's only natural that you'd be able to do housework so quickly.」
 「してるの見てたでしょ……私、あなたともしたいなぁ～」=「You saw me doing it, didn't you...? I want to do it with you too~」
-「[NPC_thatPersonName]、あなたのことが好きなんだってー」=「NPC_thatPersonName], he likes you.」
+「[NPC_thatPersonName]、あなたのことが好きなんだってー」=「[NPC_thatPersonName], he likes you.」
 「……私なんか、このまま誰にも相手されないんだ……」=「...No one's going to take me on like this...」
 「アレ、見たいー？」=「You wanna see that?」
 「……なんで、私を選んでくれなかったの？」=「...Why didn't you choose me?」

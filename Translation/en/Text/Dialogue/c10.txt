@@ -265,7 +265,7 @@
 「好き、なんですね……なら私達は、ライバルです……」=「So you like them... Then we're rivals...」
 「……そう言われても、困ります」=「...I don't want you to say that.」
 「私の奥深くに……あなたのが、まだ残っています……ふふっ……」=「Your thing... is still deep inside me... Hehe...」
-「[NPC_thatPersonName]は……あなたのことが、好きみたいです」=「NPC_thatPersonName] seems to like ... you.」
+「[NPC_thatPersonName]は……あなたのことが、好きみたいです」=「[NPC_thatPersonName] seems to like ... you.」
 「経験、あるんですね……」=「You have experience...」
 「……あなたにうんざりしてる人、たくさんいますよ？」=「...There are a lot of people who are fed up with you.」
 「謙遜しなくても……」=「You don't have to be so modest...」
