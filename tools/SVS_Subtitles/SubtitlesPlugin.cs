@@ -1,4 +1,4 @@
-﻿// System
+// System
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -22,7 +22,7 @@ using SV.H.Words;
 [assembly: AssemblyProduct(SVS_Subtitles.SubtitlesPlugin.DisplayName)]
 [assembly: AssemblyVersion(SVS_Subtitles.SubtitlesPlugin.Version)]
 [assembly: AssemblyDescription("Show subtitles in H scenes.")]
-[assembly: AssemblyCompany("https://github.com/IllusionMods/SVS-Translation")]
+[assembly: AssemblyCompany("https://gitgoon.dev/IllusionMods/SVS-Translation")]
 
 namespace SVS_Subtitles;
 
