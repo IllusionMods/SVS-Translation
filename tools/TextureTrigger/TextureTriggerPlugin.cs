@@ -10,7 +10,7 @@ using UnityEngine.UI;
 [assembly: AssemblyProduct(TextureTriggerPlugin.DisplayName)]
 [assembly: AssemblyDescription("Workaround for some images not getting translated by AutoTranslator.")]
 [assembly: AssemblyVersion(TextureTriggerPlugin.Version)]
-[assembly: AssemblyCompany("https://gitgoon.dev/IllusionMods/SVS-Translation")]
+[assembly: AssemblyCompany("https://github.com/IllusionMods/SVS-Translation")]
 
 namespace TextureTrigger
 {
